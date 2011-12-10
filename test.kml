@@ -2,9 +2,228 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
     <Document id="feat_1">
         <Placemark id="feat_2">
-            <name>test2</name>
+            <name>PADDLING THE BAY - CRISSY FIELD
+</name>
             <Point id="geom_0">
-                <coordinates>18.432314,-33.988862,0.0</coordinates>
+                <coordinates>-122.460393
+,37.80507
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>The Lost Sailor
+</name>
+            <Point id="geom_1">
+                <coordinates>-122.479598
+,37.832166
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>100_3393
+</name>
+            <Point id="geom_2">
+                <coordinates>-122.476572
+,37.810868
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>100_3337
+</name>
+            <Point id="geom_3">
+                <coordinates>-122.476572
+,37.810868
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>100_3428
+</name>
+            <Point id="geom_4">
+                <coordinates>-122.476572
+,37.810868
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>100_2930
+</name>
+            <Point id="geom_5">
+                <coordinates>-122.476572
+,37.810868
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>100_2949
+</name>
+            <Point id="geom_6">
+                <coordinates>-122.476572
+,37.810868
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>100_3323
+</name>
+            <Point id="geom_7">
+                <coordinates>-122.476572
+,37.810868
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>100_3350
+</name>
+            <Point id="geom_8">
+                <coordinates>-122.476572
+,37.810868
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>100_3389
+</name>
+            <Point id="geom_9">
+                <coordinates>-122.476572
+,37.810868
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>The Golden Gate
+</name>
+            <Point id="geom_10">
+                <coordinates>-122.476916
+,37.809546
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Golden Gate Tower
+</name>
+            <Point id="geom_11">
+                <coordinates>-122.476916
+,37.809546
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>City by the Bay
+</name>
+            <Point id="geom_12">
+                <coordinates>-122.420051
+,37.779159
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>From the Marin Headlands
+</name>
+            <Point id="geom_13">
+                <coordinates>-122.479598
+,37.832166
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>The Lone Sailor
+</name>
+            <Point id="geom_14">
+                <coordinates>-122.479598
+,37.832166
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Stick in the Mud
+</name>
+            <Point id="geom_15">
+                <coordinates>-122.477624
+,37.809733
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>On the Golden Gate Bridge
+</name>
+            <Point id="geom_16">
+                <coordinates>-122.478675
+,37.820166
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>On the Golden Gate Bridge
+</name>
+            <Point id="geom_17">
+                <coordinates>-122.478675
+,37.820166
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>Suspended
+</name>
+            <Point id="geom_18">
+                <coordinates>-122.422671
+,37.825497
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>San Francisco
+</name>
+            <Point id="geom_19">
+                <coordinates>-122.481846
+,37.827411
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>The Golden Harp
+</name>
+            <Point id="geom_20">
+                <coordinates>-122.481765
+,37.826056
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>
+</name>
+            <Point id="geom_21">
+                <coordinates>-122.478375
+,37.819039
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Golden Gate 2
+</name>
+            <Point id="geom_22">
+                <coordinates>-122.487258
+,37.788895
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>Golden Gate
+</name>
+            <Point id="geom_23">
+                <coordinates>-122.447334
+,37.753334
+,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>Somewhere Out There
+</name>
+            <Point id="geom_24">
+                <coordinates>-122.493324
+,37.8247
+,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
