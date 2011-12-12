@@ -5,6 +5,8 @@ Clusters photos based on the color assigning a relative color for the pin
 from utility import returnColor
 from PIL import Image
 
+COLOR_MAX = 255
+COLOR_MIN = 60
 
 def get_color(color_tuple):
     """
@@ -31,9 +33,7 @@ def append_color_pin(photo):
         
         if assigned_color is not None:
             color_dict[assigned_color] += count
-        
-        
-        x = 10
+            
     return None
     
 def parse_color_clusters(photos):
