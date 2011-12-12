@@ -14,8 +14,7 @@ def parse_geotag_clusters(photos):
     
     photos: The photo dictionary
     
-    """
-       
+    """ 
     clusters = cluster_photos(photos)
     return clusters
 
@@ -26,13 +25,13 @@ def cluster_photos(photos):
     photos: the photo dictionary
     
     """
-    
-    clusters = defaultdict(list)
+     
+    clusters = {}
     
     #iterate photos, clustering by rounding the summation
     for photo in photos:
         rounded_sum = round(photo['coordsum'], DECIMALS)
-        clusters[rounded_sum].append(photo)  
+        clusters[rounded_sum] = photo;
     
     return clusters   
 
