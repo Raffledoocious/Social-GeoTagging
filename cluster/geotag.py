@@ -4,6 +4,7 @@ Geotag clustering - clusters an array of images on geotag information
 
 """
 from collections import defaultdict
+from utility import gen_hex_color
 
 DECIMALS = 2;
 
@@ -27,13 +28,23 @@ def cluster_photos(photos):
     """
      
     clusters = {}
+    used_colors = {}
     
     #iterate photos, clustering by rounding the summation
     for photo in photos:
         rounded_sum = round(photo['coordsum'], DECIMALS)
-        clusters[rounded_sum] = photo;
+        
+        #if not in cluster, create entry and assign it a color
+        if not rounded_sum in clusters:
+            new_color = gen_hex_color(used_colors)
+            used_colors[new_color] = new_color
+            clusters[rounded_sum] = new_color;
+            photo['iconcolor'] = new_color
+        #otherwise, all same clusters get the same color
+        else:
+            photo['iconcolor'] = clusters[rounded_sum]
     
-    return clusters   
+    return photos
 
 # for testing purposes
 if __name__ == "__main__":
