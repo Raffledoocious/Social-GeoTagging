@@ -29,6 +29,7 @@ def cluster_photos(photos):
      
     clusters = {}
     used_colors = {}
+    count = 0
     
     #iterate photos, clustering by rounding the summation
     for photo in photos:
@@ -36,6 +37,7 @@ def cluster_photos(photos):
         
         #if not in cluster, create entry and assign it a color
         if not rounded_sum in clusters:
+            count += 1
             new_color = gen_hex_color(used_colors)
             used_colors[new_color] = new_color
             clusters[rounded_sum] = new_color;
@@ -43,7 +45,7 @@ def cluster_photos(photos):
         #otherwise, all same clusters get the same color
         else:
             photo['iconcolor'] = clusters[rounded_sum]
-    
+    print count
     return photos
 
 # for testing purposes

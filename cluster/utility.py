@@ -7,6 +7,8 @@ Miscellaneous functions for clustering, parsing, image assignment, etc
 import struct
 import random
 
+COLOR_MAX = 255
+
 # according to this we can't color the white icon, need to be separate icons
 # http://groups.google.com/group/kml-support-getting-started/browse_thread/thread/e41698f1fa94cfe0
 def returnColor(color):
@@ -33,9 +35,10 @@ def gen_hex_color(used_colors):
     """
     
     #generate color, keep generating until get one which is not assigned
-    color_tuple = (random.randint(0, 255), random.randint(0,255), random.randint(0,255))
+    color_tuple = (random.randint(0, COLOR_MAX), random.randint(0,COLOR_MAX), random.randint(0,COLOR_MAX))
     while color_tuple in used_colors:
-         color_tuple = (random.randint(0, 255), random.randint(0,255), random.randint(0,255))
+         color_tuple = (random.randint(0, COLOR_MAX), random.randint(0,COLOR_MAX), random.randint(0,COLOR_MAX))
          
+    hex_color = 'ff%02x%02x%02x' % color_tuple
     #pack and return hex string
-    return struct.pack('BBB', *color_tuple).encode('hex')
+    return hex_color
