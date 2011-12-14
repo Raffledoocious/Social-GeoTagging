@@ -19,7 +19,14 @@ def parse_date_clusters(photos):
     for photo in photos:
         #get the datetime and parse out the photo
         photo['time'] = date.today()
-    
+        
+        #if > year old
+        
+        #if < year but > 6mo
+        
+        #if < week
+        
+        
     return photos
 
     
