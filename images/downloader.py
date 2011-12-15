@@ -14,7 +14,7 @@ latlist = [] # store a list of latitudes
 lonlist = [] # store a list of longitudes
 
 #  returns first 25 photo 
-for photo in photos[0][:25]:
+for photo in photos[0][:100]:
     titlelist.append(photo.attrib['title'])
     photoLoc = flickr.photos_geo_getLocation(photo_id=photo.attrib['id'])
     latlist.append(photoLoc[0][0].attrib['latitude'])

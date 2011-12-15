@@ -38,7 +38,7 @@ photos = []
 # photos[0]['title'] is the first photo's title, etc.
 # .rstrip removes the newline characters from strings
 for i in range(len(titlesList)):
-	photos.append({'title':titlesList[i].rstrip('\r\n'), 'lat':latsList[i].rstrip('\r\n'), 'lon':lonsList[i].rstrip('\r\n'), 'coordsum': float(latsList[i]) + float(lonsList[i]), 'flickr':flickrurlsList[i].rstrip('\r\n'), 'file':files[i].rstrip('\r\n'), 'iconcolor':'ffffffff'})
+	photos.append({'title':titlesList[i].rstrip('\r\n'), 'lat':float(latsList[i].rstrip('\r\n')), 'lon':float(lonsList[i].rstrip('\r\n')), 'flickr':flickrurlsList[i].rstrip('\r\n'), 'file':files[i].rstrip('\r\n'), 'iconcolor':'ffffffff'})
 	
 # returns a kml that clusters photos based on proximity
 # photos taken in relatively the same area are colored the same
