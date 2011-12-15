@@ -39,6 +39,8 @@ def gen_hex_color(used_colors):
     while color_tuple in used_colors:
          color_tuple = (random.randint(0, COLOR_MAX), random.randint(0,COLOR_MAX), random.randint(0,COLOR_MAX))
          
+    
     hex_color = 'ff%02x%02x%02x' % color_tuple
+    used_colors[hex_color] = hex_color
     #pack and return hex string
     return hex_color
