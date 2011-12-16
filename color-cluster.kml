@@ -4,7 +4,7 @@
         <Style id="stylesel_100">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff090909</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -15,7 +15,7 @@
         <Style id="stylesel_101">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>fffefefe</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -26,7 +26,7 @@
         <Style id="stylesel_102">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff171c5c</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -37,7 +37,7 @@
         <Style id="stylesel_103">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ffcdd5e0</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -48,7 +48,7 @@
         <Style id="stylesel_104">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff030305</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -59,7 +59,7 @@
         <Style id="stylesel_105">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -70,7 +70,7 @@
         <Style id="stylesel_106">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff0d0301</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -81,7 +81,7 @@
         <Style id="stylesel_107">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ffbecfd7</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -92,7 +92,7 @@
         <Style id="stylesel_108">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -103,7 +103,7 @@
         <Style id="stylesel_109">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff13132f</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -114,7 +114,7 @@
         <Style id="stylesel_110">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ffd6c9b9</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -125,7 +125,7 @@
         <Style id="stylesel_111">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>fff6f0f0</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -136,7 +136,7 @@
         <Style id="stylesel_112">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff07060c</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -147,7 +147,7 @@
         <Style id="stylesel_113">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff161417</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -158,7 +158,7 @@
         <Style id="stylesel_114">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff0d0405</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -169,7 +169,7 @@
         <Style id="stylesel_115">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff110906</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -180,7 +180,7 @@
         <Style id="stylesel_116">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ffd3e1e2</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -191,7 +191,7 @@
         <Style id="stylesel_117">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff5f97c8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -202,7 +202,7 @@
         <Style id="stylesel_118">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ffb6ddee</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -213,7 +213,7 @@
         <Style id="stylesel_119">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff001937</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -224,7 +224,7 @@
         <Style id="stylesel_120">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff5c5d55</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -235,7 +235,7 @@
         <Style id="stylesel_121">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff563522</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -246,7 +246,7 @@
         <Style id="stylesel_122">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff213051</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -257,7 +257,7 @@
         <Style id="stylesel_123">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1d994c</color>
+                <color>ff213051</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -268,7 +268,7 @@
         <Style id="stylesel_124">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ff2c3959</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -279,7 +279,7 @@
         <Style id="stylesel_125">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff2c3b5c</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -290,7 +290,7 @@
         <Style id="stylesel_126">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1d994c</color>
+                <color>ff0d1d36</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -301,7 +301,7 @@
         <Style id="stylesel_127">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1d994c</color>
+                <color>ff31243e</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -312,7 +312,7 @@
         <Style id="stylesel_128">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ff9db2d1</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -323,7 +323,7 @@
         <Style id="stylesel_129">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1d994c</color>
+                <color>ff0e151d</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -334,7 +334,7 @@
         <Style id="stylesel_130">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ff101920</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -345,7 +345,7 @@
         <Style id="stylesel_131">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -356,7 +356,7 @@
         <Style id="stylesel_132">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1d994c</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -367,7 +367,7 @@
         <Style id="stylesel_133">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -378,7 +378,7 @@
         <Style id="stylesel_134">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -389,7 +389,7 @@
         <Style id="stylesel_135">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9d4f4e</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -400,7 +400,7 @@
         <Style id="stylesel_136">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -411,7 +411,7 @@
         <Style id="stylesel_137">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -422,7 +422,7 @@
         <Style id="stylesel_138">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff5b8b82</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -433,7 +433,7 @@
         <Style id="stylesel_139">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9d4f4e</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -444,7 +444,7 @@
         <Style id="stylesel_140">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -455,7 +455,7 @@
         <Style id="stylesel_141">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -466,7 +466,7 @@
         <Style id="stylesel_142">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -477,7 +477,7 @@
         <Style id="stylesel_143">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -488,7 +488,7 @@
         <Style id="stylesel_144">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -499,7 +499,7 @@
         <Style id="stylesel_145">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -510,7 +510,7 @@
         <Style id="stylesel_146">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -521,7 +521,7 @@
         <Style id="stylesel_147">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -532,7 +532,7 @@
         <Style id="stylesel_148">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -543,7 +543,7 @@
         <Style id="stylesel_149">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -554,7 +554,7 @@
         <Style id="stylesel_150">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff000002</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -565,7 +565,7 @@
         <Style id="stylesel_151">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff324780</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -576,7 +576,7 @@
         <Style id="stylesel_152">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1d994c</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -587,7 +587,7 @@
         <Style id="stylesel_153">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1d994c</color>
+                <color>ff6794b3</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -598,7 +598,7 @@
         <Style id="stylesel_154">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -609,7 +609,7 @@
         <Style id="stylesel_155">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -620,7 +620,7 @@
         <Style id="stylesel_156">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -631,7 +631,7 @@
         <Style id="stylesel_157">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff030303</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -642,7 +642,7 @@
         <Style id="stylesel_158">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff020202</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -653,7 +653,7 @@
         <Style id="stylesel_159">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff010101</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -664,7 +664,7 @@
         <Style id="stylesel_160">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff010101</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -675,7 +675,7 @@
         <Style id="stylesel_161">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff010101</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -686,7 +686,7 @@
         <Style id="stylesel_162">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff517a9a</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -697,7 +697,7 @@
         <Style id="stylesel_163">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff425c75</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -708,7 +708,7 @@
         <Style id="stylesel_164">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -719,7 +719,7 @@
         <Style id="stylesel_165">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -730,7 +730,7 @@
         <Style id="stylesel_166">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -741,7 +741,7 @@
         <Style id="stylesel_167">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -752,7 +752,7 @@
         <Style id="stylesel_168">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff051c48</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -763,7 +763,7 @@
         <Style id="stylesel_169">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff4e91c8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -774,7 +774,7 @@
         <Style id="stylesel_170">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -785,7 +785,7 @@
         <Style id="stylesel_171">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff4573a5</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -796,7 +796,7 @@
         <Style id="stylesel_172">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -807,7 +807,7 @@
         <Style id="stylesel_173">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ffd9d9d9</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -818,7 +818,7 @@
         <Style id="stylesel_174">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff42669a</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -829,7 +829,7 @@
         <Style id="stylesel_175">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff4d7ca8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -840,7 +840,7 @@
         <Style id="stylesel_176">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>fffdfdfd</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -851,7 +851,7 @@
         <Style id="stylesel_177">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb17ada</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -862,7 +862,7 @@
         <Style id="stylesel_178">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ffa9c4e1</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -873,7 +873,7 @@
         <Style id="stylesel_179">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -884,7 +884,7 @@
         <Style id="stylesel_180">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -895,7 +895,7 @@
         <Style id="stylesel_181">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff91b8d7</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -906,7 +906,7 @@
         <Style id="stylesel_182">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>fffefff9</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -917,7 +917,7 @@
         <Style id="stylesel_183">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ffa6c1d6</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -928,7 +928,7 @@
         <Style id="stylesel_184">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff020202</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -939,7 +939,7 @@
         <Style id="stylesel_185">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff848484</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -950,7 +950,7 @@
         <Style id="stylesel_186">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>fffdfcf7</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -961,7 +961,7 @@
         <Style id="stylesel_187">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff242e51</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -972,7 +972,7 @@
         <Style id="stylesel_188">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff000113</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -983,7 +983,7 @@
         <Style id="stylesel_189">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>fff8f6f9</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -994,7 +994,7 @@
         <Style id="stylesel_190">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4f9ffe</color>
+                <color>ff00080a</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1005,7 +1005,7 @@
         <Style id="stylesel_191">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>fff6f6f8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1016,7 +1016,7 @@
         <Style id="stylesel_192">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>fff4f5f0</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1027,7 +1027,7 @@
         <Style id="stylesel_193">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff7f92a0</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1038,7 +1038,7 @@
         <Style id="stylesel_194">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1049,7 +1049,7 @@
         <Style id="stylesel_195">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ffc9defd</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1060,7 +1060,7 @@
         <Style id="stylesel_196">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1071,7 +1071,7 @@
         <Style id="stylesel_197">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9a2b1f</color>
+                <color>ff7f75b1</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1082,7 +1082,7 @@
         <Style id="stylesel_198">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff9b9c8e</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1093,7 +1093,7 @@
         <Style id="stylesel_199">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff6e99b9</color>
+                <color>ff3c0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1102,703 +1102,703 @@
             </IconStyle>
         </Style>
         <Placemark id="feat_103">
-            <name>Pink Moon, Golden Gate - Lunar Eclipse 2011</name>
+            <name>Golden Gate Sunset</name>
             <styleUrl>#stylesel_100</styleUrl>
             <Point id="geom_100">
-                <coordinates>-122.454825,37.806206,0.0</coordinates>
+                <coordinates>-122.508544,37.853169,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_104">
-            <name>Jennifer and Tanya at the Golden Gate</name>
+            <name>Solarized Golden Gate</name>
             <styleUrl>#stylesel_101</styleUrl>
             <Point id="geom_101">
-                <coordinates>-122.479684,37.8327,0.0</coordinates>
+                <coordinates>-122.471603,37.804838,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_105">
-            <name>SF at Dusk</name>
+            <name>Pink Moon, Golden Gate - Lunar Eclipse 2011</name>
             <styleUrl>#stylesel_102</styleUrl>
             <Point id="geom_102">
-                <coordinates>-122.479684,37.8327,0.0</coordinates>
+                <coordinates>-122.454825,37.806206,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_106">
-            <name>The Golden Gate</name>
+            <name>Jennifer and Tanya at the Golden Gate</name>
             <styleUrl>#stylesel_103</styleUrl>
             <Point id="geom_103">
                 <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_107">
-            <name>Lost in the Fog</name>
+            <name>SF at Dusk</name>
             <styleUrl>#stylesel_104</styleUrl>
             <Point id="geom_104">
-                <coordinates>-122.473762,37.80886,0.0</coordinates>
+                <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_108">
-            <name>Golden Gate Bridge</name>
+            <name>The Golden Gate</name>
             <styleUrl>#stylesel_105</styleUrl>
             <Point id="geom_105">
-                <coordinates>-122.47816,37.809241,0.0</coordinates>
+                <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_109">
-            <name>Lunar Eclipse Over Golden Gate</name>
+            <name>By The Pier</name>
             <styleUrl>#stylesel_106</styleUrl>
             <Point id="geom_106">
-                <coordinates>-122.470498,37.808756,0.0</coordinates>
+                <coordinates>-122.439537,37.805579,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_110">
-            <name>Lunar Eclipse behind South Tower</name>
+            <name>Lost in the Fog</name>
             <styleUrl>#stylesel_107</styleUrl>
             <Point id="geom_107">
-                <coordinates>-122.454257,37.806367,0.0</coordinates>
+                <coordinates>-122.473762,37.80886,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_111">
-            <name>Distorsioni californiane</name>
+            <name>Golden Gate Bridge</name>
             <styleUrl>#stylesel_108</styleUrl>
             <Point id="geom_108">
-                <coordinates>-122.477645,37.818191,0.0</coordinates>
+                <coordinates>-122.47816,37.809241,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_112">
-            <name>Seelöwen am Pier 39</name>
+            <name>IMAG0017</name>
             <styleUrl>#stylesel_109</styleUrl>
             <Point id="geom_109">
-                <coordinates>-122.410783,37.810292,0.0</coordinates>
+                <coordinates>-122.479727,37.832513,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_113">
-            <name>empty cable cars</name>
+            <name>The girl in the black blazer</name>
             <styleUrl>#stylesel_110</styleUrl>
             <Point id="geom_110">
-                <coordinates>-122.418851,37.797475,0.0</coordinates>
+                <coordinates>-122.453727,37.803816,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_114">
-            <name>Fisherman's Wharf - Hafen</name>
+            <name>Lunar Eclipse Over Golden Gate</name>
             <styleUrl>#stylesel_111</styleUrl>
             <Point id="geom_111">
-                <coordinates>-122.407608,37.807376,0.0</coordinates>
+                <coordinates>-122.470498,37.808756,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_115">
-            <name>Pier 39 sign</name>
+            <name>Lunar Eclipse behind South Tower</name>
             <styleUrl>#stylesel_112</styleUrl>
             <Point id="geom_112">
-                <coordinates>-122.409925,37.809173,0.0</coordinates>
+                <coordinates>-122.454257,37.806367,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_116">
-            <name>Harbor at Fisherman's Wharf</name>
+            <name>Distorsioni californiane</name>
             <styleUrl>#stylesel_113</styleUrl>
             <Point id="geom_113">
-                <coordinates>-122.411899,37.809038,0.0</coordinates>
+                <coordinates>-122.477645,37.818191,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_117">
-            <name>Cable Car</name>
+            <name>Seelöwen am Pier 39</name>
             <styleUrl>#stylesel_114</styleUrl>
             <Point id="geom_114">
-                <coordinates>-122.419195,37.802053,0.0</coordinates>
+                <coordinates>-122.410783,37.810292,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_118">
-            <name>Seagull at the harbor</name>
+            <name>empty cable cars</name>
             <styleUrl>#stylesel_115</styleUrl>
             <Point id="geom_115">
-                <coordinates>-122.41044,37.81019,0.0</coordinates>
+                <coordinates>-122.418851,37.797475,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_119">
-            <name>Alcatraz</name>
+            <name>Sundown over the ocean</name>
             <styleUrl>#stylesel_116</styleUrl>
             <Point id="geom_116">
-                <coordinates>-122.420911,37.825988,0.0</coordinates>
+                <coordinates>-122.495412,37.822938,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_120">
-            <name>harbor at Golden Gate Bridge</name>
+            <name>Fisherman's Wharf - Hafen</name>
             <styleUrl>#stylesel_117</styleUrl>
             <Point id="geom_117">
-                <coordinates>-122.479362,37.831886,0.0</coordinates>
+                <coordinates>-122.407608,37.807376,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_121">
-            <name>Golden Gate Bridge</name>
+            <name>Pier 39 sign</name>
             <styleUrl>#stylesel_118</styleUrl>
             <Point id="geom_118">
-                <coordinates>-122.486228,37.826429,0.0</coordinates>
+                <coordinates>-122.409925,37.809173,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_122">
-            <name>Golden Gate Bridge</name>
+            <name>Harbor at Fisherman's Wharf</name>
             <styleUrl>#stylesel_119</styleUrl>
             <Point id="geom_119">
-                <coordinates>-122.475328,37.808597,0.0</coordinates>
+                <coordinates>-122.411899,37.809038,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_123">
-            <name>Golden Gate Bridge at night</name>
+            <name>Cable Car</name>
             <styleUrl>#stylesel_120</styleUrl>
             <Point id="geom_120">
-                <coordinates>-122.4864,37.827039,0.0</coordinates>
+                <coordinates>-122.419195,37.802053,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_124">
-            <name>Blick vom Pier39 zur Alcatraz-Insel</name>
+            <name>Seagull at the harbor</name>
             <styleUrl>#stylesel_121</styleUrl>
             <Point id="geom_121">
-                <coordinates>-122.410526,37.81097,0.0</coordinates>
+                <coordinates>-122.41044,37.81019,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_125">
-            <name>China Town entry</name>
+            <name>Alcatraz</name>
             <styleUrl>#stylesel_122</styleUrl>
             <Point id="geom_122">
-                <coordinates>-122.407994,37.796898,0.0</coordinates>
+                <coordinates>-122.420911,37.825988,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_126">
-            <name>Sonnenuntergang über San Francisco</name>
+            <name>harbor at Golden Gate Bridge</name>
             <styleUrl>#stylesel_123</styleUrl>
             <Point id="geom_123">
-                <coordinates>-122.4449,37.75299,0.0</coordinates>
+                <coordinates>-122.479362,37.831886,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_127">
-            <name>Blick vom Meer nach San Francisco</name>
+            <name>Golden Gate Bridge</name>
             <styleUrl>#stylesel_124</styleUrl>
             <Point id="geom_124">
-                <coordinates>-122.407007,37.818903,0.0</coordinates>
+                <coordinates>-122.486228,37.826429,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_128">
-            <name>China Town</name>
+            <name>Golden Gate Bridge</name>
             <styleUrl>#stylesel_125</styleUrl>
             <Point id="geom_125">
-                <coordinates>-122.407779,37.796729,0.0</coordinates>
+                <coordinates>-122.475328,37.808597,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_129">
-            <name>Golden Gate Bridge in der nebligen Dämmerung</name>
+            <name>Golden Gate Bridge at night</name>
             <styleUrl>#stylesel_126</styleUrl>
             <Point id="geom_126">
-                <coordinates>-122.44769,37.750018,0.0</coordinates>
+                <coordinates>-122.4864,37.827039,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_130">
-            <name>foggy sunset</name>
+            <name>Blick vom Pier39 zur Alcatraz-Insel</name>
             <styleUrl>#stylesel_127</styleUrl>
             <Point id="geom_127">
-                <coordinates>-122.448291,37.750527,0.0</coordinates>
+                <coordinates>-122.410526,37.81097,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_131">
-            <name>Alcatraz</name>
+            <name>China Town entry</name>
             <styleUrl>#stylesel_128</styleUrl>
             <Point id="geom_128">
-                <coordinates>-122.424259,37.827243,0.0</coordinates>
+                <coordinates>-122.407994,37.796898,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_132">
-            <name>Sunset</name>
+            <name>Sonnenuntergang über San Francisco</name>
             <styleUrl>#stylesel_129</styleUrl>
             <Point id="geom_129">
-                <coordinates>-122.448034,37.750527,0.0</coordinates>
+                <coordinates>-122.4449,37.75299,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_133">
-            <name>Alcatraz overview</name>
+            <name>Blick vom Meer nach San Francisco</name>
             <styleUrl>#stylesel_130</styleUrl>
             <Point id="geom_130">
-                <coordinates>-122.418937,37.825243,0.0</coordinates>
+                <coordinates>-122.407007,37.818903,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_134">
-            <name>Alcatraz</name>
+            <name>China Town</name>
             <styleUrl>#stylesel_131</styleUrl>
             <Point id="geom_131">
-                <coordinates>-122.424602,37.827446,0.0</coordinates>
+                <coordinates>-122.407779,37.796729,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_135">
-            <name>San Francisco at night</name>
+            <name>Golden Gate Bridge in der nebligen Dämmerung</name>
             <styleUrl>#stylesel_132</styleUrl>
             <Point id="geom_132">
-                <coordinates>-122.448377,37.75124,0.0</coordinates>
+                <coordinates>-122.44769,37.750018,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_136">
-            <name>Alcatraz und die Ein-Mann-Zelle</name>
+            <name>foggy sunset</name>
             <styleUrl>#stylesel_133</styleUrl>
             <Point id="geom_133">
-                <coordinates>-122.424173,37.827751,0.0</coordinates>
+                <coordinates>-122.448291,37.750527,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_137">
-            <name>Golden Gate Bridge von weitem</name>
+            <name>Alcatraz</name>
             <styleUrl>#stylesel_134</styleUrl>
             <Point id="geom_134">
-                <coordinates>-122.423744,37.826632,0.0</coordinates>
+                <coordinates>-122.424259,37.827243,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_138">
-            <name>Alamo Square</name>
+            <name>Sunset</name>
             <styleUrl>#stylesel_135</styleUrl>
             <Point id="geom_135">
-                <coordinates>-122.434902,37.776549,0.0</coordinates>
+                <coordinates>-122.448034,37.750527,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_139">
-            <name>Alcatraz - Aussichtsturm</name>
+            <name>Alcatraz overview</name>
             <styleUrl>#stylesel_136</styleUrl>
             <Point id="geom_136">
-                <coordinates>-122.422714,37.827039,0.0</coordinates>
+                <coordinates>-122.418937,37.825243,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_140">
-            <name>Harbor</name>
+            <name>Alcatraz</name>
             <styleUrl>#stylesel_137</styleUrl>
             <Point id="geom_137">
-                <coordinates>-122.400827,37.80507,0.0</coordinates>
+                <coordinates>-122.424602,37.827446,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_141">
-            <name>Blick von Alcatraz zum Festland</name>
+            <name>San Francisco at night</name>
             <styleUrl>#stylesel_138</styleUrl>
             <Point id="geom_138">
-                <coordinates>-122.421941,37.824971,0.0</coordinates>
+                <coordinates>-122.448377,37.75124,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_142">
-            <name>Alamo Square</name>
+            <name>Alcatraz und die Ein-Mann-Zelle</name>
             <styleUrl>#stylesel_139</styleUrl>
             <Point id="geom_139">
-                <coordinates>-122.433967,37.776218,0.0</coordinates>
+                <coordinates>-122.424173,37.827751,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_143">
-            <name>Temptation</name>
+            <name>Golden Gate Bridge von weitem</name>
             <styleUrl>#stylesel_140</styleUrl>
             <Point id="geom_140">
-                <coordinates>-122.476834,37.810666,0.0</coordinates>
+                <coordinates>-122.423744,37.826632,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_144">
-            <name>Under the Cherry Moon</name>
+            <name>Alamo Square</name>
             <styleUrl>#stylesel_141</styleUrl>
             <Point id="geom_141">
-                <coordinates>-122.451961,37.80613,0.0</coordinates>
+                <coordinates>-122.434902,37.776549,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_145">
-            <name>San Francisco - Pic 11</name>
+            <name>Alcatraz - Aussichtsturm</name>
             <styleUrl>#stylesel_142</styleUrl>
             <Point id="geom_142">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
+                <coordinates>-122.422714,37.827039,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_146">
-            <name>San Francisco - Pic 09</name>
+            <name>Harbor</name>
             <styleUrl>#stylesel_143</styleUrl>
             <Point id="geom_143">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
+                <coordinates>-122.400827,37.80507,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_147">
-            <name>San Francisco - Pic 15</name>
+            <name>Blick von Alcatraz zum Festland</name>
             <styleUrl>#stylesel_144</styleUrl>
             <Point id="geom_144">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
+                <coordinates>-122.421941,37.824971,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_148">
-            <name>San Francisco - Pic 08</name>
+            <name>China Town</name>
             <styleUrl>#stylesel_145</styleUrl>
             <Point id="geom_145">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
+                <coordinates>-122.407736,37.79661,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_149">
-            <name>San Francisco - Pic 03</name>
+            <name>Alcatraz - Ausblick</name>
             <styleUrl>#stylesel_146</styleUrl>
             <Point id="geom_146">
-                <coordinates>-122.481851,37.828565,0.0</coordinates>
+                <coordinates>-122.424259,37.82748,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_150">
-            <name>San Francisco - Pic 02</name>
+            <name>Alamo Square</name>
             <styleUrl>#stylesel_147</styleUrl>
             <Point id="geom_147">
-                <coordinates>-122.481851,37.828565,0.0</coordinates>
+                <coordinates>-122.433967,37.776218,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_151">
-            <name>San Francisco - Pic 10</name>
+            <name>Temptation</name>
             <styleUrl>#stylesel_148</styleUrl>
             <Point id="geom_148">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
+                <coordinates>-122.476834,37.810666,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_152">
-            <name>San Francisco - Pic 07</name>
+            <name>Under the Cherry Moon</name>
             <styleUrl>#stylesel_149</styleUrl>
             <Point id="geom_149">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
+                <coordinates>-122.451961,37.80613,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_153">
-            <name>San Francisco - Pic 12</name>
+            <name>San Francisco - Pic 11</name>
             <styleUrl>#stylesel_150</styleUrl>
             <Point id="geom_150">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_154">
-            <name>San Francisco - Pic 05</name>
+            <name>San Francisco - Pic 09</name>
             <styleUrl>#stylesel_151</styleUrl>
             <Point id="geom_151">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_155">
-            <name>San Francisco - Pic 17</name>
+            <name>San Francisco - Pic 15</name>
             <styleUrl>#stylesel_152</styleUrl>
             <Point id="geom_152">
-                <coordinates>-122.446939,37.754633,0.0</coordinates>
+                <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_156">
-            <name>San Francisco - Pic 18</name>
+            <name>San Francisco - Pic 08</name>
             <styleUrl>#stylesel_153</styleUrl>
             <Point id="geom_153">
-                <coordinates>-122.446939,37.754633,0.0</coordinates>
+                <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_157">
-            <name>San Francisco - Pic 04</name>
+            <name>San Francisco - Pic 03</name>
             <styleUrl>#stylesel_154</styleUrl>
             <Point id="geom_154">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
+                <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_158">
-            <name>San Francisco - Pic 14</name>
+            <name>San Francisco - Pic 02</name>
             <styleUrl>#stylesel_155</styleUrl>
             <Point id="geom_155">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
+                <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_159">
-            <name>San Francisco - Pic 13</name>
+            <name>San Francisco - Pic 10</name>
             <styleUrl>#stylesel_156</styleUrl>
             <Point id="geom_156">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_160">
-            <name>San Francisco - Pic 16</name>
+            <name>San Francisco - Pic 07</name>
             <styleUrl>#stylesel_157</styleUrl>
             <Point id="geom_157">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_161">
-            <name>San Francisco - Pic 06</name>
+            <name>San Francisco - Pic 12</name>
             <styleUrl>#stylesel_158</styleUrl>
             <Point id="geom_158">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_162">
-            <name>Golden Gate</name>
+            <name>San Francisco - Pic 05</name>
             <styleUrl>#stylesel_159</styleUrl>
             <Point id="geom_159">
-                <coordinates>-122.47653,37.810733,0.0</coordinates>
+                <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_163">
-            <name>Golden Gate</name>
+            <name>San Francisco - Pic 17</name>
             <styleUrl>#stylesel_160</styleUrl>
             <Point id="geom_160">
-                <coordinates>-122.473847,37.807529,0.0</coordinates>
+                <coordinates>-122.446939,37.754633,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_164">
-            <name>Golden Gate Bridge</name>
+            <name>San Francisco - Pic 18</name>
             <styleUrl>#stylesel_161</styleUrl>
             <Point id="geom_161">
-                <coordinates>-122.37187,37.816073,0.0</coordinates>
+                <coordinates>-122.446939,37.754633,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_165">
-            <name>Lunar Eclipse Night</name>
+            <name>San Francisco - Pic 04</name>
             <styleUrl>#stylesel_162</styleUrl>
             <Point id="geom_162">
-                <coordinates>-122.449858,37.806274,0.0</coordinates>
+                <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_166">
-            <name>Lunar Eclipse</name>
+            <name>San Francisco - Pic 14</name>
             <styleUrl>#stylesel_163</styleUrl>
             <Point id="geom_163">
-                <coordinates>-122.455061,37.806062,0.0</coordinates>
+                <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_167">
-            <name>Lunar Eclipse Night 12-10-2011</name>
+            <name>San Francisco - Pic 01</name>
             <styleUrl>#stylesel_164</styleUrl>
             <Point id="geom_164">
-                <coordinates>-122.447991,37.806872,0.0</coordinates>
+                <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_168">
-            <name>Its almost there</name>
+            <name>San Francisco - Pic 13</name>
             <styleUrl>#stylesel_165</styleUrl>
             <Point id="geom_165">
-                <coordinates>-122.454782,37.806092,0.0</coordinates>
+                <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_169">
-            <name>Golden Gate Bridge at Night</name>
+            <name>San Francisco - Pic 16</name>
             <styleUrl>#stylesel_166</styleUrl>
             <Point id="geom_166">
-                <coordinates>-122.450351,37.806189,0.0</coordinates>
+                <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_170">
-            <name>Getting Closer</name>
+            <name>San Francisco - Pic 06</name>
             <styleUrl>#stylesel_167</styleUrl>
             <Point id="geom_167">
-                <coordinates>-122.455372,37.805948,0.0</coordinates>
+                <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_171">
-            <name>San Francisco</name>
+            <name>nw-1-12</name>
             <styleUrl>#stylesel_168</styleUrl>
             <Point id="geom_168">
-                <coordinates>-122.478453,37.819721,0.0</coordinates>
+                <coordinates>-122.438431,37.799611,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_172">
-            <name>San Francisco</name>
+            <name>Golden Gate</name>
             <styleUrl>#stylesel_169</styleUrl>
             <Point id="geom_169">
-                <coordinates>-122.47998,37.83229,0.0</coordinates>
+                <coordinates>-122.47653,37.810733,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_173">
-            <name>San Francisco</name>
+            <name>Golden Gate</name>
             <styleUrl>#stylesel_170</styleUrl>
             <Point id="geom_170">
-                <coordinates>-122.47937,37.83243,0.0</coordinates>
+                <coordinates>-122.473847,37.807529,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_174">
-            <name>San Francisco</name>
+            <name>Above San Francisco and the Golden Gate Bridge, California</name>
             <styleUrl>#stylesel_171</styleUrl>
             <Point id="geom_171">
-                <coordinates>-122.497753,37.828058,0.0</coordinates>
+                <coordinates>-122.492637,37.796763,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_175">
-            <name>San Francisco</name>
+            <name>Golden Gate Bridge</name>
             <styleUrl>#stylesel_172</styleUrl>
             <Point id="geom_172">
-                <coordinates>-122.477661,37.831898,0.0</coordinates>
+                <coordinates>-122.37187,37.816073,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_176">
-            <name>San Francisco</name>
+            <name>Lunar Eclipse Night</name>
             <styleUrl>#stylesel_173</styleUrl>
             <Point id="geom_173">
-                <coordinates>-122.47998,37.83229,0.0</coordinates>
+                <coordinates>-122.449858,37.806274,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_177">
-            <name>San Francisco</name>
+            <name>Lunar Eclipse</name>
             <styleUrl>#stylesel_174</styleUrl>
             <Point id="geom_174">
-                <coordinates>-122.47998,37.83229,0.0</coordinates>
+                <coordinates>-122.455061,37.806062,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_178">
-            <name>San Francisco</name>
+            <name>Lunar Eclipse Night 12-10-2011</name>
             <styleUrl>#stylesel_175</styleUrl>
             <Point id="geom_175">
-                <coordinates>-122.47998,37.83229,0.0</coordinates>
+                <coordinates>-122.447991,37.806872,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_179">
-            <name>San Francisco</name>
+            <name>Its almost there</name>
             <styleUrl>#stylesel_176</styleUrl>
             <Point id="geom_176">
-                <coordinates>-122.480008,37.833051,0.0</coordinates>
+                <coordinates>-122.454782,37.806092,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_180">
-            <name>San Francisco</name>
+            <name>Golden Gate Bridge at Night</name>
             <styleUrl>#stylesel_177</styleUrl>
             <Point id="geom_177">
-                <coordinates>-122.47997,37.83225,0.0</coordinates>
+                <coordinates>-122.450351,37.806189,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_181">
-            <name>Blood Moon</name>
+            <name>Getting Closer</name>
             <styleUrl>#stylesel_178</styleUrl>
             <Point id="geom_178">
-                <coordinates>-122.470403,37.808763,0.0</coordinates>
+                <coordinates>-122.455372,37.805948,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_182">
-            <name>Fade to Black -- Total Lunar Eclipse collage</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_179</styleUrl>
             <Point id="geom_179">
-                <coordinates>-122.477978,37.814666,0.0</coordinates>
+                <coordinates>-122.478453,37.819721,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_183">
-            <name>Light Worms.</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_180</styleUrl>
             <Point id="geom_180">
-                <coordinates>-122.477366,37.80474,0.0</coordinates>
+                <coordinates>-122.477762,37.805674,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_184">
-            <name>Golden Glow Bridge</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_181</styleUrl>
             <Point id="geom_181">
-                <coordinates>-122.472753,37.808995,0.0</coordinates>
+                <coordinates>-122.47998,37.83229,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_185">
-            <name>f/8 and being there...</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_182</styleUrl>
             <Point id="geom_182">
-                <coordinates>-122.477409,37.804511,0.0</coordinates>
+                <coordinates>-122.47937,37.83243,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_186">
-            <name>Cable Car from Alcatraz</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_183</styleUrl>
             <Point id="geom_183">
-                <coordinates>-122.419581,37.801883,0.0</coordinates>
+                <coordinates>-122.497753,37.828058,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_187">
-            <name>Lunar Eclipse and Golden Gate Bridge</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_184</styleUrl>
             <Point id="geom_184">
-                <coordinates>-122.470076,37.809313,0.0</coordinates>
+                <coordinates>-122.477661,37.831898,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_188">
-            <name>The Not Too Distant Past</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_185</styleUrl>
             <Point id="geom_185">
-                <coordinates>-122.475963,37.807669,0.0</coordinates>
+                <coordinates>-122.47998,37.83229,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_189">
-            <name>Not Quite Sunrise - Chrissy Field</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_186</styleUrl>
             <Point id="geom_186">
-                <coordinates>-122.46358,37.803087,0.0</coordinates>
+                <coordinates>-122.47998,37.83229,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_190">
-            <name>Lunar Eclipse - just before Sunrise</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_187</styleUrl>
             <Point id="geom_187">
-                <coordinates>-122.4535,37.805666,0.0</coordinates>
+                <coordinates>-122.47998,37.83229,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_191">
-            <name>Lunar Eclipse</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_188</styleUrl>
             <Point id="geom_188">
-                <coordinates>-122.453,37.806333,0.0</coordinates>
+                <coordinates>-122.480008,37.833051,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_192">
-            <name>Golden Gate &amp; Lunar Eclipse</name>
+            <name>San Francisco</name>
             <styleUrl>#stylesel_189</styleUrl>
             <Point id="geom_189">
-                <coordinates>-122.454554,37.806283,0.0</coordinates>
+                <coordinates>-122.47997,37.83225,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_193">
-            <name>Lunar Eclipse over the Golden Gate Bridge at Dawn</name>
+            <name>Blood Moon</name>
             <styleUrl>#stylesel_190</styleUrl>
             <Point id="geom_190">
-                <coordinates>-122.406202,37.802949,0.0</coordinates>
+                <coordinates>-122.470403,37.808763,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_194">
-            <name>lunar eclipse over the golden gate bridge</name>
+            <name>Fade to Black -- Total Lunar Eclipse collage</name>
             <styleUrl>#stylesel_191</styleUrl>
             <Point id="geom_191">
-                <coordinates>-122.456783,37.803952,0.0</coordinates>
+                <coordinates>-122.477978,37.814666,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_195">
-            <name>Lunar Eclipse 12/10/2011</name>
+            <name>Golden Gate Bridge</name>
             <styleUrl>#stylesel_192</styleUrl>
             <Point id="geom_192">
-                <coordinates>-122.454554,37.806283,0.0</coordinates>
+                <coordinates>-122.526276,37.826491,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_196">
-            <name>Partial Lunar Eclipse</name>
+            <name>Light Worms.</name>
             <styleUrl>#stylesel_193</styleUrl>
             <Point id="geom_193">
-                <coordinates>-122.471991,37.808893,0.0</coordinates>
+                <coordinates>-122.477366,37.80474,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_197">
-            <name>Total Lunar Eclipse - 1</name>
+            <name>Golden Glow Bridge</name>
             <styleUrl>#stylesel_194</styleUrl>
             <Point id="geom_194">
-                <coordinates>-122.455211,37.805977,0.0</coordinates>
+                <coordinates>-122.472753,37.808995,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_198">
-            <name>Total Lunar Eclipse - 1</name>
+            <name>f/8 and being there...</name>
             <styleUrl>#stylesel_195</styleUrl>
             <Point id="geom_195">
-                <coordinates>-122.455211,37.805977,0.0</coordinates>
+                <coordinates>-122.477409,37.804511,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_199">
-            <name>Mooooon</name>
+            <name>Cable Car from Alcatraz</name>
             <styleUrl>#stylesel_196</styleUrl>
             <Point id="geom_196">
-                <coordinates>-122.457604,37.805545,0.0</coordinates>
+                <coordinates>-122.419581,37.801883,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_200">
-            <name>R.D. Riccoboni Piece of the Golden Gate Bridge Inspired By My Photograph</name>
+            <name>Lunar Eclipse and Golden Gate Bridge</name>
             <styleUrl>#stylesel_197</styleUrl>
             <Point id="geom_197">
-                <coordinates>-122.4755,37.801849,0.0</coordinates>
+                <coordinates>-122.470076,37.809313,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_201">
-            <name>Total Lunar Eclipse over the Golden Gate Bridge</name>
+            <name>Under the Golden Gate Bridge</name>
             <styleUrl>#stylesel_198</styleUrl>
             <Point id="geom_198">
-                <coordinates>-122.453422,37.805301,0.0</coordinates>
+                <coordinates>-122.47713,37.810686,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_202">
-            <name>Golden Gate Bridge at Sunrise</name>
+            <name>The Not Too Distant Past</name>
             <styleUrl>#stylesel_199</styleUrl>
             <Point id="geom_199">
-                <coordinates>-122.450566,37.806291,0.0</coordinates>
+                <coordinates>-122.475963,37.807669,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

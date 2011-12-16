@@ -25,6 +25,15 @@ def returnColor(color):
     else:
         return 'http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png'
 
+def rgb_to_hex(rgb_tuple):
+    """
+    
+    Converts an rgb tuple to hex string
+    
+    """
+    hex_color = 'ff%02x%02x%02x' % rgb_tuple
+    return hex_color
+
 def gen_hex_color(used_colors):
     """
     
@@ -40,7 +49,8 @@ def gen_hex_color(used_colors):
          color_tuple = (random.randint(0, COLOR_MAX), random.randint(0,COLOR_MAX), random.randint(0,COLOR_MAX))
          
     
-    hex_color = 'ff%02x%02x%02x' % color_tuple
+    hex_color = rgb_to_hex(color_tuple)
     used_colors[hex_color] = hex_color
     #pack and return hex string
     return hex_color
+

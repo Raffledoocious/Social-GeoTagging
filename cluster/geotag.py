@@ -16,7 +16,7 @@ MAX_ITERATIONS = 500
 
 def get_centroids(photos):
     """
-    gets the centroids used in K-means computation
+    Gets the centroids used in K-means computation
     """
     
     max_int = len(photos) - 1
@@ -140,24 +140,6 @@ def cluster_photos(photos):
     centroids = get_centroids(photos)
     k_means(photos, centroids)
     
-    #dumb implementation    
-    """
-    #iterate photos, clustering by rounding the summation
-    for photo in photos:
-        rounded_sum = round(photo['coordsum'], DECIMALS)
-        
-        #if not in cluster, create entry and assign it a color
-        if not rounded_sum in clusters:
-            count += 1
-            new_color = gen_hex_color(used_colors)
-            used_colors[new_color] = new_color
-            clusters[rounded_sum] = new_color;
-            photo['iconcolor'] = new_color
-        #otherwise, all same clusters get the same color
-        else:
-            photo['iconcolor'] = clusters[rounded_sum]
-    print count
-    """
     return photos
 
 def parse_geotag_clusters(photos):

@@ -7,6 +7,9 @@ out clusters based on passed in parameters
 
 #import the various cluster scripts
 from cluster.geotag import parse_geotag_clusters
+from cluster.color import parse_color_clusters
+from cluster.date import parse_date_clusters
+from cluster.tag import parse_tag_clusters
 
 
 def parse_clusters(args, photos):
@@ -21,18 +24,19 @@ def parse_clusters(args, photos):
     
     #here will have information to determine what kind of clusters are returned
     #for now just parses out geoTag information
-    
     clusters = []
     
-    clusters = parse_geotag_clusters(photos)
+    if args is 'geotag':
+        clusters = parse_geotag_clusters(photos)
+    elif args is 'color':
+        clusters = parse_color_clusters(photos)
+    elif args is'tag':
+        clusters = parse_tag_clusters(photos)
+    else:
+        clusters = parse_date_clusters(photos)
     
     return clusters
     
-    
-    
-    
-
-
 if __name__ == "__main__":
     """
     for testing purposes

@@ -2,45 +2,82 @@
 Clusters photos based on the color assigning a relative color for the pin
 
 """
-from utility import returnColor
+import utility
 from PIL import Image
+import math
 
-COLOR_MAX = 255
-COLOR_MIN = 60
-
-def get_color(color_tuple):
+def average_color(photo):
+    """
+    Gets the average color within a photo
     """
     
-    Takes a color tuple and converts it to a string array
+    i = Image.open(photo['file'])
+    colors = i.getcolors(1024*1024)
     
+    r = 0
+    g = 0
+    b = 0
+    
+    r_count = 0
+    g_count = 0
+    b_count = 0
+    
+    #iterate over all parsed out colors
+    for color in colors:
+        r += (color[1][0] * color[0])
+        r_count += color[0]
+        g += (color[1][1] * color[0])
+        g_count += color[0]
+        b += (color[1][2] * color[0])
+        b_count += color[0]
+    
+    #compute the averages
+    r = int(math.floor(r / r_count))
+    g = int(math.floor(g / g_count))
+    b = int(math.floor(b / b_count))
+    
+    #create and return color tuple
+    rgb_tuple = r,g,b
+    return rgb_tuple       
+    
+def most_common_color(photo):
     """
+    Sets the most common color as the image
+    """
+    most_common = 0
+    index = 0
     
+    i = Image.open(photo['file'])
+    colors = i.getcolors(1024*1024)
+    
+    for i in range(0, len(colors)):
+        color = colors[i]
+        count = color[0]
+        if count > most_common:
+            most_common = count
+            index = i
+    
+    return colors[index][1]
+
 def append_color_pin(photo):
     """
-    
     Assigns the pin color based on image
-    
     """
-    color_dict = {'yellow':0, 'red':0, 'blue':0, 'green':0, 'orange':0, 'purple':0}
     
-    pil_image = Image.open(photo['file'])
-    colors = pil_image.getcolors(256)
-    for color in colors:
-        count = color[0]
-        color_tuple = color[1]
-        
-        assigned_color = get_color(color_tuple)
-        
-        if assigned_color is not None:
-            color_dict[assigned_color] += count
-            
-    return None
+    #color = average_color(photo)
+    color = most_common_color(photo)
+    color_hex = utility.rgb_to_hex(color)
+    
+    photo['iconcolor'] = color_hex
+    
+    return photo
     
 def parse_color_clusters(photos):
-    
-    pil_images = []
+    """
+    Parses out photo clusters
+    """
     
     for photo in photos:
-        append_color_pin(photo)
+        photo = append_color_pin(photo)
         
-    return None
+    return photos

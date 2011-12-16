@@ -52,5 +52,5 @@ makeKML(colorClusters, 'color-cluster.kml')
 
 # returns a kml that clusters photos based on tags
 # photos with similar colors are colored the same
-tagClusters = photos # tagClusters = parse_clusters(None, photos)
-makeKML(tagClusters, 'tag-cluster.kml')
+#tagClusters = parse_clusters('tag', photos)
+#makeKML(tagClusters, 'tag-cluster.kml')
