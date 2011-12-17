@@ -156,5 +156,3 @@ def parse_geotag_clusters(photos):
 # for testing purposes
 if __name__ == "__main__":
     pass
-
-

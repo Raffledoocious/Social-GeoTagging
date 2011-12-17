@@ -32,8 +32,10 @@ def parse_clusters(args, photos):
         clusters = parse_color_clusters(photos)
     elif args is'tag':
         clusters = parse_tag_clusters(photos)
-    else:
+    elif args is 'date':
         clusters = parse_date_clusters(photos)
+    else:
+        return None
     
     return clusters
     

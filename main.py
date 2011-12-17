@@ -44,13 +44,18 @@ for i in range(len(titlesList)):
 	
 # returns a kml that clusters photos based on proximity
 # photos taken in relatively the same area are colored the same
-locationClusters = parse_clusters("geotag", photos)
-makeKML(locationClusters, 'location-cluster.kml')
+#locationClusters = parse_clusters("geotag", photos)
+#makeKML(locationClusters, 'location-cluster.kml')
+
+# returns a kml that clusters photos based on date
+# photos taken are categorized into three predefined buckets
+#dateClusters = parse_clusters('date', photos)
+#makeKML(dateClusters, 'date-clusters.kml')
 
 # returns a kml that clusters photos based on color
 # photos that are overall the same color are colored the same
-colorClusters = parse_clusters("color", photos)
-makeKML(colorClusters, 'color-cluster.kml')
+#colorClusters = parse_clusters("color", photos)
+#makeKML(colorClusters, 'color-cluster.kml')
 
 # returns a kml that clusters photos based on tags
 # photos with similar colors are colored the same
