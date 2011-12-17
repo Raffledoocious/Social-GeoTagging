@@ -3,6 +3,29 @@ import urllib, urlparse
 import os
 import sys
 
+def write_info(info, dateslist, tagslist):
+    """
+    Writes out date informaiton and tag information to
+    the passed in arrays using passed in info
+    """
+    
+    # find date info
+    title_el = info.find('.//dates')
+    date = title_el.attrib['taken']
+    dateslist.append(date)
+    
+    # append tag info
+    tags = []
+    tag_el = info.find('.//tags')
+    
+    for tag in tag_el.findall('.//tag'):
+        tags.append(tag.text)
+        
+    tagslist.append(tags)
+    
+    
+    
+
 api_key = 'c00650da0ba4205d2d759eea1b51f108'
 flickr = flickrapi.FlickrAPI(api_key, cache=True)
 
@@ -12,14 +35,25 @@ urllist = [] # store a list of what was downloaded
 titlelist = [] # store a list of titles
 latlist = [] # store a list of latitudes
 lonlist = [] # store a list of longitudes
+dateslist = []
+tagslist = []
 
 #  returns first 100 photo 
 for photo in photos[0][:100]:
+    #store the id
+    photo_id = photo.attrib['id']
+    
+    #get needed exif information
+    info = flickr.photos_getInfo(photo_id = photo.attrib['id'])
+    write_info(info, dateslist, tagslist)
+    
+    #get the required information
     titlelist.append(photo.attrib['title'])
-    photoLoc = flickr.photos_geo_getLocation(photo_id=photo.attrib['id'])
+    photoLoc = flickr.photos_geo_getLocation(photo_id = photo.attrib['id'])
     latlist.append(photoLoc[0][0].attrib['latitude'])
     lonlist.append(photoLoc[0][0].attrib['longitude'])
-    photoSizes = flickr.photos_getSizes(photo_id=photo.attrib['id'])
+    photoSizes = flickr.photos_getSizes(photo_id = photo.attrib['id'])
+    
     # size [0][3] corresponds to a medium sized image
     url = photoSizes[0][3].attrib['source']
     urllist.append(url) 
@@ -49,3 +83,17 @@ fl4 = open('lon.txt', 'w')
 for lon in lonlist:
     fl4.write(lon+'\n')
 fl4.close()
+
+#write out dates
+fl5 = open('dates.txt', 'w')
+for date in dateslist:
+    fl5.write(date + '\n')
+fl5.close()
+
+#write out tags
+fl6 = open('tags.txt', 'w')
+for tags in tagslist:
+    for tag in tags:
+        fl6.write(tag + ' ')
+    fl6.write('\n')
+fl6.close()
