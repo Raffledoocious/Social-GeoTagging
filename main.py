@@ -57,6 +57,11 @@ for i in range(len(titlesList)):
 #colorClusters = parse_clusters("color", photos)
 #makeKML(colorClusters, 'color-cluster.kml')
 
+# returns a kml that clusters photos based on a tag
+# photos with a common tag are clustered by same color pin
+tagClusters = parse_clusters('tag', photos)
+makeKML(tagClusters, 'tag-cluster.kml')
+
 # returns a kml that clusters photos based on tags
 # photos with similar colors are colored the same
 #tagClusters = parse_clusters('tag', photos)
