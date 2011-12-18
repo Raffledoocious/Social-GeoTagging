@@ -19,6 +19,7 @@ def makeKML(thePhotos, filename):
 	for photo in thePhotos:
 		pnt = kml.newpoint(name=photo['title'], coords=[(photo['lon'],photo['lat'])])
 		pnt.iconstyle.color = photo['iconcolor']
+		pnt.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png'
 	kml.save(filename)
 
 
