@@ -35,8 +35,8 @@ urllist = [] # store a list of what was downloaded
 titlelist = [] # store a list of titles
 latlist = [] # store a list of latitudes
 lonlist = [] # store a list of longitudes
-dateslist = []
-tagslist = []
+dateslist = [] # store a list of dates
+tagslist = [] # store list of lists of tags for each image
 
 #  returns first 100 photo 
 for photo in photos[0][:100]:

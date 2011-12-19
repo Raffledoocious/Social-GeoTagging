@@ -1,1804 +1,1804 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
-    <Document id="feat_102">
-        <Style id="stylesel_100">
-            <IconStyle>
-                <scale>1</scale>
-                <color>fff6f0f0</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_101">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff07060c</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_102">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff161417</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_103">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff0d0405</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_104">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff110906</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_105">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ffd3e1e2</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_106">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff5f97c8</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_107">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ffb6ddee</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_108">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff001937</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_109">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff5c5d55</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_110">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff563522</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_111">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff213051</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_112">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff213051</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_113">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff2c3959</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_114">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff2c3b5c</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_115">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff0d1d36</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_116">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff31243e</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_117">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff9db2d1</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_118">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff848fa1</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_119">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff0e151d</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_120">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff101920</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_121">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_122">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_123">
+    <Document id="feat_203">
+        <Style id="stylesel_200">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_124">
+        <Style id="stylesel_201">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_125">
+        <Style id="stylesel_202">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_203">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_204">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_205">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_126">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_127">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_128">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_129">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_130">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_131">
+        <Style id="stylesel_206">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_132">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ffffffff</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_133">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ffffffff</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_134">
+        <Style id="stylesel_207">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_135">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_136">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ffffffff</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_137">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ffffffff</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_138">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ffffffff</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_139">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff000000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_140">
+        <Style id="stylesel_208">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000002</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_141">
+        <Style id="stylesel_209">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff324780</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_142">
+        <Style id="stylesel_210">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_143">
+        <Style id="stylesel_211">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff6794b3</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_144">
+        <Style id="stylesel_212">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_145">
+        <Style id="stylesel_213">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_146">
+        <Style id="stylesel_214">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff030303</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_147">
+        <Style id="stylesel_215">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff020202</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_148">
+        <Style id="stylesel_216">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff010101</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_149">
+        <Style id="stylesel_217">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff010101</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_150">
+        <Style id="stylesel_218">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff010101</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_151">
+        <Style id="stylesel_219">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff517a9a</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_152">
+        <Style id="stylesel_220">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff425c75</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_153">
+        <Style id="stylesel_221">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_154">
+        <Style id="stylesel_222">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_155">
+        <Style id="stylesel_223">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_156">
+        <Style id="stylesel_224">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff051c48</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_157">
+        <Style id="stylesel_225">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff4e91c8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_158">
+        <Style id="stylesel_226">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_159">
+        <Style id="stylesel_227">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff4573a5</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_160">
+        <Style id="stylesel_228">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_161">
+        <Style id="stylesel_229">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffd9d9d9</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_162">
+        <Style id="stylesel_230">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff42669a</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_163">
+        <Style id="stylesel_231">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff4d7ca8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_164">
+        <Style id="stylesel_232">
             <IconStyle>
                 <scale>1</scale>
                 <color>fffdfdfd</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_165">
+        <Style id="stylesel_233">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_166">
+        <Style id="stylesel_234">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffa9c4e1</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_167">
+        <Style id="stylesel_235">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_168">
+        <Style id="stylesel_236">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_169">
+        <Style id="stylesel_237">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff91b8d7</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_170">
+        <Style id="stylesel_238">
             <IconStyle>
                 <scale>1</scale>
                 <color>fffefff9</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_171">
+        <Style id="stylesel_239">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffa6c1d6</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_172">
+        <Style id="stylesel_240">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff020202</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_173">
+        <Style id="stylesel_241">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff848484</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_174">
+        <Style id="stylesel_242">
             <IconStyle>
                 <scale>1</scale>
                 <color>fffdfcf7</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_175">
+        <Style id="stylesel_243">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff242e51</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_176">
+        <Style id="stylesel_244">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000113</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_177">
+        <Style id="stylesel_245">
             <IconStyle>
                 <scale>1</scale>
                 <color>fff8f6f9</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_178">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff00080a</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_179">
+        <Style id="stylesel_246">
             <IconStyle>
                 <scale>1</scale>
                 <color>fff6f6f8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_180">
+        <Style id="stylesel_247">
             <IconStyle>
                 <scale>1</scale>
                 <color>fff4f5f0</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_181">
+        <Style id="stylesel_248">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff7f92a0</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_182">
+        <Style id="stylesel_249">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff2d2d2d</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_250">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_183">
+        <Style id="stylesel_251">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffc9defd</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_184">
+        <Style id="stylesel_252">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_185">
+        <Style id="stylesel_253">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff7f75b1</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_186">
+        <Style id="stylesel_254">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff9b9c8e</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_187">
+        <Style id="stylesel_255">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff3c0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_188">
+        <Style id="stylesel_256">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_189">
+        <Style id="stylesel_257">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff0a0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_190">
+        <Style id="stylesel_258">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff5d5e56</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_191">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ffb2aba5</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_192">
+        <Style id="stylesel_259">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffcfd4d8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_193">
+        <Style id="stylesel_260">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff627da8</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_194">
+        <Style id="stylesel_261">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffcb0013</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_195">
-            <IconStyle>
-                <scale>1</scale>
-                <color>ff2f5ea6</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_196">
+        <Style id="stylesel_262">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff3564ac</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_197">
+        <Style id="stylesel_263">
             <IconStyle>
                 <scale>1</scale>
                 <color>ff446cb2</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_198">
+        <Style id="stylesel_264">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffdbd7b2</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_199">
+        <Style id="stylesel_265">
             <IconStyle>
                 <scale>1</scale>
                 <color>ffb4b3ae</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Placemark id="feat_103">
+        <Style id="stylesel_266">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff627796</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_267">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ffd0ddcb</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_268">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff5a6579</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_269">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_270">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_271">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ffac8157</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_272">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000700</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_273">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000400</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_274">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ffb0e9fc</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_275">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff040605</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_276">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff060b0f</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_277">
+            <IconStyle>
+                <scale>1</scale>
+                <color>fff4fdfa</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_278">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff87909f</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_279">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff818d9d</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_280">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ffa3e5fd</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_281">
+            <IconStyle>
+                <scale>1</scale>
+                <color>fff5fcea</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_282">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff9ecbea</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_283">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ffe9e9e9</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_284">
+            <IconStyle>
+                <scale>1</scale>
+                <color>fff5e4d0</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_285">
+            <IconStyle>
+                <scale>1</scale>
+                <color>fffdeddd</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_286">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff3f55a8</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_287">
+            <IconStyle>
+                <scale>1</scale>
+                <color>fff6f9f0</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_288">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ffdfe0d0</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_289">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_290">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_291">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_292">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_293">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff252525</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_294">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff2d4277</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_295">
+            <IconStyle>
+                <scale>1</scale>
+                <color>fffefffa</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_296">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_297">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_298">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_299">
+            <IconStyle>
+                <scale>1</scale>
+                <color>ffd1cfd2</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="feat_204">
+            <name>Impressions of America: A Roadtrip. Day 18</name>
+            <styleUrl>#stylesel_200</styleUrl>
+            <Point id="geom_200">
+                <coordinates>-122.477903,37.81463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>H a  p p y  H o l i d a y s  !!</name>
+            <styleUrl>#stylesel_201</styleUrl>
+            <Point id="geom_201">
+                <coordinates>-122.427177,37.756194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>The Grass is Greener on the Other Side</name>
+            <styleUrl>#stylesel_202</styleUrl>
+            <Point id="geom_202">
+                <coordinates>-122.476615,37.804765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_100</styleUrl>
-            <Point id="geom_100">
+            <styleUrl>#stylesel_203</styleUrl>
+            <Point id="geom_203">
+                <coordinates>-122.481808,37.830293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>14:25</name>
+            <styleUrl>#stylesel_204</styleUrl>
+            <Point id="geom_204">
+                <coordinates>-122.498834,37.827666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>14:10</name>
+            <styleUrl>#stylesel_205</styleUrl>
+            <Point id="geom_205">
+                <coordinates>-122.4775,37.811333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>Golden Gate Bridge</name>
+            <styleUrl>#stylesel_206</styleUrl>
+            <Point id="geom_206">
+                <coordinates>-122.516269,37.826632,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>Golden Gate Bridge</name>
+            <styleUrl>#stylesel_207</styleUrl>
+            <Point id="geom_207">
+                <coordinates>-122.515797,37.825717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>Marin Headlands</name>
+            <styleUrl>#stylesel_208</styleUrl>
+            <Point id="geom_208">
+                <coordinates>-122.480843,37.827387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>Golden Gate Bridge</name>
+            <styleUrl>#stylesel_209</styleUrl>
+            <Point id="geom_209">
+                <coordinates>-122.480843,37.827387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>Golden Gate Bridge</name>
+            <styleUrl>#stylesel_210</styleUrl>
+            <Point id="geom_210">
+                <coordinates>-122.480843,37.827387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>PBR + GG</name>
+            <styleUrl>#stylesel_211</styleUrl>
+            <Point id="geom_211">
+                <coordinates>-122.479863,37.82562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>Winter Golden Gate</name>
+            <styleUrl>#stylesel_212</styleUrl>
+            <Point id="geom_212">
+                <coordinates>-122.484626,37.826599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>Full Lunar Eclipse over the Golden Gate Bridge - Dec 2011</name>
+            <styleUrl>#stylesel_213</styleUrl>
+            <Point id="geom_213">
+                <coordinates>-122.450834,37.806452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>Riveting</name>
+            <styleUrl>#stylesel_214</styleUrl>
+            <Point id="geom_214">
+                <coordinates>-122.477624,37.814072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>Suspense</name>
+            <styleUrl>#stylesel_215</styleUrl>
+            <Point id="geom_215">
+                <coordinates>-122.478868,37.824022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>Bird Posting it</name>
+            <styleUrl>#stylesel_216</styleUrl>
+            <Point id="geom_216">
+                <coordinates>-122.477495,37.83181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>ZIM Savannah</name>
+            <styleUrl>#stylesel_217</styleUrl>
+            <Point id="geom_217">
+                <coordinates>-122.484054,37.813549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>Leaving the Golden Gate</name>
+            <styleUrl>#stylesel_218</styleUrl>
+            <Point id="geom_218">
+                <coordinates>-122.486143,37.828793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>From the Marin Headlands</name>
+            <styleUrl>#stylesel_219</styleUrl>
+            <Point id="geom_219">
+                <coordinates>-122.48611,37.828772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>IMG_4371</name>
+            <styleUrl>#stylesel_220</styleUrl>
+            <Point id="geom_220">
+                <coordinates>-122.3763,37.8226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>IMG_4370</name>
+            <styleUrl>#stylesel_221</styleUrl>
+            <Point id="geom_221">
+                <coordinates>-122.3763,37.8226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_222</styleUrl>
+            <Point id="geom_222">
+                <coordinates>-122.505167,37.787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>Helicopter fleeing Golden Gate Bridge</name>
+            <styleUrl>#stylesel_223</styleUrl>
+            <Point id="geom_223">
+                <coordinates>-122.509167,37.783833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_224</styleUrl>
+            <Point id="geom_224">
+                <coordinates>-122.506834,37.787166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_225</styleUrl>
+            <Point id="geom_225">
+                <coordinates>-122.505834,37.787833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_226</styleUrl>
+            <Point id="geom_226">
+                <coordinates>-122.505667,37.788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_227</styleUrl>
+            <Point id="geom_227">
+                <coordinates>-122.509334,37.784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_228</styleUrl>
+            <Point id="geom_228">
+                <coordinates>-122.511334,37.783333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>Golden Gate Bridge</name>
+            <styleUrl>#stylesel_229</styleUrl>
+            <Point id="geom_229">
+                <coordinates>-122.481293,37.827717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>Nothing like good company.</name>
+            <styleUrl>#stylesel_230</styleUrl>
+            <Point id="geom_230">
+                <coordinates>-122.221612,37.874243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>San Francisco Dawn</name>
+            <styleUrl>#stylesel_231</styleUrl>
+            <Point id="geom_231">
+                <coordinates>-122.480317,37.826357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>Turn to clear vision</name>
+            <styleUrl>#stylesel_232</styleUrl>
+            <Point id="geom_232">
+                <coordinates>-122.462081,37.797952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>Sky Like a Neon Sign</name>
+            <styleUrl>#stylesel_233</styleUrl>
+            <Point id="geom_233">
+                <coordinates>-122.250162,37.875213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>Golden Gate Bridge</name>
+            <styleUrl>#stylesel_234</styleUrl>
+            <Point id="geom_234">
                 <coordinates>-122.495241,37.831751,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_104">
+        <Placemark id="feat_239">
             <name>Running Man..........</name>
-            <styleUrl>#stylesel_101</styleUrl>
-            <Point id="geom_101">
+            <styleUrl>#stylesel_235</styleUrl>
+            <Point id="geom_235">
                 <coordinates>-122.471101,37.808648,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_105">
+        <Placemark id="feat_240">
             <name>Merry Christmas Marin County</name>
-            <styleUrl>#stylesel_102</styleUrl>
-            <Point id="geom_102">
+            <styleUrl>#stylesel_236</styleUrl>
+            <Point id="geom_236">
                 <coordinates>-122.473182,37.806935,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_106">
+        <Placemark id="feat_241">
             <name>Starting out/Self portrait in the Santa Suit</name>
-            <styleUrl>#stylesel_103</styleUrl>
-            <Point id="geom_103">
+            <styleUrl>#stylesel_237</styleUrl>
+            <Point id="geom_237">
                 <coordinates>-122.472152,37.807478,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_107">
+        <Placemark id="feat_242">
             <name>HO HO HO</name>
-            <styleUrl>#stylesel_104</styleUrl>
-            <Point id="geom_104">
+            <styleUrl>#stylesel_238</styleUrl>
+            <Point id="geom_238">
                 <coordinates>-122.472496,37.807342,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_108">
+        <Placemark id="feat_243">
             <name>Twirling dervish in the Santa Suit</name>
-            <styleUrl>#stylesel_105</styleUrl>
-            <Point id="geom_105">
+            <styleUrl>#stylesel_239</styleUrl>
+            <Point id="geom_239">
                 <coordinates>-122.472152,37.807885,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_109">
-            <name>Twirling Santa</name>
-            <styleUrl>#stylesel_106</styleUrl>
-            <Point id="geom_106">
-                <coordinates>-122.472839,37.807885,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_110">
+        <Placemark id="feat_244">
             <name>San Francisco</name>
-            <styleUrl>#stylesel_107</styleUrl>
-            <Point id="geom_107">
+            <styleUrl>#stylesel_240</styleUrl>
+            <Point id="geom_240">
                 <coordinates>-122.476921,37.80585,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_111">
+        <Placemark id="feat_245">
             <name>San Francisco</name>
-            <styleUrl>#stylesel_108</styleUrl>
-            <Point id="geom_108">
-                <coordinates>-122.477741,37.805701,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_112">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_109</styleUrl>
-            <Point id="geom_109">
+            <styleUrl>#stylesel_241</styleUrl>
+            <Point id="geom_241">
                 <coordinates>-112.13657,36.058231,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_113">
+        <Placemark id="feat_246">
             <name>Construction</name>
-            <styleUrl>#stylesel_110</styleUrl>
-            <Point id="geom_110">
+            <styleUrl>#stylesel_242</styleUrl>
+            <Point id="geom_242">
                 <coordinates>-122.480048,37.832383,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_114">
+        <Placemark id="feat_247">
             <name>Must Exit</name>
-            <styleUrl>#stylesel_111</styleUrl>
-            <Point id="geom_111">
+            <styleUrl>#stylesel_243</styleUrl>
+            <Point id="geom_243">
                 <coordinates>-122.472807,37.80424,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_115">
+        <Placemark id="feat_248">
             <name>Golden Gate Sunset</name>
-            <styleUrl>#stylesel_112</styleUrl>
-            <Point id="geom_112">
+            <styleUrl>#stylesel_244</styleUrl>
+            <Point id="geom_244">
                 <coordinates>-122.508544,37.853169,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_116">
+        <Placemark id="feat_249">
             <name>Solarized Golden Gate</name>
-            <styleUrl>#stylesel_113</styleUrl>
-            <Point id="geom_113">
+            <styleUrl>#stylesel_245</styleUrl>
+            <Point id="geom_245">
                 <coordinates>-122.471603,37.804838,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_117">
+        <Placemark id="feat_250">
             <name>Pink Moon, Golden Gate - Lunar Eclipse 2011</name>
-            <styleUrl>#stylesel_114</styleUrl>
-            <Point id="geom_114">
+            <styleUrl>#stylesel_246</styleUrl>
+            <Point id="geom_246">
                 <coordinates>-122.454825,37.806206,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_118">
+        <Placemark id="feat_251">
             <name>Jennifer and Tanya at the Golden Gate</name>
-            <styleUrl>#stylesel_115</styleUrl>
-            <Point id="geom_115">
+            <styleUrl>#stylesel_247</styleUrl>
+            <Point id="geom_247">
                 <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_119">
+        <Placemark id="feat_252">
             <name>SF at Dusk</name>
-            <styleUrl>#stylesel_116</styleUrl>
-            <Point id="geom_116">
+            <styleUrl>#stylesel_248</styleUrl>
+            <Point id="geom_248">
                 <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_120">
+        <Placemark id="feat_253">
             <name>The Golden Gate</name>
-            <styleUrl>#stylesel_117</styleUrl>
-            <Point id="geom_117">
+            <styleUrl>#stylesel_249</styleUrl>
+            <Point id="geom_249">
                 <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_121">
+        <Placemark id="feat_254">
+            <name>Quest for Fog</name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <Point id="geom_250">
+                <coordinates>-122.47786,37.831734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
             <name>By The Pier</name>
-            <styleUrl>#stylesel_118</styleUrl>
-            <Point id="geom_118">
+            <styleUrl>#stylesel_251</styleUrl>
+            <Point id="geom_251">
                 <coordinates>-122.439537,37.805579,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_122">
+        <Placemark id="feat_256">
             <name>Lost in the Fog</name>
-            <styleUrl>#stylesel_119</styleUrl>
-            <Point id="geom_119">
+            <styleUrl>#stylesel_252</styleUrl>
+            <Point id="geom_252">
                 <coordinates>-122.473762,37.80886,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_123">
+        <Placemark id="feat_257">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_120</styleUrl>
-            <Point id="geom_120">
+            <styleUrl>#stylesel_253</styleUrl>
+            <Point id="geom_253">
                 <coordinates>-122.47816,37.809241,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_124">
-            <name>IMAG0017</name>
-            <styleUrl>#stylesel_121</styleUrl>
-            <Point id="geom_121">
-                <coordinates>-122.479727,37.832513,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_125">
+        <Placemark id="feat_258">
             <name>The girl in the black blazer</name>
-            <styleUrl>#stylesel_122</styleUrl>
-            <Point id="geom_122">
+            <styleUrl>#stylesel_254</styleUrl>
+            <Point id="geom_254">
                 <coordinates>-122.453727,37.803816,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_126">
+        <Placemark id="feat_259">
             <name>Lunar Eclipse Over Golden Gate</name>
-            <styleUrl>#stylesel_123</styleUrl>
-            <Point id="geom_123">
+            <styleUrl>#stylesel_255</styleUrl>
+            <Point id="geom_255">
                 <coordinates>-122.470498,37.808756,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_127">
+        <Placemark id="feat_260">
             <name>Lunar Eclipse behind South Tower</name>
-            <styleUrl>#stylesel_124</styleUrl>
-            <Point id="geom_124">
+            <styleUrl>#stylesel_256</styleUrl>
+            <Point id="geom_256">
                 <coordinates>-122.454257,37.806367,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_128">
+        <Placemark id="feat_261">
             <name>Distorsioni californiane</name>
-            <styleUrl>#stylesel_125</styleUrl>
-            <Point id="geom_125">
+            <styleUrl>#stylesel_257</styleUrl>
+            <Point id="geom_257">
                 <coordinates>-122.477645,37.818191,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_129">
+        <Placemark id="feat_262">
             <name>Seelöwen am Pier 39</name>
-            <styleUrl>#stylesel_126</styleUrl>
-            <Point id="geom_126">
+            <styleUrl>#stylesel_258</styleUrl>
+            <Point id="geom_258">
                 <coordinates>-122.410783,37.810292,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_130">
+        <Placemark id="feat_263">
             <name>empty cable cars</name>
-            <styleUrl>#stylesel_127</styleUrl>
-            <Point id="geom_127">
+            <styleUrl>#stylesel_259</styleUrl>
+            <Point id="geom_259">
                 <coordinates>-122.418851,37.797475,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_131">
+        <Placemark id="feat_264">
             <name>Sundown over the ocean</name>
-            <styleUrl>#stylesel_128</styleUrl>
-            <Point id="geom_128">
+            <styleUrl>#stylesel_260</styleUrl>
+            <Point id="geom_260">
                 <coordinates>-122.495412,37.822938,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_132">
+        <Placemark id="feat_265">
             <name>Fisherman's Wharf - Hafen</name>
-            <styleUrl>#stylesel_129</styleUrl>
-            <Point id="geom_129">
+            <styleUrl>#stylesel_261</styleUrl>
+            <Point id="geom_261">
                 <coordinates>-122.407608,37.807376,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_133">
+        <Placemark id="feat_266">
             <name>Pier 39 sign</name>
-            <styleUrl>#stylesel_130</styleUrl>
-            <Point id="geom_130">
+            <styleUrl>#stylesel_262</styleUrl>
+            <Point id="geom_262">
                 <coordinates>-122.409925,37.809173,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_134">
+        <Placemark id="feat_267">
             <name>Harbor at Fisherman's Wharf</name>
-            <styleUrl>#stylesel_131</styleUrl>
-            <Point id="geom_131">
+            <styleUrl>#stylesel_263</styleUrl>
+            <Point id="geom_263">
                 <coordinates>-122.411899,37.809038,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_135">
+        <Placemark id="feat_268">
             <name>Cable Car</name>
-            <styleUrl>#stylesel_132</styleUrl>
-            <Point id="geom_132">
+            <styleUrl>#stylesel_264</styleUrl>
+            <Point id="geom_264">
                 <coordinates>-122.419195,37.802053,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_136">
+        <Placemark id="feat_269">
             <name>Seagull at the harbor</name>
-            <styleUrl>#stylesel_133</styleUrl>
-            <Point id="geom_133">
+            <styleUrl>#stylesel_265</styleUrl>
+            <Point id="geom_265">
                 <coordinates>-122.41044,37.81019,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_137">
+        <Placemark id="feat_270">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_134</styleUrl>
-            <Point id="geom_134">
+            <styleUrl>#stylesel_266</styleUrl>
+            <Point id="geom_266">
                 <coordinates>-122.420911,37.825988,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_138">
+        <Placemark id="feat_271">
             <name>harbor at Golden Gate Bridge</name>
-            <styleUrl>#stylesel_135</styleUrl>
-            <Point id="geom_135">
+            <styleUrl>#stylesel_267</styleUrl>
+            <Point id="geom_267">
                 <coordinates>-122.479362,37.831886,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_139">
+        <Placemark id="feat_272">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_136</styleUrl>
-            <Point id="geom_136">
+            <styleUrl>#stylesel_268</styleUrl>
+            <Point id="geom_268">
                 <coordinates>-122.486228,37.826429,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_140">
+        <Placemark id="feat_273">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_137</styleUrl>
-            <Point id="geom_137">
+            <styleUrl>#stylesel_269</styleUrl>
+            <Point id="geom_269">
                 <coordinates>-122.475328,37.808597,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_141">
+        <Placemark id="feat_274">
             <name>Golden Gate Bridge at night</name>
-            <styleUrl>#stylesel_138</styleUrl>
-            <Point id="geom_138">
+            <styleUrl>#stylesel_270</styleUrl>
+            <Point id="geom_270">
                 <coordinates>-122.4864,37.827039,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_142">
+        <Placemark id="feat_275">
             <name>Blick vom Pier39 zur Alcatraz-Insel</name>
-            <styleUrl>#stylesel_139</styleUrl>
-            <Point id="geom_139">
+            <styleUrl>#stylesel_271</styleUrl>
+            <Point id="geom_271">
                 <coordinates>-122.410526,37.81097,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_143">
+        <Placemark id="feat_276">
             <name>China Town entry</name>
-            <styleUrl>#stylesel_140</styleUrl>
-            <Point id="geom_140">
+            <styleUrl>#stylesel_272</styleUrl>
+            <Point id="geom_272">
                 <coordinates>-122.407994,37.796898,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_144">
+        <Placemark id="feat_277">
             <name>Sonnenuntergang über San Francisco</name>
-            <styleUrl>#stylesel_141</styleUrl>
-            <Point id="geom_141">
+            <styleUrl>#stylesel_273</styleUrl>
+            <Point id="geom_273">
                 <coordinates>-122.4449,37.75299,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_145">
+        <Placemark id="feat_278">
             <name>Blick vom Meer nach San Francisco</name>
-            <styleUrl>#stylesel_142</styleUrl>
-            <Point id="geom_142">
+            <styleUrl>#stylesel_274</styleUrl>
+            <Point id="geom_274">
                 <coordinates>-122.407007,37.818903,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_146">
+        <Placemark id="feat_279">
             <name>China Town</name>
-            <styleUrl>#stylesel_143</styleUrl>
-            <Point id="geom_143">
+            <styleUrl>#stylesel_275</styleUrl>
+            <Point id="geom_275">
                 <coordinates>-122.407779,37.796729,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_147">
+        <Placemark id="feat_280">
             <name>Golden Gate Bridge in der nebligen Dämmerung</name>
-            <styleUrl>#stylesel_144</styleUrl>
-            <Point id="geom_144">
+            <styleUrl>#stylesel_276</styleUrl>
+            <Point id="geom_276">
                 <coordinates>-122.44769,37.750018,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_148">
+        <Placemark id="feat_281">
             <name>foggy sunset</name>
-            <styleUrl>#stylesel_145</styleUrl>
-            <Point id="geom_145">
+            <styleUrl>#stylesel_277</styleUrl>
+            <Point id="geom_277">
                 <coordinates>-122.448291,37.750527,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_149">
+        <Placemark id="feat_282">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_146</styleUrl>
-            <Point id="geom_146">
+            <styleUrl>#stylesel_278</styleUrl>
+            <Point id="geom_278">
                 <coordinates>-122.424259,37.827243,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_150">
+        <Placemark id="feat_283">
             <name>Sunset</name>
-            <styleUrl>#stylesel_147</styleUrl>
-            <Point id="geom_147">
+            <styleUrl>#stylesel_279</styleUrl>
+            <Point id="geom_279">
                 <coordinates>-122.448034,37.750527,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_151">
+        <Placemark id="feat_284">
             <name>Alcatraz overview</name>
-            <styleUrl>#stylesel_148</styleUrl>
-            <Point id="geom_148">
+            <styleUrl>#stylesel_280</styleUrl>
+            <Point id="geom_280">
                 <coordinates>-122.418937,37.825243,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_152">
+        <Placemark id="feat_285">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_149</styleUrl>
-            <Point id="geom_149">
+            <styleUrl>#stylesel_281</styleUrl>
+            <Point id="geom_281">
                 <coordinates>-122.424602,37.827446,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_153">
+        <Placemark id="feat_286">
             <name>San Francisco at night</name>
-            <styleUrl>#stylesel_150</styleUrl>
-            <Point id="geom_150">
+            <styleUrl>#stylesel_282</styleUrl>
+            <Point id="geom_282">
                 <coordinates>-122.448377,37.75124,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_154">
+        <Placemark id="feat_287">
             <name>Alcatraz und die Ein-Mann-Zelle</name>
-            <styleUrl>#stylesel_151</styleUrl>
-            <Point id="geom_151">
+            <styleUrl>#stylesel_283</styleUrl>
+            <Point id="geom_283">
                 <coordinates>-122.424173,37.827751,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_155">
+        <Placemark id="feat_288">
             <name>Golden Gate Bridge von weitem</name>
-            <styleUrl>#stylesel_152</styleUrl>
-            <Point id="geom_152">
+            <styleUrl>#stylesel_284</styleUrl>
+            <Point id="geom_284">
                 <coordinates>-122.423744,37.826632,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_156">
+        <Placemark id="feat_289">
             <name>Alamo Square</name>
-            <styleUrl>#stylesel_153</styleUrl>
-            <Point id="geom_153">
+            <styleUrl>#stylesel_285</styleUrl>
+            <Point id="geom_285">
                 <coordinates>-122.434902,37.776549,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_157">
+        <Placemark id="feat_290">
             <name>Alcatraz - Aussichtsturm</name>
-            <styleUrl>#stylesel_154</styleUrl>
-            <Point id="geom_154">
+            <styleUrl>#stylesel_286</styleUrl>
+            <Point id="geom_286">
                 <coordinates>-122.422714,37.827039,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_158">
+        <Placemark id="feat_291">
             <name>Harbor</name>
-            <styleUrl>#stylesel_155</styleUrl>
-            <Point id="geom_155">
+            <styleUrl>#stylesel_287</styleUrl>
+            <Point id="geom_287">
                 <coordinates>-122.400827,37.80507,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_159">
+        <Placemark id="feat_292">
             <name>Blick von Alcatraz zum Festland</name>
-            <styleUrl>#stylesel_156</styleUrl>
-            <Point id="geom_156">
+            <styleUrl>#stylesel_288</styleUrl>
+            <Point id="geom_288">
                 <coordinates>-122.421941,37.824971,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_160">
+        <Placemark id="feat_293">
             <name>Alamo Square</name>
-            <styleUrl>#stylesel_157</styleUrl>
-            <Point id="geom_157">
+            <styleUrl>#stylesel_289</styleUrl>
+            <Point id="geom_289">
                 <coordinates>-122.433967,37.776218,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_161">
+        <Placemark id="feat_294">
             <name>Temptation</name>
-            <styleUrl>#stylesel_158</styleUrl>
-            <Point id="geom_158">
+            <styleUrl>#stylesel_290</styleUrl>
+            <Point id="geom_290">
                 <coordinates>-122.476834,37.810666,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_162">
+        <Placemark id="feat_295">
             <name>Under the Cherry Moon</name>
-            <styleUrl>#stylesel_159</styleUrl>
-            <Point id="geom_159">
+            <styleUrl>#stylesel_291</styleUrl>
+            <Point id="geom_291">
                 <coordinates>-122.451961,37.80613,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_163">
+        <Placemark id="feat_296">
             <name>San Francisco - Pic 11</name>
-            <styleUrl>#stylesel_160</styleUrl>
-            <Point id="geom_160">
+            <styleUrl>#stylesel_292</styleUrl>
+            <Point id="geom_292">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_164">
+        <Placemark id="feat_297">
             <name>San Francisco - Pic 09</name>
-            <styleUrl>#stylesel_161</styleUrl>
-            <Point id="geom_161">
+            <styleUrl>#stylesel_293</styleUrl>
+            <Point id="geom_293">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_165">
-            <name>San Francisco - Pic 15</name>
-            <styleUrl>#stylesel_162</styleUrl>
-            <Point id="geom_162">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_166">
+        <Placemark id="feat_298">
             <name>San Francisco - Pic 08</name>
-            <styleUrl>#stylesel_163</styleUrl>
-            <Point id="geom_163">
+            <styleUrl>#stylesel_294</styleUrl>
+            <Point id="geom_294">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_167">
+        <Placemark id="feat_299">
             <name>San Francisco - Pic 03</name>
-            <styleUrl>#stylesel_164</styleUrl>
-            <Point id="geom_164">
+            <styleUrl>#stylesel_295</styleUrl>
+            <Point id="geom_295">
                 <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_168">
+        <Placemark id="feat_300">
             <name>San Francisco - Pic 02</name>
-            <styleUrl>#stylesel_165</styleUrl>
-            <Point id="geom_165">
+            <styleUrl>#stylesel_296</styleUrl>
+            <Point id="geom_296">
                 <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_169">
-            <name>San Francisco - Pic 10</name>
-            <styleUrl>#stylesel_166</styleUrl>
-            <Point id="geom_166">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_170">
+        <Placemark id="feat_301">
             <name>San Francisco - Pic 07</name>
-            <styleUrl>#stylesel_167</styleUrl>
-            <Point id="geom_167">
+            <styleUrl>#stylesel_297</styleUrl>
+            <Point id="geom_297">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_171">
-            <name>San Francisco - Pic 12</name>
-            <styleUrl>#stylesel_168</styleUrl>
-            <Point id="geom_168">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_172">
-            <name>San Francisco - Pic 05</name>
-            <styleUrl>#stylesel_169</styleUrl>
-            <Point id="geom_169">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_173">
+        <Placemark id="feat_302">
             <name>San Francisco - Pic 17</name>
-            <styleUrl>#stylesel_170</styleUrl>
-            <Point id="geom_170">
+            <styleUrl>#stylesel_298</styleUrl>
+            <Point id="geom_298">
                 <coordinates>-122.446939,37.754633,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_174">
+        <Placemark id="feat_303">
             <name>San Francisco - Pic 18</name>
-            <styleUrl>#stylesel_171</styleUrl>
-            <Point id="geom_171">
+            <styleUrl>#stylesel_299</styleUrl>
+            <Point id="geom_299">
                 <coordinates>-122.446939,37.754633,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_175">
-            <name>San Francisco - Pic 04</name>
-            <styleUrl>#stylesel_172</styleUrl>
-            <Point id="geom_172">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_176">
-            <name>San Francisco - Pic 14</name>
-            <styleUrl>#stylesel_173</styleUrl>
-            <Point id="geom_173">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_177">
-            <name>San Francisco - Pic 01</name>
-            <styleUrl>#stylesel_174</styleUrl>
-            <Point id="geom_174">
-                <coordinates>-122.481851,37.828565,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_178">
-            <name>San Francisco - Pic 13</name>
-            <styleUrl>#stylesel_175</styleUrl>
-            <Point id="geom_175">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_179">
-            <name>San Francisco - Pic 16</name>
-            <styleUrl>#stylesel_176</styleUrl>
-            <Point id="geom_176">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_180">
-            <name>San Francisco - Pic 06</name>
-            <styleUrl>#stylesel_177</styleUrl>
-            <Point id="geom_177">
-                <coordinates>-122.406148,37.79232,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_181">
-            <name>nw-1-12</name>
-            <styleUrl>#stylesel_178</styleUrl>
-            <Point id="geom_178">
-                <coordinates>-122.438431,37.799611,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_182">
-            <name>Golden Gate</name>
-            <styleUrl>#stylesel_179</styleUrl>
-            <Point id="geom_179">
-                <coordinates>-122.47653,37.810733,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_183">
-            <name>Golden Gate</name>
-            <styleUrl>#stylesel_180</styleUrl>
-            <Point id="geom_180">
-                <coordinates>-122.473847,37.807529,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_184">
-            <name>Tomorrow</name>
-            <styleUrl>#stylesel_181</styleUrl>
-            <Point id="geom_181">
-                <coordinates>-122.497766,37.828172,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_185">
-            <name>Above San Francisco and the Golden Gate Bridge, California</name>
-            <styleUrl>#stylesel_182</styleUrl>
-            <Point id="geom_182">
-                <coordinates>-122.492637,37.796763,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_186">
-            <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_183</styleUrl>
-            <Point id="geom_183">
-                <coordinates>-122.37187,37.816073,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_187">
-            <name>Lunar Eclipse Night</name>
-            <styleUrl>#stylesel_184</styleUrl>
-            <Point id="geom_184">
-                <coordinates>-122.449858,37.806274,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_188">
-            <name>Lunar Eclipse</name>
-            <styleUrl>#stylesel_185</styleUrl>
-            <Point id="geom_185">
-                <coordinates>-122.455061,37.806062,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_189">
-            <name>Lunar Eclipse Night 12-10-2011</name>
-            <styleUrl>#stylesel_186</styleUrl>
-            <Point id="geom_186">
-                <coordinates>-122.447991,37.806872,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_190">
-            <name>Its almost there</name>
-            <styleUrl>#stylesel_187</styleUrl>
-            <Point id="geom_187">
-                <coordinates>-122.454782,37.806092,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_191">
-            <name>Golden Gate Bridge at Night</name>
-            <styleUrl>#stylesel_188</styleUrl>
-            <Point id="geom_188">
-                <coordinates>-122.450351,37.806189,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_192">
-            <name>Getting Closer</name>
-            <styleUrl>#stylesel_189</styleUrl>
-            <Point id="geom_189">
-                <coordinates>-122.455372,37.805948,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_193">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_190</styleUrl>
-            <Point id="geom_190">
-                <coordinates>-122.478453,37.819721,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_194">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_191</styleUrl>
-            <Point id="geom_191">
-                <coordinates>-122.477762,37.805674,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_195">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_192</styleUrl>
-            <Point id="geom_192">
-                <coordinates>-122.47998,37.83229,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_196">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_193</styleUrl>
-            <Point id="geom_193">
-                <coordinates>-122.47937,37.83243,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_197">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_194</styleUrl>
-            <Point id="geom_194">
-                <coordinates>-122.497753,37.828058,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_198">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_195</styleUrl>
-            <Point id="geom_195">
-                <coordinates>-122.477661,37.831898,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_199">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_196</styleUrl>
-            <Point id="geom_196">
-                <coordinates>-122.47998,37.83229,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_200">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_197</styleUrl>
-            <Point id="geom_197">
-                <coordinates>-122.47998,37.83229,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_201">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_198</styleUrl>
-            <Point id="geom_198">
-                <coordinates>-122.47998,37.83229,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_202">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_199</styleUrl>
-            <Point id="geom_199">
-                <coordinates>-122.480008,37.833051,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

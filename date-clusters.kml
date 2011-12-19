@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
-    <Document id="feat_304">
-        <Style id="stylesel_300">
+    <Document id="feat_102">
+        <Style id="stylesel_100">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1287d2</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -12,10 +12,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_301">
+        <Style id="stylesel_101">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1e3ef3</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -23,10 +23,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_302">
+        <Style id="stylesel_102">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb7e768</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -34,10 +34,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_303">
+        <Style id="stylesel_103">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff1625e0</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -45,10 +45,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_304">
+        <Style id="stylesel_104">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -56,10 +56,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_305">
+        <Style id="stylesel_105">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -67,10 +67,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_306">
+        <Style id="stylesel_106">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffe3b09e</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -78,10 +78,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_307">
+        <Style id="stylesel_107">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff750734</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -89,10 +89,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_308">
+        <Style id="stylesel_108">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffe3b09e</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -100,10 +100,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_309">
+        <Style id="stylesel_109">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff750734</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -111,10 +111,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_310">
+        <Style id="stylesel_110">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff750734</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -122,10 +122,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_311">
+        <Style id="stylesel_111">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffc03630</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -133,10 +133,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_312">
+        <Style id="stylesel_112">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff67ae54</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -144,10 +144,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_313">
+        <Style id="stylesel_113">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff368d43</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -155,10 +155,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_314">
+        <Style id="stylesel_114">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffc3d6c3</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -166,10 +166,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_315">
+        <Style id="stylesel_115">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffc3d6c3</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -177,10 +177,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_316">
+        <Style id="stylesel_116">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff228d2c</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -188,10 +188,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_317">
+        <Style id="stylesel_117">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff28f756</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -199,10 +199,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_318">
+        <Style id="stylesel_118">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4c3730</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -210,10 +210,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_319">
+        <Style id="stylesel_119">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff4c3730</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -221,10 +221,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_320">
+        <Style id="stylesel_120">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffacb75b</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -232,10 +232,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_321">
+        <Style id="stylesel_121">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffacb75b</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -243,10 +243,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_322">
+        <Style id="stylesel_122">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -254,10 +254,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_323">
+        <Style id="stylesel_123">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -265,10 +265,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_324">
+        <Style id="stylesel_124">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -276,10 +276,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_325">
+        <Style id="stylesel_125">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -287,10 +287,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_326">
+        <Style id="stylesel_126">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -298,10 +298,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_327">
+        <Style id="stylesel_127">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -309,10 +309,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_328">
+        <Style id="stylesel_128">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff95e8ec</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -320,10 +320,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_329">
+        <Style id="stylesel_129">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff940406</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -331,10 +331,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_330">
+        <Style id="stylesel_130">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3c38cc</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -342,10 +342,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_331">
+        <Style id="stylesel_131">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff916824</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -353,10 +353,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_332">
+        <Style id="stylesel_132">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff78a04a</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -364,10 +364,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_333">
+        <Style id="stylesel_133">
             <IconStyle>
                 <scale>1</scale>
-                <color>fff8b771</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -375,10 +375,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_334">
+        <Style id="stylesel_134">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff8bcbb6</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -386,10 +386,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_335">
+        <Style id="stylesel_135">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39a57f</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -397,10 +397,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_336">
+        <Style id="stylesel_136">
             <IconStyle>
                 <scale>1</scale>
-                <color>fffd9676</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -408,10 +408,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_337">
+        <Style id="stylesel_137">
             <IconStyle>
                 <scale>1</scale>
-                <color>fffd9676</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -419,10 +419,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_338">
+        <Style id="stylesel_138">
             <IconStyle>
                 <scale>1</scale>
-                <color>fffd9676</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -430,10 +430,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_339">
+        <Style id="stylesel_139">
             <IconStyle>
                 <scale>1</scale>
-                <color>fffd9676</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -441,10 +441,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_340">
+        <Style id="stylesel_140">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff394bc1</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -452,10 +452,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_341">
+        <Style id="stylesel_141">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff0b8660</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -463,10 +463,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_342">
+        <Style id="stylesel_142">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff023557</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -474,10 +474,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_343">
+        <Style id="stylesel_143">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffb5740a</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -485,10 +485,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_344">
+        <Style id="stylesel_144">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3c7718</color>
+                <color>BB0033CC</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -496,10 +496,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_345">
+        <Style id="stylesel_145">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9ded90</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -507,10 +507,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_346">
+        <Style id="stylesel_146">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3fe3f7</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -518,10 +518,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_347">
+        <Style id="stylesel_147">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffc6c0b0</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -529,10 +529,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_348">
+        <Style id="stylesel_148">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff977c0c</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -540,10 +540,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_349">
+        <Style id="stylesel_149">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff38111a</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -551,10 +551,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_350">
+        <Style id="stylesel_150">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffd200a3</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -562,10 +562,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_351">
+        <Style id="stylesel_151">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff591e5b</color>
+                <color>BB0033CC</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -573,10 +573,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_352">
+        <Style id="stylesel_152">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff9d5fdf</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -584,10 +584,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_353">
+        <Style id="stylesel_153">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff156e65</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -595,10 +595,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_354">
+        <Style id="stylesel_154">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff977c0c</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -606,10 +606,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_355">
+        <Style id="stylesel_155">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffd5da77</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -617,10 +617,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_356">
+        <Style id="stylesel_156">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff2102df</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -628,10 +628,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_357">
+        <Style id="stylesel_157">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffffe15f</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -639,10 +639,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_358">
+        <Style id="stylesel_158">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -650,10 +650,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_359">
+        <Style id="stylesel_159">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -661,10 +661,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_360">
+        <Style id="stylesel_160">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -672,10 +672,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_361">
+        <Style id="stylesel_161">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -683,10 +683,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_362">
+        <Style id="stylesel_162">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -694,10 +694,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_363">
+        <Style id="stylesel_163">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -705,10 +705,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_364">
+        <Style id="stylesel_164">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -716,10 +716,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_365">
+        <Style id="stylesel_165">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -727,10 +727,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_366">
+        <Style id="stylesel_166">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -738,10 +738,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_367">
+        <Style id="stylesel_167">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -749,10 +749,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_368">
+        <Style id="stylesel_168">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -760,10 +760,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_369">
+        <Style id="stylesel_169">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -771,10 +771,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_370">
+        <Style id="stylesel_170">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -782,10 +782,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_371">
+        <Style id="stylesel_171">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -793,10 +793,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_372">
+        <Style id="stylesel_172">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -804,10 +804,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_373">
+        <Style id="stylesel_173">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -815,10 +815,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_374">
+        <Style id="stylesel_174">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -826,10 +826,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_375">
+        <Style id="stylesel_175">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -837,10 +837,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_376">
+        <Style id="stylesel_176">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -848,10 +848,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_377">
+        <Style id="stylesel_177">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -859,10 +859,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_378">
+        <Style id="stylesel_178">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -870,10 +870,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_379">
+        <Style id="stylesel_179">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -881,10 +881,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_380">
+        <Style id="stylesel_180">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -892,10 +892,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_381">
+        <Style id="stylesel_181">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -903,10 +903,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_382">
+        <Style id="stylesel_182">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -914,10 +914,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_383">
+        <Style id="stylesel_183">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -925,10 +925,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_384">
+        <Style id="stylesel_184">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -936,10 +936,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_385">
+        <Style id="stylesel_185">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -947,10 +947,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_386">
+        <Style id="stylesel_186">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -958,10 +958,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_387">
+        <Style id="stylesel_187">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -969,10 +969,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_388">
+        <Style id="stylesel_188">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -980,10 +980,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_389">
+        <Style id="stylesel_189">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffae92eb</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -991,10 +991,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_390">
+        <Style id="stylesel_190">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff010832</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1002,10 +1002,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_391">
+        <Style id="stylesel_191">
             <IconStyle>
                 <scale>1</scale>
-                <color>ffcab2a5</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1013,10 +1013,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_392">
+        <Style id="stylesel_192">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff7e2669</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1024,10 +1024,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_393">
+        <Style id="stylesel_193">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff7e2669</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1035,10 +1035,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_394">
+        <Style id="stylesel_194">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff7e2669</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1046,10 +1046,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_395">
+        <Style id="stylesel_195">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff7e2669</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1057,10 +1057,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_396">
+        <Style id="stylesel_196">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff7e2669</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1068,10 +1068,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_397">
+        <Style id="stylesel_197">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff7e2669</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1079,10 +1079,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_398">
+        <Style id="stylesel_198">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff7e2669</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1090,10 +1090,10 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_399">
+        <Style id="stylesel_199">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff7e2669</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1101,703 +1101,703 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Placemark id="feat_305">
+        <Placemark id="feat_103">
             <name>Impressions of America: A Roadtrip. Day 18</name>
-            <styleUrl>#stylesel_300</styleUrl>
-            <Point id="geom_300">
+            <styleUrl>#stylesel_100</styleUrl>
+            <Point id="geom_100">
                 <coordinates>-122.477903,37.81463,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_306">
+        <Placemark id="feat_104">
             <name>H a  p p y  H o l i d a y s  !!</name>
-            <styleUrl>#stylesel_301</styleUrl>
-            <Point id="geom_301">
+            <styleUrl>#stylesel_101</styleUrl>
+            <Point id="geom_101">
                 <coordinates>-122.427177,37.756194,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_307">
+        <Placemark id="feat_105">
             <name>The Grass is Greener on the Other Side</name>
-            <styleUrl>#stylesel_302</styleUrl>
-            <Point id="geom_302">
+            <styleUrl>#stylesel_102</styleUrl>
+            <Point id="geom_102">
                 <coordinates>-122.476615,37.804765,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_308">
+        <Placemark id="feat_106">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_303</styleUrl>
-            <Point id="geom_303">
+            <styleUrl>#stylesel_103</styleUrl>
+            <Point id="geom_103">
                 <coordinates>-122.481808,37.830293,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_309">
+        <Placemark id="feat_107">
             <name>14:25</name>
-            <styleUrl>#stylesel_304</styleUrl>
-            <Point id="geom_304">
+            <styleUrl>#stylesel_104</styleUrl>
+            <Point id="geom_104">
                 <coordinates>-122.498834,37.827666,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_310">
+        <Placemark id="feat_108">
             <name>14:10</name>
-            <styleUrl>#stylesel_305</styleUrl>
-            <Point id="geom_305">
+            <styleUrl>#stylesel_105</styleUrl>
+            <Point id="geom_105">
                 <coordinates>-122.4775,37.811333,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_311">
+        <Placemark id="feat_109">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_306</styleUrl>
-            <Point id="geom_306">
+            <styleUrl>#stylesel_106</styleUrl>
+            <Point id="geom_106">
                 <coordinates>-122.516269,37.826632,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_312">
+        <Placemark id="feat_110">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_307</styleUrl>
-            <Point id="geom_307">
+            <styleUrl>#stylesel_107</styleUrl>
+            <Point id="geom_107">
                 <coordinates>-122.515797,37.825717,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_313">
+        <Placemark id="feat_111">
             <name>Marin Headlands</name>
-            <styleUrl>#stylesel_308</styleUrl>
-            <Point id="geom_308">
+            <styleUrl>#stylesel_108</styleUrl>
+            <Point id="geom_108">
                 <coordinates>-122.480843,37.827387,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_314">
+        <Placemark id="feat_112">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_309</styleUrl>
-            <Point id="geom_309">
+            <styleUrl>#stylesel_109</styleUrl>
+            <Point id="geom_109">
                 <coordinates>-122.480843,37.827387,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_315">
+        <Placemark id="feat_113">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_310</styleUrl>
-            <Point id="geom_310">
+            <styleUrl>#stylesel_110</styleUrl>
+            <Point id="geom_110">
                 <coordinates>-122.480843,37.827387,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_316">
+        <Placemark id="feat_114">
             <name>PBR + GG</name>
-            <styleUrl>#stylesel_311</styleUrl>
-            <Point id="geom_311">
+            <styleUrl>#stylesel_111</styleUrl>
+            <Point id="geom_111">
                 <coordinates>-122.479863,37.82562,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_317">
+        <Placemark id="feat_115">
             <name>Winter Golden Gate</name>
-            <styleUrl>#stylesel_312</styleUrl>
-            <Point id="geom_312">
+            <styleUrl>#stylesel_112</styleUrl>
+            <Point id="geom_112">
                 <coordinates>-122.484626,37.826599,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_318">
+        <Placemark id="feat_116">
             <name>Full Lunar Eclipse over the Golden Gate Bridge - Dec 2011</name>
-            <styleUrl>#stylesel_313</styleUrl>
-            <Point id="geom_313">
+            <styleUrl>#stylesel_113</styleUrl>
+            <Point id="geom_113">
                 <coordinates>-122.450834,37.806452,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_319">
+        <Placemark id="feat_117">
             <name>Riveting</name>
-            <styleUrl>#stylesel_314</styleUrl>
-            <Point id="geom_314">
+            <styleUrl>#stylesel_114</styleUrl>
+            <Point id="geom_114">
                 <coordinates>-122.477624,37.814072,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_320">
+        <Placemark id="feat_118">
             <name>Suspense</name>
-            <styleUrl>#stylesel_315</styleUrl>
-            <Point id="geom_315">
+            <styleUrl>#stylesel_115</styleUrl>
+            <Point id="geom_115">
                 <coordinates>-122.478868,37.824022,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_321">
+        <Placemark id="feat_119">
             <name>Bird Posting it</name>
-            <styleUrl>#stylesel_316</styleUrl>
-            <Point id="geom_316">
+            <styleUrl>#stylesel_116</styleUrl>
+            <Point id="geom_116">
                 <coordinates>-122.477495,37.83181,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_322">
+        <Placemark id="feat_120">
             <name>ZIM Savannah</name>
-            <styleUrl>#stylesel_317</styleUrl>
-            <Point id="geom_317">
+            <styleUrl>#stylesel_117</styleUrl>
+            <Point id="geom_117">
                 <coordinates>-122.484054,37.813549,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_323">
+        <Placemark id="feat_121">
             <name>Leaving the Golden Gate</name>
-            <styleUrl>#stylesel_318</styleUrl>
-            <Point id="geom_318">
+            <styleUrl>#stylesel_118</styleUrl>
+            <Point id="geom_118">
                 <coordinates>-122.486143,37.828793,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_324">
+        <Placemark id="feat_122">
             <name>From the Marin Headlands</name>
-            <styleUrl>#stylesel_319</styleUrl>
-            <Point id="geom_319">
+            <styleUrl>#stylesel_119</styleUrl>
+            <Point id="geom_119">
                 <coordinates>-122.48611,37.828772,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_325">
+        <Placemark id="feat_123">
             <name>IMG_4371</name>
-            <styleUrl>#stylesel_320</styleUrl>
-            <Point id="geom_320">
+            <styleUrl>#stylesel_120</styleUrl>
+            <Point id="geom_120">
                 <coordinates>-122.3763,37.8226,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_326">
+        <Placemark id="feat_124">
             <name>IMG_4370</name>
-            <styleUrl>#stylesel_321</styleUrl>
-            <Point id="geom_321">
+            <styleUrl>#stylesel_121</styleUrl>
+            <Point id="geom_121">
                 <coordinates>-122.3763,37.8226,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_327">
+        <Placemark id="feat_125">
             <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_322</styleUrl>
-            <Point id="geom_322">
+            <styleUrl>#stylesel_122</styleUrl>
+            <Point id="geom_122">
                 <coordinates>-122.505167,37.787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_328">
+        <Placemark id="feat_126">
             <name>Helicopter fleeing Golden Gate Bridge</name>
-            <styleUrl>#stylesel_323</styleUrl>
-            <Point id="geom_323">
+            <styleUrl>#stylesel_123</styleUrl>
+            <Point id="geom_123">
                 <coordinates>-122.509167,37.783833,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_329">
+        <Placemark id="feat_127">
             <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_324</styleUrl>
-            <Point id="geom_324">
+            <styleUrl>#stylesel_124</styleUrl>
+            <Point id="geom_124">
                 <coordinates>-122.506834,37.787166,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_330">
+        <Placemark id="feat_128">
             <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_325</styleUrl>
-            <Point id="geom_325">
+            <styleUrl>#stylesel_125</styleUrl>
+            <Point id="geom_125">
                 <coordinates>-122.505834,37.787833,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_331">
+        <Placemark id="feat_129">
             <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_326</styleUrl>
-            <Point id="geom_326">
+            <styleUrl>#stylesel_126</styleUrl>
+            <Point id="geom_126">
                 <coordinates>-122.505667,37.788,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_332">
+        <Placemark id="feat_130">
             <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_327</styleUrl>
-            <Point id="geom_327">
+            <styleUrl>#stylesel_127</styleUrl>
+            <Point id="geom_127">
                 <coordinates>-122.509334,37.784,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_333">
+        <Placemark id="feat_131">
             <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_328</styleUrl>
-            <Point id="geom_328">
+            <styleUrl>#stylesel_128</styleUrl>
+            <Point id="geom_128">
                 <coordinates>-122.511334,37.783333,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_334">
+        <Placemark id="feat_132">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_329</styleUrl>
-            <Point id="geom_329">
+            <styleUrl>#stylesel_129</styleUrl>
+            <Point id="geom_129">
                 <coordinates>-122.481293,37.827717,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_335">
+        <Placemark id="feat_133">
             <name>Nothing like good company.</name>
-            <styleUrl>#stylesel_330</styleUrl>
-            <Point id="geom_330">
+            <styleUrl>#stylesel_130</styleUrl>
+            <Point id="geom_130">
                 <coordinates>-122.221612,37.874243,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_336">
+        <Placemark id="feat_134">
             <name>San Francisco Dawn</name>
-            <styleUrl>#stylesel_331</styleUrl>
-            <Point id="geom_331">
+            <styleUrl>#stylesel_131</styleUrl>
+            <Point id="geom_131">
                 <coordinates>-122.480317,37.826357,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_337">
+        <Placemark id="feat_135">
             <name>Turn to clear vision</name>
-            <styleUrl>#stylesel_332</styleUrl>
-            <Point id="geom_332">
+            <styleUrl>#stylesel_132</styleUrl>
+            <Point id="geom_132">
                 <coordinates>-122.462081,37.797952,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_338">
+        <Placemark id="feat_136">
             <name>Sky Like a Neon Sign</name>
-            <styleUrl>#stylesel_333</styleUrl>
-            <Point id="geom_333">
+            <styleUrl>#stylesel_133</styleUrl>
+            <Point id="geom_133">
                 <coordinates>-122.250162,37.875213,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_339">
+        <Placemark id="feat_137">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_334</styleUrl>
-            <Point id="geom_334">
+            <styleUrl>#stylesel_134</styleUrl>
+            <Point id="geom_134">
                 <coordinates>-122.495241,37.831751,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_340">
+        <Placemark id="feat_138">
             <name>Running Man..........</name>
-            <styleUrl>#stylesel_335</styleUrl>
-            <Point id="geom_335">
+            <styleUrl>#stylesel_135</styleUrl>
+            <Point id="geom_135">
                 <coordinates>-122.471101,37.808648,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_341">
+        <Placemark id="feat_139">
             <name>Merry Christmas Marin County</name>
-            <styleUrl>#stylesel_336</styleUrl>
-            <Point id="geom_336">
+            <styleUrl>#stylesel_136</styleUrl>
+            <Point id="geom_136">
                 <coordinates>-122.473182,37.806935,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_342">
+        <Placemark id="feat_140">
             <name>Starting out/Self portrait in the Santa Suit</name>
-            <styleUrl>#stylesel_337</styleUrl>
-            <Point id="geom_337">
+            <styleUrl>#stylesel_137</styleUrl>
+            <Point id="geom_137">
                 <coordinates>-122.472152,37.807478,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_343">
+        <Placemark id="feat_141">
             <name>HO HO HO</name>
-            <styleUrl>#stylesel_338</styleUrl>
-            <Point id="geom_338">
+            <styleUrl>#stylesel_138</styleUrl>
+            <Point id="geom_138">
                 <coordinates>-122.472496,37.807342,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_344">
+        <Placemark id="feat_142">
             <name>Twirling dervish in the Santa Suit</name>
-            <styleUrl>#stylesel_339</styleUrl>
-            <Point id="geom_339">
+            <styleUrl>#stylesel_139</styleUrl>
+            <Point id="geom_139">
                 <coordinates>-122.472152,37.807885,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_345">
+        <Placemark id="feat_143">
             <name>San Francisco</name>
-            <styleUrl>#stylesel_340</styleUrl>
-            <Point id="geom_340">
+            <styleUrl>#stylesel_140</styleUrl>
+            <Point id="geom_140">
                 <coordinates>-122.476921,37.80585,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_346">
+        <Placemark id="feat_144">
             <name>San Francisco</name>
-            <styleUrl>#stylesel_341</styleUrl>
-            <Point id="geom_341">
+            <styleUrl>#stylesel_141</styleUrl>
+            <Point id="geom_141">
                 <coordinates>-112.13657,36.058231,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_347">
+        <Placemark id="feat_145">
             <name>Construction</name>
-            <styleUrl>#stylesel_342</styleUrl>
-            <Point id="geom_342">
+            <styleUrl>#stylesel_142</styleUrl>
+            <Point id="geom_142">
                 <coordinates>-122.480048,37.832383,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_348">
+        <Placemark id="feat_146">
             <name>Must Exit</name>
-            <styleUrl>#stylesel_343</styleUrl>
-            <Point id="geom_343">
+            <styleUrl>#stylesel_143</styleUrl>
+            <Point id="geom_143">
                 <coordinates>-122.472807,37.80424,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_349">
+        <Placemark id="feat_147">
             <name>Golden Gate Sunset</name>
-            <styleUrl>#stylesel_344</styleUrl>
-            <Point id="geom_344">
+            <styleUrl>#stylesel_144</styleUrl>
+            <Point id="geom_144">
                 <coordinates>-122.508544,37.853169,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_350">
+        <Placemark id="feat_148">
             <name>Solarized Golden Gate</name>
-            <styleUrl>#stylesel_345</styleUrl>
-            <Point id="geom_345">
+            <styleUrl>#stylesel_145</styleUrl>
+            <Point id="geom_145">
                 <coordinates>-122.471603,37.804838,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_351">
+        <Placemark id="feat_149">
             <name>Pink Moon, Golden Gate - Lunar Eclipse 2011</name>
-            <styleUrl>#stylesel_346</styleUrl>
-            <Point id="geom_346">
+            <styleUrl>#stylesel_146</styleUrl>
+            <Point id="geom_146">
                 <coordinates>-122.454825,37.806206,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_352">
+        <Placemark id="feat_150">
             <name>Jennifer and Tanya at the Golden Gate</name>
-            <styleUrl>#stylesel_347</styleUrl>
-            <Point id="geom_347">
+            <styleUrl>#stylesel_147</styleUrl>
+            <Point id="geom_147">
                 <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_353">
+        <Placemark id="feat_151">
             <name>SF at Dusk</name>
-            <styleUrl>#stylesel_348</styleUrl>
-            <Point id="geom_348">
+            <styleUrl>#stylesel_148</styleUrl>
+            <Point id="geom_148">
                 <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_354">
+        <Placemark id="feat_152">
             <name>The Golden Gate</name>
-            <styleUrl>#stylesel_349</styleUrl>
-            <Point id="geom_349">
+            <styleUrl>#stylesel_149</styleUrl>
+            <Point id="geom_149">
                 <coordinates>-122.479684,37.8327,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_355">
+        <Placemark id="feat_153">
             <name>Quest for Fog</name>
-            <styleUrl>#stylesel_350</styleUrl>
-            <Point id="geom_350">
+            <styleUrl>#stylesel_150</styleUrl>
+            <Point id="geom_150">
                 <coordinates>-122.47786,37.831734,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_356">
+        <Placemark id="feat_154">
             <name>By The Pier</name>
-            <styleUrl>#stylesel_351</styleUrl>
-            <Point id="geom_351">
+            <styleUrl>#stylesel_151</styleUrl>
+            <Point id="geom_151">
                 <coordinates>-122.439537,37.805579,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_357">
+        <Placemark id="feat_155">
             <name>Lost in the Fog</name>
-            <styleUrl>#stylesel_352</styleUrl>
-            <Point id="geom_352">
+            <styleUrl>#stylesel_152</styleUrl>
+            <Point id="geom_152">
                 <coordinates>-122.473762,37.80886,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_358">
+        <Placemark id="feat_156">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_353</styleUrl>
-            <Point id="geom_353">
+            <styleUrl>#stylesel_153</styleUrl>
+            <Point id="geom_153">
                 <coordinates>-122.47816,37.809241,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_359">
+        <Placemark id="feat_157">
             <name>The girl in the black blazer</name>
-            <styleUrl>#stylesel_354</styleUrl>
-            <Point id="geom_354">
+            <styleUrl>#stylesel_154</styleUrl>
+            <Point id="geom_154">
                 <coordinates>-122.453727,37.803816,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_360">
+        <Placemark id="feat_158">
             <name>Lunar Eclipse Over Golden Gate</name>
-            <styleUrl>#stylesel_355</styleUrl>
-            <Point id="geom_355">
+            <styleUrl>#stylesel_155</styleUrl>
+            <Point id="geom_155">
                 <coordinates>-122.470498,37.808756,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_361">
+        <Placemark id="feat_159">
             <name>Lunar Eclipse behind South Tower</name>
-            <styleUrl>#stylesel_356</styleUrl>
-            <Point id="geom_356">
+            <styleUrl>#stylesel_156</styleUrl>
+            <Point id="geom_156">
                 <coordinates>-122.454257,37.806367,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_362">
+        <Placemark id="feat_160">
             <name>Distorsioni californiane</name>
-            <styleUrl>#stylesel_357</styleUrl>
-            <Point id="geom_357">
+            <styleUrl>#stylesel_157</styleUrl>
+            <Point id="geom_157">
                 <coordinates>-122.477645,37.818191,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_363">
+        <Placemark id="feat_161">
             <name>Seelöwen am Pier 39</name>
-            <styleUrl>#stylesel_358</styleUrl>
-            <Point id="geom_358">
+            <styleUrl>#stylesel_158</styleUrl>
+            <Point id="geom_158">
                 <coordinates>-122.410783,37.810292,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_364">
+        <Placemark id="feat_162">
             <name>empty cable cars</name>
-            <styleUrl>#stylesel_359</styleUrl>
-            <Point id="geom_359">
+            <styleUrl>#stylesel_159</styleUrl>
+            <Point id="geom_159">
                 <coordinates>-122.418851,37.797475,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_365">
+        <Placemark id="feat_163">
             <name>Sundown over the ocean</name>
-            <styleUrl>#stylesel_360</styleUrl>
-            <Point id="geom_360">
+            <styleUrl>#stylesel_160</styleUrl>
+            <Point id="geom_160">
                 <coordinates>-122.495412,37.822938,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_366">
+        <Placemark id="feat_164">
             <name>Fisherman's Wharf - Hafen</name>
-            <styleUrl>#stylesel_361</styleUrl>
-            <Point id="geom_361">
+            <styleUrl>#stylesel_161</styleUrl>
+            <Point id="geom_161">
                 <coordinates>-122.407608,37.807376,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_367">
+        <Placemark id="feat_165">
             <name>Pier 39 sign</name>
-            <styleUrl>#stylesel_362</styleUrl>
-            <Point id="geom_362">
+            <styleUrl>#stylesel_162</styleUrl>
+            <Point id="geom_162">
                 <coordinates>-122.409925,37.809173,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_368">
+        <Placemark id="feat_166">
             <name>Harbor at Fisherman's Wharf</name>
-            <styleUrl>#stylesel_363</styleUrl>
-            <Point id="geom_363">
+            <styleUrl>#stylesel_163</styleUrl>
+            <Point id="geom_163">
                 <coordinates>-122.411899,37.809038,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_369">
+        <Placemark id="feat_167">
             <name>Cable Car</name>
-            <styleUrl>#stylesel_364</styleUrl>
-            <Point id="geom_364">
+            <styleUrl>#stylesel_164</styleUrl>
+            <Point id="geom_164">
                 <coordinates>-122.419195,37.802053,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_370">
+        <Placemark id="feat_168">
             <name>Seagull at the harbor</name>
-            <styleUrl>#stylesel_365</styleUrl>
-            <Point id="geom_365">
+            <styleUrl>#stylesel_165</styleUrl>
+            <Point id="geom_165">
                 <coordinates>-122.41044,37.81019,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_371">
+        <Placemark id="feat_169">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_366</styleUrl>
-            <Point id="geom_366">
+            <styleUrl>#stylesel_166</styleUrl>
+            <Point id="geom_166">
                 <coordinates>-122.420911,37.825988,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_372">
+        <Placemark id="feat_170">
             <name>harbor at Golden Gate Bridge</name>
-            <styleUrl>#stylesel_367</styleUrl>
-            <Point id="geom_367">
+            <styleUrl>#stylesel_167</styleUrl>
+            <Point id="geom_167">
                 <coordinates>-122.479362,37.831886,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_373">
+        <Placemark id="feat_171">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_368</styleUrl>
-            <Point id="geom_368">
+            <styleUrl>#stylesel_168</styleUrl>
+            <Point id="geom_168">
                 <coordinates>-122.486228,37.826429,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_374">
+        <Placemark id="feat_172">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_369</styleUrl>
-            <Point id="geom_369">
+            <styleUrl>#stylesel_169</styleUrl>
+            <Point id="geom_169">
                 <coordinates>-122.475328,37.808597,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_375">
+        <Placemark id="feat_173">
             <name>Golden Gate Bridge at night</name>
-            <styleUrl>#stylesel_370</styleUrl>
-            <Point id="geom_370">
+            <styleUrl>#stylesel_170</styleUrl>
+            <Point id="geom_170">
                 <coordinates>-122.4864,37.827039,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_376">
+        <Placemark id="feat_174">
             <name>Blick vom Pier39 zur Alcatraz-Insel</name>
-            <styleUrl>#stylesel_371</styleUrl>
-            <Point id="geom_371">
+            <styleUrl>#stylesel_171</styleUrl>
+            <Point id="geom_171">
                 <coordinates>-122.410526,37.81097,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_377">
+        <Placemark id="feat_175">
             <name>China Town entry</name>
-            <styleUrl>#stylesel_372</styleUrl>
-            <Point id="geom_372">
+            <styleUrl>#stylesel_172</styleUrl>
+            <Point id="geom_172">
                 <coordinates>-122.407994,37.796898,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_378">
+        <Placemark id="feat_176">
             <name>Sonnenuntergang über San Francisco</name>
-            <styleUrl>#stylesel_373</styleUrl>
-            <Point id="geom_373">
+            <styleUrl>#stylesel_173</styleUrl>
+            <Point id="geom_173">
                 <coordinates>-122.4449,37.75299,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_379">
+        <Placemark id="feat_177">
             <name>Blick vom Meer nach San Francisco</name>
-            <styleUrl>#stylesel_374</styleUrl>
-            <Point id="geom_374">
+            <styleUrl>#stylesel_174</styleUrl>
+            <Point id="geom_174">
                 <coordinates>-122.407007,37.818903,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_380">
+        <Placemark id="feat_178">
             <name>China Town</name>
-            <styleUrl>#stylesel_375</styleUrl>
-            <Point id="geom_375">
+            <styleUrl>#stylesel_175</styleUrl>
+            <Point id="geom_175">
                 <coordinates>-122.407779,37.796729,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_381">
+        <Placemark id="feat_179">
             <name>Golden Gate Bridge in der nebligen Dämmerung</name>
-            <styleUrl>#stylesel_376</styleUrl>
-            <Point id="geom_376">
+            <styleUrl>#stylesel_176</styleUrl>
+            <Point id="geom_176">
                 <coordinates>-122.44769,37.750018,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_382">
+        <Placemark id="feat_180">
             <name>foggy sunset</name>
-            <styleUrl>#stylesel_377</styleUrl>
-            <Point id="geom_377">
+            <styleUrl>#stylesel_177</styleUrl>
+            <Point id="geom_177">
                 <coordinates>-122.448291,37.750527,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_383">
+        <Placemark id="feat_181">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_378</styleUrl>
-            <Point id="geom_378">
+            <styleUrl>#stylesel_178</styleUrl>
+            <Point id="geom_178">
                 <coordinates>-122.424259,37.827243,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_384">
+        <Placemark id="feat_182">
             <name>Sunset</name>
-            <styleUrl>#stylesel_379</styleUrl>
-            <Point id="geom_379">
+            <styleUrl>#stylesel_179</styleUrl>
+            <Point id="geom_179">
                 <coordinates>-122.448034,37.750527,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_385">
+        <Placemark id="feat_183">
             <name>Alcatraz overview</name>
-            <styleUrl>#stylesel_380</styleUrl>
-            <Point id="geom_380">
+            <styleUrl>#stylesel_180</styleUrl>
+            <Point id="geom_180">
                 <coordinates>-122.418937,37.825243,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_386">
+        <Placemark id="feat_184">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_381</styleUrl>
-            <Point id="geom_381">
+            <styleUrl>#stylesel_181</styleUrl>
+            <Point id="geom_181">
                 <coordinates>-122.424602,37.827446,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_387">
+        <Placemark id="feat_185">
             <name>San Francisco at night</name>
-            <styleUrl>#stylesel_382</styleUrl>
-            <Point id="geom_382">
+            <styleUrl>#stylesel_182</styleUrl>
+            <Point id="geom_182">
                 <coordinates>-122.448377,37.75124,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_388">
+        <Placemark id="feat_186">
             <name>Alcatraz und die Ein-Mann-Zelle</name>
-            <styleUrl>#stylesel_383</styleUrl>
-            <Point id="geom_383">
+            <styleUrl>#stylesel_183</styleUrl>
+            <Point id="geom_183">
                 <coordinates>-122.424173,37.827751,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_389">
+        <Placemark id="feat_187">
             <name>Golden Gate Bridge von weitem</name>
-            <styleUrl>#stylesel_384</styleUrl>
-            <Point id="geom_384">
+            <styleUrl>#stylesel_184</styleUrl>
+            <Point id="geom_184">
                 <coordinates>-122.423744,37.826632,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_390">
+        <Placemark id="feat_188">
             <name>Alamo Square</name>
-            <styleUrl>#stylesel_385</styleUrl>
-            <Point id="geom_385">
+            <styleUrl>#stylesel_185</styleUrl>
+            <Point id="geom_185">
                 <coordinates>-122.434902,37.776549,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_391">
+        <Placemark id="feat_189">
             <name>Alcatraz - Aussichtsturm</name>
-            <styleUrl>#stylesel_386</styleUrl>
-            <Point id="geom_386">
+            <styleUrl>#stylesel_186</styleUrl>
+            <Point id="geom_186">
                 <coordinates>-122.422714,37.827039,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_392">
+        <Placemark id="feat_190">
             <name>Harbor</name>
-            <styleUrl>#stylesel_387</styleUrl>
-            <Point id="geom_387">
+            <styleUrl>#stylesel_187</styleUrl>
+            <Point id="geom_187">
                 <coordinates>-122.400827,37.80507,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_393">
+        <Placemark id="feat_191">
             <name>Blick von Alcatraz zum Festland</name>
-            <styleUrl>#stylesel_388</styleUrl>
-            <Point id="geom_388">
+            <styleUrl>#stylesel_188</styleUrl>
+            <Point id="geom_188">
                 <coordinates>-122.421941,37.824971,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_394">
+        <Placemark id="feat_192">
             <name>Alamo Square</name>
-            <styleUrl>#stylesel_389</styleUrl>
-            <Point id="geom_389">
+            <styleUrl>#stylesel_189</styleUrl>
+            <Point id="geom_189">
                 <coordinates>-122.433967,37.776218,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_395">
+        <Placemark id="feat_193">
             <name>Temptation</name>
-            <styleUrl>#stylesel_390</styleUrl>
-            <Point id="geom_390">
+            <styleUrl>#stylesel_190</styleUrl>
+            <Point id="geom_190">
                 <coordinates>-122.476834,37.810666,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_396">
+        <Placemark id="feat_194">
             <name>Under the Cherry Moon</name>
-            <styleUrl>#stylesel_391</styleUrl>
-            <Point id="geom_391">
+            <styleUrl>#stylesel_191</styleUrl>
+            <Point id="geom_191">
                 <coordinates>-122.451961,37.80613,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_397">
+        <Placemark id="feat_195">
             <name>San Francisco - Pic 11</name>
-            <styleUrl>#stylesel_392</styleUrl>
-            <Point id="geom_392">
+            <styleUrl>#stylesel_192</styleUrl>
+            <Point id="geom_192">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_398">
+        <Placemark id="feat_196">
             <name>San Francisco - Pic 09</name>
-            <styleUrl>#stylesel_393</styleUrl>
-            <Point id="geom_393">
+            <styleUrl>#stylesel_193</styleUrl>
+            <Point id="geom_193">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_399">
+        <Placemark id="feat_197">
             <name>San Francisco - Pic 08</name>
-            <styleUrl>#stylesel_394</styleUrl>
-            <Point id="geom_394">
+            <styleUrl>#stylesel_194</styleUrl>
+            <Point id="geom_194">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_400">
+        <Placemark id="feat_198">
             <name>San Francisco - Pic 03</name>
-            <styleUrl>#stylesel_395</styleUrl>
-            <Point id="geom_395">
+            <styleUrl>#stylesel_195</styleUrl>
+            <Point id="geom_195">
                 <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_401">
+        <Placemark id="feat_199">
             <name>San Francisco - Pic 02</name>
-            <styleUrl>#stylesel_396</styleUrl>
-            <Point id="geom_396">
+            <styleUrl>#stylesel_196</styleUrl>
+            <Point id="geom_196">
                 <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_402">
+        <Placemark id="feat_200">
             <name>San Francisco - Pic 07</name>
-            <styleUrl>#stylesel_397</styleUrl>
-            <Point id="geom_397">
+            <styleUrl>#stylesel_197</styleUrl>
+            <Point id="geom_197">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_403">
+        <Placemark id="feat_201">
             <name>San Francisco - Pic 17</name>
-            <styleUrl>#stylesel_398</styleUrl>
-            <Point id="geom_398">
+            <styleUrl>#stylesel_198</styleUrl>
+            <Point id="geom_198">
                 <coordinates>-122.446939,37.754633,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_404">
+        <Placemark id="feat_202">
             <name>San Francisco - Pic 18</name>
-            <styleUrl>#stylesel_399</styleUrl>
-            <Point id="geom_399">
+            <styleUrl>#stylesel_199</styleUrl>
+            <Point id="geom_199">
                 <coordinates>-122.446939,37.754633,0.0</coordinates>
             </Point>
         </Placemark>
