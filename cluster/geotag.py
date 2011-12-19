@@ -133,14 +133,19 @@ def cluster_photos(photos):
     
     """
      
-    clusters = {}
-    used_colors = {}
-    count = 0
-    
+    clusters = {}    
     centroids = get_centroids(photos)
+    
+    #assign photos using k means
     k_means(photos, centroids)
     
-    return photos
+    #compute a final average of all photos
+    compute_new_averages(centroids)
+    
+    #sort the clusters
+    sorted_clusters = sorted(centroids, key=lambda k:len(k['photos']), reverse=True)
+    
+    return {'photos':photos, 'clusters':sorted_clusters}
 
 def parse_geotag_clusters(photos):
     """

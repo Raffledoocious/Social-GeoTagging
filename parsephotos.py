@@ -26,8 +26,9 @@ def parse_clusters(args, photos):
     #for now just parses out geoTag information
     clusters = []
     
+    #has additional information for geotag clustering
     if args is 'geotag':
-        clusters = parse_geotag_clusters(photos)
+        return parse_geotag_clusters(photos)
     elif args is 'color':
         clusters = parse_color_clusters(photos)
     elif args is'tag':
