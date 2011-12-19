@@ -13,9 +13,6 @@ def makeList(filename):
 	return list
 
 
-
-		
-
 # makes a kml file given a set of photos and a destination file name
 def makeKML(thePhotos, filename):
 	kml = simplekml.Kml()
@@ -44,7 +41,9 @@ for i in range(len(titlesList)):
 	
 # returns a kml that clusters photos based on proximity
 # photos taken in relatively the same area are colored the same
-locationClusters = parse_clusters("geotag", photos)
+locationData = parse_clusters("geotag", photos)
+locationClusters = locationData['photos']
+locationClusterData = locationData['clusters']
 makeKML(locationClusters, 'location-cluster.kml')
 
 # returns a kml that clusters photos based on date
@@ -59,10 +58,5 @@ makeKML(colorClusters, 'color-cluster.kml')
 
 # returns a kml that clusters photos based on a tag
 # photos with a common tag are clustered by same color pin
-tagClusters = parse_clusters('tag', photos)
-makeKML(tagClusters, 'tag-cluster.kml')
-
-# returns a kml that clusters photos based on tags
-# photos with similar colors are colored the same
 tagClusters = parse_clusters('tag', photos)
 makeKML(tagClusters, 'tag-cluster.kml')
