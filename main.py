@@ -4,6 +4,7 @@ import glob
 import simplekml
 from parsephotos import parse_clusters
 from cluster.utility import returnColor
+from places import newLandmarks
 
 # make a list out of the lines of a text file
 def makeList(filename):
@@ -17,7 +18,7 @@ def makeList(filename):
 def makeKML(thePhotos, filename):
 	kml = simplekml.Kml()
 	for photo in thePhotos:
-		pnt = kml.newpoint(name=photo['title'], coords=[(photo['lon'],photo['lat'])])
+		pnt = kml.newpoint(name=photo['title'], coords=[(photo['lon'],photo['lat'])], description=photo['flickrurl'])
 		pnt.iconstyle.color = photo['iconcolor']
 		pnt.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png'
 	kml.save(filename)
@@ -46,6 +47,19 @@ locationData = parse_clusters("geotag", photos)
 locationClusters = locationData['photos']
 locationClusterData = locationData['clusters']
 makeKML(locationClusters, 'location-cluster.kml')
+
+# returns a kml that identifies new landmarks based on previous clusters
+landmarks = []
+for entry in locationClusterData:
+	print(str(entry['lat']) + ', ' + str(entry['lon']))
+	landmarks.append(newLandmarks(str(entry['lat']),str(entry['lon'])))
+
+kml = simplekml.Kml()
+for landmark in landmarks:
+	for place in landmark:
+		pnt = kml.newpoint(name=place['name'], coords=[(place['lon'],place['lat'])])
+		pnt.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png'
+	kml.save('landmarks.kml')
 
 # returns a kml that clusters photos based on date
 # photos taken are categorized into three predefined buckets

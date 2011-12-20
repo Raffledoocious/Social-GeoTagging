@@ -12,15 +12,38 @@ import urllib
 API_KEY = 'AIzaSyCtc-W3m2xFf_j9Qi4Axvfqe2lonkR2Uy8'
 GOOGLEMAPS = 'https://maps.googleapis.com/maps/api/place/search/json'
 COORDS = '37.82645,-122.42323'
-RADIUS = 50
+RADIUS = 500
 
 def search(coords, radius):
 	url = GOOGLEMAPS + '?location=' + coords + '&radius=' + str(radius) + '&sensor=false&key=' + API_KEY + '&type=point_of_interest'
+	print(url)
 	result = simplejson.load(urllib.urlopen(url))
 	return result
 	
 
-places = search(COORDS, 50)
-for place in places['results']:
-	print(place['name'])
+#places = search(COORDS, 50)
+#for place in places['results']:
+#	print(place['name'])
+
+def newLandmarks(lat,lon):
+	coords = makeCoords(lat,lon)
+	places = search(coords, RADIUS)
+	landmarks = []
+	for place in places['results']:
+		#print(place['name'])
+		landmarks.append({'name':place['name'],'lat':place['geometry']['location']['lat'],'lon':place['geometry']['location']['lng'],'types':place['types']})
+	
+	filteredLandmarks = []
+	for landmark in landmarks:
+		found = False
+		for types in landmark['types']:
+			if(types == 'establishment' or types == 'park' or types == 'neighborhood'):
+				found = True
+			if(found == True):
+				filteredLandmarks.append(landmark)
+	
+	return filteredLandmarks
+	
+def makeCoords(lat, lon):
+	return str(lat) + ',' + str(lon)
 	
