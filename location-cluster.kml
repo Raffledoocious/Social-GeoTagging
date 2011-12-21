@@ -4,7 +4,7 @@
         <Style id="stylesel_0">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -15,7 +15,7 @@
         <Style id="stylesel_1">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -26,7 +26,7 @@
         <Style id="stylesel_2">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -37,7 +37,7 @@
         <Style id="stylesel_3">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -48,7 +48,7 @@
         <Style id="stylesel_4">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff147839</color>
+                <color>ffc6df39</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -59,7 +59,7 @@
         <Style id="stylesel_5">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -70,7 +70,7 @@
         <Style id="stylesel_6">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff147839</color>
+                <color>ffc6df39</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -81,7 +81,7 @@
         <Style id="stylesel_7">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff147839</color>
+                <color>ffc6df39</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -92,7 +92,7 @@
         <Style id="stylesel_8">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -103,7 +103,7 @@
         <Style id="stylesel_9">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -114,7 +114,7 @@
         <Style id="stylesel_10">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -125,7 +125,7 @@
         <Style id="stylesel_11">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -136,7 +136,7 @@
         <Style id="stylesel_12">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -147,7 +147,7 @@
         <Style id="stylesel_13">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -158,7 +158,7 @@
         <Style id="stylesel_14">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -169,7 +169,7 @@
         <Style id="stylesel_15">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -180,7 +180,7 @@
         <Style id="stylesel_16">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -191,7 +191,7 @@
         <Style id="stylesel_17">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -202,7 +202,7 @@
         <Style id="stylesel_18">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -213,7 +213,7 @@
         <Style id="stylesel_19">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -224,7 +224,7 @@
         <Style id="stylesel_20">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -235,7 +235,7 @@
         <Style id="stylesel_21">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -246,7 +246,7 @@
         <Style id="stylesel_22">
             <IconStyle>
                 <scale>1</scale>
-                <color>fff235c4</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -257,7 +257,7 @@
         <Style id="stylesel_23">
             <IconStyle>
                 <scale>1</scale>
-                <color>fff235c4</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -268,7 +268,7 @@
         <Style id="stylesel_24">
             <IconStyle>
                 <scale>1</scale>
-                <color>fff235c4</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -279,7 +279,7 @@
         <Style id="stylesel_25">
             <IconStyle>
                 <scale>1</scale>
-                <color>fff235c4</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -290,7 +290,7 @@
         <Style id="stylesel_26">
             <IconStyle>
                 <scale>1</scale>
-                <color>fff235c4</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -301,7 +301,7 @@
         <Style id="stylesel_27">
             <IconStyle>
                 <scale>1</scale>
-                <color>fff235c4</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -312,7 +312,7 @@
         <Style id="stylesel_28">
             <IconStyle>
                 <scale>1</scale>
-                <color>fff235c4</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -323,7 +323,7 @@
         <Style id="stylesel_29">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -334,7 +334,7 @@
         <Style id="stylesel_30">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>ff22b197</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -345,7 +345,7 @@
         <Style id="stylesel_31">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -356,7 +356,7 @@
         <Style id="stylesel_32">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -367,7 +367,7 @@
         <Style id="stylesel_33">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>ff22b197</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -378,7 +378,7 @@
         <Style id="stylesel_34">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff147839</color>
+                <color>ffc6df39</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -389,7 +389,7 @@
         <Style id="stylesel_35">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -400,7 +400,7 @@
         <Style id="stylesel_36">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -411,7 +411,7 @@
         <Style id="stylesel_37">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -422,7 +422,7 @@
         <Style id="stylesel_38">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -433,7 +433,7 @@
         <Style id="stylesel_39">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -444,7 +444,7 @@
         <Style id="stylesel_40">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -455,7 +455,7 @@
         <Style id="stylesel_41">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff052209</color>
+                <color>ffd5d1e1</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -466,7 +466,7 @@
         <Style id="stylesel_42">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -477,7 +477,7 @@
         <Style id="stylesel_43">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -488,7 +488,7 @@
         <Style id="stylesel_44">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff147839</color>
+                <color>ffc6df39</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -499,7 +499,7 @@
         <Style id="stylesel_45">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -510,7 +510,7 @@
         <Style id="stylesel_46">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -521,7 +521,7 @@
         <Style id="stylesel_47">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -532,7 +532,7 @@
         <Style id="stylesel_48">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -543,7 +543,7 @@
         <Style id="stylesel_49">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -554,7 +554,7 @@
         <Style id="stylesel_50">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -565,7 +565,7 @@
         <Style id="stylesel_51">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -576,7 +576,7 @@
         <Style id="stylesel_52">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -587,7 +587,7 @@
         <Style id="stylesel_53">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -598,7 +598,7 @@
         <Style id="stylesel_54">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -609,7 +609,7 @@
         <Style id="stylesel_55">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -620,7 +620,7 @@
         <Style id="stylesel_56">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -631,7 +631,7 @@
         <Style id="stylesel_57">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -642,7 +642,7 @@
         <Style id="stylesel_58">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -653,7 +653,7 @@
         <Style id="stylesel_59">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -664,7 +664,7 @@
         <Style id="stylesel_60">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff147839</color>
+                <color>ffc6df39</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -675,7 +675,7 @@
         <Style id="stylesel_61">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -686,7 +686,7 @@
         <Style id="stylesel_62">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -697,7 +697,7 @@
         <Style id="stylesel_63">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -708,7 +708,7 @@
         <Style id="stylesel_64">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -719,7 +719,7 @@
         <Style id="stylesel_65">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -730,7 +730,7 @@
         <Style id="stylesel_66">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -741,7 +741,7 @@
         <Style id="stylesel_67">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -752,7 +752,7 @@
         <Style id="stylesel_68">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -763,7 +763,7 @@
         <Style id="stylesel_69">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -774,7 +774,7 @@
         <Style id="stylesel_70">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -785,7 +785,7 @@
         <Style id="stylesel_71">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -796,7 +796,7 @@
         <Style id="stylesel_72">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -807,7 +807,7 @@
         <Style id="stylesel_73">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -818,7 +818,7 @@
         <Style id="stylesel_74">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -829,7 +829,7 @@
         <Style id="stylesel_75">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -840,7 +840,7 @@
         <Style id="stylesel_76">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -851,7 +851,7 @@
         <Style id="stylesel_77">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -862,7 +862,7 @@
         <Style id="stylesel_78">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -873,7 +873,7 @@
         <Style id="stylesel_79">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -884,7 +884,7 @@
         <Style id="stylesel_80">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -895,7 +895,7 @@
         <Style id="stylesel_81">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -906,7 +906,7 @@
         <Style id="stylesel_82">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -917,7 +917,7 @@
         <Style id="stylesel_83">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -928,7 +928,7 @@
         <Style id="stylesel_84">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -939,7 +939,7 @@
         <Style id="stylesel_85">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -950,7 +950,7 @@
         <Style id="stylesel_86">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -961,7 +961,7 @@
         <Style id="stylesel_87">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -972,7 +972,7 @@
         <Style id="stylesel_88">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -983,7 +983,7 @@
         <Style id="stylesel_89">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -994,7 +994,7 @@
         <Style id="stylesel_90">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1005,7 +1005,7 @@
         <Style id="stylesel_91">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff179ae0</color>
+                <color>ff850fd4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1016,7 +1016,7 @@
         <Style id="stylesel_92">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1027,7 +1027,7 @@
         <Style id="stylesel_93">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1038,7 +1038,7 @@
         <Style id="stylesel_94">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1049,7 +1049,7 @@
         <Style id="stylesel_95">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1060,7 +1060,7 @@
         <Style id="stylesel_96">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff39ea8b</color>
+                <color>fffa0b76</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1071,7 +1071,7 @@
         <Style id="stylesel_97">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff3b0965</color>
+                <color>fff5d8b4</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1082,7 +1082,7 @@
         <Style id="stylesel_98">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -1093,7 +1093,7 @@
         <Style id="stylesel_99">
             <IconStyle>
                 <scale>1</scale>
-                <color>ff771f89</color>
+                <color>ff6adb46</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>

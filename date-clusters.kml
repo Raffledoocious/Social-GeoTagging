@@ -1,6 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
-    <Document id="feat_214">
+    <Document id="feat_195">
+        <Style id="stylesel_192">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BBFF9D00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_193">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_194">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BBFF0000</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_195">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_196">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_197">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_198">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_199">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_200">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_201">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_202">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_203">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_204">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_205">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BBFF9D00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_206">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BBFF9D00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_207">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BBFF9D00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_208">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BBFF9D00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_209">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BB33FF00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_210">
+            <IconStyle>
+                <scale>1</scale>
+                <color>BBFF9D00</color>
+                <colorMode>normal</colorMode>
+                <heading>0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <Style id="stylesel_211">
             <IconStyle>
                 <scale>1</scale>
@@ -15,7 +224,7 @@
         <Style id="stylesel_212">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -26,7 +235,7 @@
         <Style id="stylesel_213">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF0000</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -37,7 +246,7 @@
         <Style id="stylesel_214">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -48,7 +257,7 @@
         <Style id="stylesel_215">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -59,7 +268,7 @@
         <Style id="stylesel_216">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -70,7 +279,7 @@
         <Style id="stylesel_217">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -81,7 +290,7 @@
         <Style id="stylesel_218">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -92,7 +301,7 @@
         <Style id="stylesel_219">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -103,7 +312,7 @@
         <Style id="stylesel_220">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -158,7 +367,7 @@
         <Style id="stylesel_225">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -202,7 +411,7 @@
         <Style id="stylesel_229">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -213,7 +422,7 @@
         <Style id="stylesel_230">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -224,7 +433,7 @@
         <Style id="stylesel_231">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -235,7 +444,7 @@
         <Style id="stylesel_232">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -246,7 +455,7 @@
         <Style id="stylesel_233">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -279,7 +488,7 @@
         <Style id="stylesel_236">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BB0033CC</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -290,7 +499,7 @@
         <Style id="stylesel_237">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BB33FF00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -323,7 +532,7 @@
         <Style id="stylesel_240">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -334,7 +543,7 @@
         <Style id="stylesel_241">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -345,7 +554,7 @@
         <Style id="stylesel_242">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -356,7 +565,7 @@
         <Style id="stylesel_243">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BB0033CC</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -367,7 +576,7 @@
         <Style id="stylesel_244">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -378,7 +587,7 @@
         <Style id="stylesel_245">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -400,7 +609,7 @@
         <Style id="stylesel_247">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -411,7 +620,7 @@
         <Style id="stylesel_248">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -422,7 +631,7 @@
         <Style id="stylesel_249">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -433,7 +642,7 @@
         <Style id="stylesel_250">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -444,7 +653,7 @@
         <Style id="stylesel_251">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF0000</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -455,7 +664,7 @@
         <Style id="stylesel_252">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF0000</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -488,7 +697,7 @@
         <Style id="stylesel_255">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB0033CC</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -499,7 +708,7 @@
         <Style id="stylesel_256">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -554,7 +763,7 @@
         <Style id="stylesel_261">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB33FF00</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -565,7 +774,7 @@
         <Style id="stylesel_262">
             <IconStyle>
                 <scale>1</scale>
-                <color>BB0033CC</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -587,7 +796,7 @@
         <Style id="stylesel_264">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF0000</color>
+                <color>BBFF9D00</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -785,7 +994,7 @@
         <Style id="stylesel_282">
             <IconStyle>
                 <scale>1</scale>
-                <color>BBFF9D00</color>
+                <color>BBFF0000</color>
                 <colorMode>normal</colorMode>
                 <heading>0</heading>
                 <Icon>
@@ -892,1011 +1101,802 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="stylesel_292">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_293">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_294">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_295">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_296">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_297">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_298">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_299">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_300">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_301">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF0000</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_302">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_303">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_304">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_305">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_306">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_307">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_308">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_309">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="stylesel_310">
-            <IconStyle>
-                <scale>1</scale>
-                <color>BBFF9D00</color>
-                <colorMode>normal</colorMode>
-                <heading>0</heading>
-                <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Placemark id="feat_215">
+        <Placemark id="feat_196">
             <name>Impressions of America: A Roadtrip. Day 18</name>
-            <styleUrl>#stylesel_211</styleUrl>
-            <Point id="geom_211">
+            <styleUrl>#stylesel_192</styleUrl>
+            <Point id="geom_192">
                 <coordinates>-122.477903,37.81463,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7003/6538960079_06157496b7.jpg</description>
         </Placemark>
-        <Placemark id="feat_216">
+        <Placemark id="feat_197">
             <name>H a  p p y  H o l i d a y s  !!</name>
-            <styleUrl>#stylesel_212</styleUrl>
-            <Point id="geom_212">
+            <styleUrl>#stylesel_193</styleUrl>
+            <Point id="geom_193">
                 <coordinates>-122.427177,37.756194,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7169/6536665261_29bd72aa00.jpg</description>
         </Placemark>
-        <Placemark id="feat_217">
+        <Placemark id="feat_198">
             <name>The Grass is Greener on the Other Side</name>
-            <styleUrl>#stylesel_213</styleUrl>
-            <Point id="geom_213">
+            <styleUrl>#stylesel_194</styleUrl>
+            <Point id="geom_194">
                 <coordinates>-122.476615,37.804765,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7014/6536015467_0bd8e88ecf.jpg</description>
         </Placemark>
-        <Placemark id="feat_218">
+        <Placemark id="feat_199">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_214</styleUrl>
-            <Point id="geom_214">
+            <styleUrl>#stylesel_195</styleUrl>
+            <Point id="geom_195">
                 <coordinates>-122.481808,37.830293,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7024/6535858377_7dc254a71f.jpg</description>
         </Placemark>
-        <Placemark id="feat_219">
+        <Placemark id="feat_200">
             <name>14:25</name>
-            <styleUrl>#stylesel_215</styleUrl>
-            <Point id="geom_215">
+            <styleUrl>#stylesel_196</styleUrl>
+            <Point id="geom_196">
                 <coordinates>-122.498834,37.827666,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7011/6535796927_af799d1999.jpg</description>
         </Placemark>
-        <Placemark id="feat_220">
+        <Placemark id="feat_201">
             <name>14:10</name>
-            <styleUrl>#stylesel_216</styleUrl>
-            <Point id="geom_216">
+            <styleUrl>#stylesel_197</styleUrl>
+            <Point id="geom_197">
                 <coordinates>-122.4775,37.811333,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7024/6535795085_52053f01c3.jpg</description>
         </Placemark>
-        <Placemark id="feat_221">
+        <Placemark id="feat_202">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_217</styleUrl>
-            <Point id="geom_217">
+            <styleUrl>#stylesel_198</styleUrl>
+            <Point id="geom_198">
                 <coordinates>-122.516269,37.826632,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7148/6535770195_8021cd0613.jpg</description>
         </Placemark>
-        <Placemark id="feat_222">
+        <Placemark id="feat_203">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_218</styleUrl>
-            <Point id="geom_218">
+            <styleUrl>#stylesel_199</styleUrl>
+            <Point id="geom_199">
                 <coordinates>-122.515797,37.825717,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7029/6535786567_d7cf8541c4.jpg</description>
         </Placemark>
-        <Placemark id="feat_223">
+        <Placemark id="feat_204">
             <name>Marin Headlands</name>
-            <styleUrl>#stylesel_219</styleUrl>
-            <Point id="geom_219">
+            <styleUrl>#stylesel_200</styleUrl>
+            <Point id="geom_200">
                 <coordinates>-122.480843,37.827387,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7020/6535745313_24a13e03a2.jpg</description>
         </Placemark>
-        <Placemark id="feat_224">
+        <Placemark id="feat_205">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_220</styleUrl>
-            <Point id="geom_220">
+            <styleUrl>#stylesel_201</styleUrl>
+            <Point id="geom_201">
                 <coordinates>-122.480843,37.827387,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7014/6535736895_fe4c15ef87.jpg</description>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>Golden Gate Bridge</name>
+            <styleUrl>#stylesel_202</styleUrl>
+            <Point id="geom_202">
+                <coordinates>-122.480843,37.827387,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7008/6535740249_31bb9aa1dc.jpg</description>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>PBR + GG</name>
+            <styleUrl>#stylesel_203</styleUrl>
+            <Point id="geom_203">
+                <coordinates>-122.479863,37.82562,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7004/6535582637_3183454cba.jpg</description>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>Winter Golden Gate</name>
+            <styleUrl>#stylesel_204</styleUrl>
+            <Point id="geom_204">
+                <coordinates>-122.484626,37.826599,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7144/6535544199_265fd098f6.jpg</description>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>Full Lunar Eclipse over the Golden Gate Bridge - Dec 2011</name>
+            <styleUrl>#stylesel_205</styleUrl>
+            <Point id="geom_205">
+                <coordinates>-122.450834,37.806452,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7144/6535124251_c98b4dded4.jpg</description>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>Riveting</name>
+            <styleUrl>#stylesel_206</styleUrl>
+            <Point id="geom_206">
+                <coordinates>-122.477624,37.814072,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7152/6534824583_7eb38c9bfe.jpg</description>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>Suspense</name>
+            <styleUrl>#stylesel_207</styleUrl>
+            <Point id="geom_207">
+                <coordinates>-122.478868,37.824022,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7159/6534822721_008a12b201.jpg</description>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>Bird Posting it</name>
+            <styleUrl>#stylesel_208</styleUrl>
+            <Point id="geom_208">
+                <coordinates>-122.477495,37.83181,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7008/6534263669_744789353f.jpg</description>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>ZIM Savannah</name>
+            <styleUrl>#stylesel_209</styleUrl>
+            <Point id="geom_209">
+                <coordinates>-122.484054,37.813549,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7151/6533770797_ef201e681c.jpg</description>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>Leaving the Golden Gate</name>
+            <styleUrl>#stylesel_210</styleUrl>
+            <Point id="geom_210">
+                <coordinates>-122.486143,37.828793,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7009/6533469755_0314305cee.jpg</description>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>From the Marin Headlands</name>
+            <styleUrl>#stylesel_211</styleUrl>
+            <Point id="geom_211">
+                <coordinates>-122.48611,37.828772,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7156/6533448953_806682c1cc.jpg</description>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>IMG_4371</name>
+            <styleUrl>#stylesel_212</styleUrl>
+            <Point id="geom_212">
+                <coordinates>-122.3763,37.8226,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7034/6532519975_3f7e2a56ea.jpg</description>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>IMG_4370</name>
+            <styleUrl>#stylesel_213</styleUrl>
+            <Point id="geom_213">
+                <coordinates>-122.3763,37.8226,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7141/6532516443_e6c8aa0470.jpg</description>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_214</styleUrl>
+            <Point id="geom_214">
+                <coordinates>-122.505167,37.787,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7152/6529826609_a34100c9c1.jpg</description>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>Helicopter fleeing Golden Gate Bridge</name>
+            <styleUrl>#stylesel_215</styleUrl>
+            <Point id="geom_215">
+                <coordinates>-122.509167,37.783833,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7035/6529835847_973367a644.jpg</description>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_216</styleUrl>
+            <Point id="geom_216">
+                <coordinates>-122.506834,37.787166,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7150/6529829867_4951bcfdcf.jpg</description>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_217</styleUrl>
+            <Point id="geom_217">
+                <coordinates>-122.505834,37.787833,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7031/6529827789_339962cf93.jpg</description>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_218</styleUrl>
+            <Point id="geom_218">
+                <coordinates>-122.505667,37.788,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7024/6529828749_f9972561f1.jpg</description>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_219</styleUrl>
+            <Point id="geom_219">
+                <coordinates>-122.509334,37.784,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7027/6529825873_c95a5b187e.jpg</description>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>Beautiful day at Land's End</name>
+            <styleUrl>#stylesel_220</styleUrl>
+            <Point id="geom_220">
+                <coordinates>-122.511334,37.783333,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7013/6529825145_4a5b229427.jpg</description>
         </Placemark>
         <Placemark id="feat_225">
             <name>Golden Gate Bridge</name>
             <styleUrl>#stylesel_221</styleUrl>
             <Point id="geom_221">
-                <coordinates>-122.480843,37.827387,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7008/6535740249_31bb9aa1dc.jpg</description>
-        </Placemark>
-        <Placemark id="feat_226">
-            <name>PBR + GG</name>
-            <styleUrl>#stylesel_222</styleUrl>
-            <Point id="geom_222">
-                <coordinates>-122.479863,37.82562,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7004/6535582637_3183454cba.jpg</description>
-        </Placemark>
-        <Placemark id="feat_227">
-            <name>Winter Golden Gate</name>
-            <styleUrl>#stylesel_223</styleUrl>
-            <Point id="geom_223">
-                <coordinates>-122.484626,37.826599,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7144/6535544199_265fd098f6.jpg</description>
-        </Placemark>
-        <Placemark id="feat_228">
-            <name>Full Lunar Eclipse over the Golden Gate Bridge - Dec 2011</name>
-            <styleUrl>#stylesel_224</styleUrl>
-            <Point id="geom_224">
-                <coordinates>-122.450834,37.806452,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7144/6535124251_c98b4dded4.jpg</description>
-        </Placemark>
-        <Placemark id="feat_229">
-            <name>Riveting</name>
-            <styleUrl>#stylesel_225</styleUrl>
-            <Point id="geom_225">
-                <coordinates>-122.477624,37.814072,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7152/6534824583_7eb38c9bfe.jpg</description>
-        </Placemark>
-        <Placemark id="feat_230">
-            <name>Suspense</name>
-            <styleUrl>#stylesel_226</styleUrl>
-            <Point id="geom_226">
-                <coordinates>-122.478868,37.824022,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7159/6534822721_008a12b201.jpg</description>
-        </Placemark>
-        <Placemark id="feat_231">
-            <name>Bird Posting it</name>
-            <styleUrl>#stylesel_227</styleUrl>
-            <Point id="geom_227">
-                <coordinates>-122.477495,37.83181,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7008/6534263669_744789353f.jpg</description>
-        </Placemark>
-        <Placemark id="feat_232">
-            <name>ZIM Savannah</name>
-            <styleUrl>#stylesel_228</styleUrl>
-            <Point id="geom_228">
-                <coordinates>-122.484054,37.813549,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7151/6533770797_ef201e681c.jpg</description>
-        </Placemark>
-        <Placemark id="feat_233">
-            <name>Leaving the Golden Gate</name>
-            <styleUrl>#stylesel_229</styleUrl>
-            <Point id="geom_229">
-                <coordinates>-122.486143,37.828793,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7009/6533469755_0314305cee.jpg</description>
-        </Placemark>
-        <Placemark id="feat_234">
-            <name>From the Marin Headlands</name>
-            <styleUrl>#stylesel_230</styleUrl>
-            <Point id="geom_230">
-                <coordinates>-122.48611,37.828772,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7156/6533448953_806682c1cc.jpg</description>
-        </Placemark>
-        <Placemark id="feat_235">
-            <name>IMG_4371</name>
-            <styleUrl>#stylesel_231</styleUrl>
-            <Point id="geom_231">
-                <coordinates>-122.3763,37.8226,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7034/6532519975_3f7e2a56ea.jpg</description>
-        </Placemark>
-        <Placemark id="feat_236">
-            <name>IMG_4370</name>
-            <styleUrl>#stylesel_232</styleUrl>
-            <Point id="geom_232">
-                <coordinates>-122.3763,37.8226,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7141/6532516443_e6c8aa0470.jpg</description>
-        </Placemark>
-        <Placemark id="feat_237">
-            <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_233</styleUrl>
-            <Point id="geom_233">
-                <coordinates>-122.505167,37.787,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7152/6529826609_a34100c9c1.jpg</description>
-        </Placemark>
-        <Placemark id="feat_238">
-            <name>Helicopter fleeing Golden Gate Bridge</name>
-            <styleUrl>#stylesel_234</styleUrl>
-            <Point id="geom_234">
-                <coordinates>-122.509167,37.783833,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7035/6529835847_973367a644.jpg</description>
-        </Placemark>
-        <Placemark id="feat_239">
-            <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_235</styleUrl>
-            <Point id="geom_235">
-                <coordinates>-122.506834,37.787166,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7150/6529829867_4951bcfdcf.jpg</description>
-        </Placemark>
-        <Placemark id="feat_240">
-            <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_236</styleUrl>
-            <Point id="geom_236">
-                <coordinates>-122.505834,37.787833,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7031/6529827789_339962cf93.jpg</description>
-        </Placemark>
-        <Placemark id="feat_241">
-            <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_237</styleUrl>
-            <Point id="geom_237">
-                <coordinates>-122.505667,37.788,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7024/6529828749_f9972561f1.jpg</description>
-        </Placemark>
-        <Placemark id="feat_242">
-            <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_238</styleUrl>
-            <Point id="geom_238">
-                <coordinates>-122.509334,37.784,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7027/6529825873_c95a5b187e.jpg</description>
-        </Placemark>
-        <Placemark id="feat_243">
-            <name>Beautiful day at Land's End</name>
-            <styleUrl>#stylesel_239</styleUrl>
-            <Point id="geom_239">
-                <coordinates>-122.511334,37.783333,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7013/6529825145_4a5b229427.jpg</description>
-        </Placemark>
-        <Placemark id="feat_244">
-            <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_240</styleUrl>
-            <Point id="geom_240">
                 <coordinates>-122.481293,37.827717,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7007/6529341215_7e84bf76a8.jpg</description>
         </Placemark>
-        <Placemark id="feat_245">
+        <Placemark id="feat_226">
             <name>Nothing like good company.</name>
-            <styleUrl>#stylesel_241</styleUrl>
-            <Point id="geom_241">
+            <styleUrl>#stylesel_222</styleUrl>
+            <Point id="geom_222">
                 <coordinates>-122.221612,37.874243,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7024/6529130439_965429c0f9.jpg</description>
         </Placemark>
-        <Placemark id="feat_246">
+        <Placemark id="feat_227">
             <name>San Francisco Dawn</name>
-            <styleUrl>#stylesel_242</styleUrl>
-            <Point id="geom_242">
+            <styleUrl>#stylesel_223</styleUrl>
+            <Point id="geom_223">
                 <coordinates>-122.480317,37.826357,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7174/6528323699_5e7cf80925.jpg</description>
         </Placemark>
-        <Placemark id="feat_247">
+        <Placemark id="feat_228">
             <name>Turn to clear vision</name>
-            <styleUrl>#stylesel_243</styleUrl>
-            <Point id="geom_243">
+            <styleUrl>#stylesel_224</styleUrl>
+            <Point id="geom_224">
                 <coordinates>-122.462081,37.797952,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7153/6525743627_ac2a34b96e.jpg</description>
         </Placemark>
-        <Placemark id="feat_248">
+        <Placemark id="feat_229">
             <name>Sky Like a Neon Sign</name>
-            <styleUrl>#stylesel_244</styleUrl>
-            <Point id="geom_244">
+            <styleUrl>#stylesel_225</styleUrl>
+            <Point id="geom_225">
                 <coordinates>-122.250162,37.875213,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7018/6524017671_0f10875a39.jpg</description>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>Golden Gate Bridge</name>
+            <styleUrl>#stylesel_226</styleUrl>
+            <Point id="geom_226">
+                <coordinates>-122.495241,37.831751,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7154/6523815403_b9547923ef.jpg</description>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>Running Man..........</name>
+            <styleUrl>#stylesel_227</styleUrl>
+            <Point id="geom_227">
+                <coordinates>-122.471101,37.808648,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7160/6523047963_d6490b84e4.jpg</description>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>Merry Christmas Marin County</name>
+            <styleUrl>#stylesel_228</styleUrl>
+            <Point id="geom_228">
+                <coordinates>-122.473182,37.806935,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7165/6522807865_44882cdcf7.jpg</description>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>Starting out/Self portrait in the Santa Suit</name>
+            <styleUrl>#stylesel_229</styleUrl>
+            <Point id="geom_229">
+                <coordinates>-122.472152,37.807478,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7009/6522806231_779be1900c.jpg</description>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>HO HO HO</name>
+            <styleUrl>#stylesel_230</styleUrl>
+            <Point id="geom_230">
+                <coordinates>-122.472496,37.807342,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7169/6522805055_bffae24047.jpg</description>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>Twirling dervish in the Santa Suit</name>
+            <styleUrl>#stylesel_231</styleUrl>
+            <Point id="geom_231">
+                <coordinates>-122.472152,37.807885,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7144/6522808451_5b32d1e21d.jpg</description>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>San Francisco</name>
+            <styleUrl>#stylesel_232</styleUrl>
+            <Point id="geom_232">
+                <coordinates>-122.476921,37.80585,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7027/6522211431_90270aa3b1.jpg</description>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>San Francisco</name>
+            <styleUrl>#stylesel_233</styleUrl>
+            <Point id="geom_233">
+                <coordinates>-112.13657,36.058231,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7141/6522205567_292bb979cf.jpg</description>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>Construction</name>
+            <styleUrl>#stylesel_234</styleUrl>
+            <Point id="geom_234">
+                <coordinates>-122.480048,37.832383,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7021/6521108135_ec53825682.jpg</description>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>Must Exit</name>
+            <styleUrl>#stylesel_235</styleUrl>
+            <Point id="geom_235">
+                <coordinates>-122.472807,37.80424,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7030/6519402457_a3af88ec21.jpg</description>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>Golden Gate Sunset</name>
+            <styleUrl>#stylesel_236</styleUrl>
+            <Point id="geom_236">
+                <coordinates>-122.508544,37.853169,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7030/6518495673_254cb12f9f.jpg</description>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>Solarized Golden Gate</name>
+            <styleUrl>#stylesel_237</styleUrl>
+            <Point id="geom_237">
+                <coordinates>-122.471603,37.804838,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7032/6516378463_b88051dc08.jpg</description>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>Pink Moon, Golden Gate - Lunar Eclipse 2011</name>
+            <styleUrl>#stylesel_238</styleUrl>
+            <Point id="geom_238">
+                <coordinates>-122.454825,37.806206,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7155/6514595787_c94d632c7e.jpg</description>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>Jennifer and Tanya at the Golden Gate</name>
+            <styleUrl>#stylesel_239</styleUrl>
+            <Point id="geom_239">
+                <coordinates>-122.479684,37.8327,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7027/6514236971_bfeef2b4e1.jpg</description>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>SF at Dusk</name>
+            <styleUrl>#stylesel_240</styleUrl>
+            <Point id="geom_240">
+                <coordinates>-122.479684,37.8327,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7142/6514237281_13b4f903c5.jpg</description>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>The Golden Gate</name>
+            <styleUrl>#stylesel_241</styleUrl>
+            <Point id="geom_241">
+                <coordinates>-122.479684,37.8327,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7174/6514237611_aa91e7d753.jpg</description>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>Quest for Fog</name>
+            <styleUrl>#stylesel_242</styleUrl>
+            <Point id="geom_242">
+                <coordinates>-122.47786,37.831734,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7150/6513843187_0d541c3a7d.jpg</description>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>By The Pier</name>
+            <styleUrl>#stylesel_243</styleUrl>
+            <Point id="geom_243">
+                <coordinates>-122.439537,37.805579,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7028/6512006579_f94c6eb112.jpg</description>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>Lost in the Fog</name>
+            <styleUrl>#stylesel_244</styleUrl>
+            <Point id="geom_244">
+                <coordinates>-122.473762,37.80886,0.0</coordinates>
+            </Point>
+            <description>http://farm8.staticflickr.com/7150/6509399809_ab10aabc73.jpg</description>
         </Placemark>
         <Placemark id="feat_249">
             <name>Golden Gate Bridge</name>
             <styleUrl>#stylesel_245</styleUrl>
             <Point id="geom_245">
-                <coordinates>-122.495241,37.831751,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7154/6523815403_b9547923ef.jpg</description>
-        </Placemark>
-        <Placemark id="feat_250">
-            <name>Running Man..........</name>
-            <styleUrl>#stylesel_246</styleUrl>
-            <Point id="geom_246">
-                <coordinates>-122.471101,37.808648,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7160/6523047963_d6490b84e4.jpg</description>
-        </Placemark>
-        <Placemark id="feat_251">
-            <name>Merry Christmas Marin County</name>
-            <styleUrl>#stylesel_247</styleUrl>
-            <Point id="geom_247">
-                <coordinates>-122.473182,37.806935,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7165/6522807865_44882cdcf7.jpg</description>
-        </Placemark>
-        <Placemark id="feat_252">
-            <name>Starting out/Self portrait in the Santa Suit</name>
-            <styleUrl>#stylesel_248</styleUrl>
-            <Point id="geom_248">
-                <coordinates>-122.472152,37.807478,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7009/6522806231_779be1900c.jpg</description>
-        </Placemark>
-        <Placemark id="feat_253">
-            <name>HO HO HO</name>
-            <styleUrl>#stylesel_249</styleUrl>
-            <Point id="geom_249">
-                <coordinates>-122.472496,37.807342,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7169/6522805055_bffae24047.jpg</description>
-        </Placemark>
-        <Placemark id="feat_254">
-            <name>Twirling dervish in the Santa Suit</name>
-            <styleUrl>#stylesel_250</styleUrl>
-            <Point id="geom_250">
-                <coordinates>-122.472152,37.807885,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7144/6522808451_5b32d1e21d.jpg</description>
-        </Placemark>
-        <Placemark id="feat_255">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_251</styleUrl>
-            <Point id="geom_251">
-                <coordinates>-122.476921,37.80585,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7027/6522211431_90270aa3b1.jpg</description>
-        </Placemark>
-        <Placemark id="feat_256">
-            <name>San Francisco</name>
-            <styleUrl>#stylesel_252</styleUrl>
-            <Point id="geom_252">
-                <coordinates>-112.13657,36.058231,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7141/6522205567_292bb979cf.jpg</description>
-        </Placemark>
-        <Placemark id="feat_257">
-            <name>Construction</name>
-            <styleUrl>#stylesel_253</styleUrl>
-            <Point id="geom_253">
-                <coordinates>-122.480048,37.832383,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7021/6521108135_ec53825682.jpg</description>
-        </Placemark>
-        <Placemark id="feat_258">
-            <name>Must Exit</name>
-            <styleUrl>#stylesel_254</styleUrl>
-            <Point id="geom_254">
-                <coordinates>-122.472807,37.80424,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7030/6519402457_a3af88ec21.jpg</description>
-        </Placemark>
-        <Placemark id="feat_259">
-            <name>Golden Gate Sunset</name>
-            <styleUrl>#stylesel_255</styleUrl>
-            <Point id="geom_255">
-                <coordinates>-122.508544,37.853169,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7030/6518495673_254cb12f9f.jpg</description>
-        </Placemark>
-        <Placemark id="feat_260">
-            <name>Solarized Golden Gate</name>
-            <styleUrl>#stylesel_256</styleUrl>
-            <Point id="geom_256">
-                <coordinates>-122.471603,37.804838,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7032/6516378463_b88051dc08.jpg</description>
-        </Placemark>
-        <Placemark id="feat_261">
-            <name>Pink Moon, Golden Gate - Lunar Eclipse 2011</name>
-            <styleUrl>#stylesel_257</styleUrl>
-            <Point id="geom_257">
-                <coordinates>-122.454825,37.806206,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7155/6514595787_c94d632c7e.jpg</description>
-        </Placemark>
-        <Placemark id="feat_262">
-            <name>Jennifer and Tanya at the Golden Gate</name>
-            <styleUrl>#stylesel_258</styleUrl>
-            <Point id="geom_258">
-                <coordinates>-122.479684,37.8327,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7027/6514236971_bfeef2b4e1.jpg</description>
-        </Placemark>
-        <Placemark id="feat_263">
-            <name>SF at Dusk</name>
-            <styleUrl>#stylesel_259</styleUrl>
-            <Point id="geom_259">
-                <coordinates>-122.479684,37.8327,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7142/6514237281_13b4f903c5.jpg</description>
-        </Placemark>
-        <Placemark id="feat_264">
-            <name>The Golden Gate</name>
-            <styleUrl>#stylesel_260</styleUrl>
-            <Point id="geom_260">
-                <coordinates>-122.479684,37.8327,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7174/6514237611_aa91e7d753.jpg</description>
-        </Placemark>
-        <Placemark id="feat_265">
-            <name>Quest for Fog</name>
-            <styleUrl>#stylesel_261</styleUrl>
-            <Point id="geom_261">
-                <coordinates>-122.47786,37.831734,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7150/6513843187_0d541c3a7d.jpg</description>
-        </Placemark>
-        <Placemark id="feat_266">
-            <name>By The Pier</name>
-            <styleUrl>#stylesel_262</styleUrl>
-            <Point id="geom_262">
-                <coordinates>-122.439537,37.805579,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7028/6512006579_f94c6eb112.jpg</description>
-        </Placemark>
-        <Placemark id="feat_267">
-            <name>Lost in the Fog</name>
-            <styleUrl>#stylesel_263</styleUrl>
-            <Point id="geom_263">
-                <coordinates>-122.473762,37.80886,0.0</coordinates>
-            </Point>
-            <description>http://farm8.staticflickr.com/7150/6509399809_ab10aabc73.jpg</description>
-        </Placemark>
-        <Placemark id="feat_268">
-            <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_264</styleUrl>
-            <Point id="geom_264">
                 <coordinates>-122.47816,37.809241,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7171/6509190663_8100a5a74a.jpg</description>
         </Placemark>
-        <Placemark id="feat_269">
+        <Placemark id="feat_250">
             <name>The girl in the black blazer</name>
-            <styleUrl>#stylesel_265</styleUrl>
-            <Point id="geom_265">
+            <styleUrl>#stylesel_246</styleUrl>
+            <Point id="geom_246">
                 <coordinates>-122.453727,37.803816,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7169/6507571457_1f59816807.jpg</description>
         </Placemark>
-        <Placemark id="feat_270">
+        <Placemark id="feat_251">
             <name>Lunar Eclipse Over Golden Gate</name>
-            <styleUrl>#stylesel_266</styleUrl>
-            <Point id="geom_266">
+            <styleUrl>#stylesel_247</styleUrl>
+            <Point id="geom_247">
                 <coordinates>-122.470498,37.808756,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7142/6506611001_300cb589f7.jpg</description>
         </Placemark>
-        <Placemark id="feat_271">
+        <Placemark id="feat_252">
             <name>Lunar Eclipse behind South Tower</name>
-            <styleUrl>#stylesel_267</styleUrl>
-            <Point id="geom_267">
+            <styleUrl>#stylesel_248</styleUrl>
+            <Point id="geom_248">
                 <coordinates>-122.454257,37.806367,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7150/6505380771_41131761a5.jpg</description>
         </Placemark>
-        <Placemark id="feat_272">
+        <Placemark id="feat_253">
             <name>Distorsioni californiane</name>
-            <styleUrl>#stylesel_268</styleUrl>
-            <Point id="geom_268">
+            <styleUrl>#stylesel_249</styleUrl>
+            <Point id="geom_249">
                 <coordinates>-122.477645,37.818191,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7004/6505262489_a997e1b5fd.jpg</description>
         </Placemark>
-        <Placemark id="feat_273">
+        <Placemark id="feat_254">
             <name>untitled</name>
-            <styleUrl>#stylesel_269</styleUrl>
-            <Point id="geom_269">
+            <styleUrl>#stylesel_250</styleUrl>
+            <Point id="geom_250">
                 <coordinates>-122.410783,37.810292,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7163/6504579341_d513a29dac.jpg</description>
         </Placemark>
-        <Placemark id="feat_274">
+        <Placemark id="feat_255">
             <name>empty cable cars</name>
-            <styleUrl>#stylesel_270</styleUrl>
-            <Point id="geom_270">
+            <styleUrl>#stylesel_251</styleUrl>
+            <Point id="geom_251">
                 <coordinates>-122.418851,37.797475,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7162/6504582095_ca031310b3.jpg</description>
         </Placemark>
-        <Placemark id="feat_275">
+        <Placemark id="feat_256">
             <name>Sundown over the ocean</name>
-            <styleUrl>#stylesel_271</styleUrl>
-            <Point id="geom_271">
+            <styleUrl>#stylesel_252</styleUrl>
+            <Point id="geom_252">
                 <coordinates>-122.495412,37.822938,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7003/6504589599_08260c031d.jpg</description>
         </Placemark>
-        <Placemark id="feat_276">
+        <Placemark id="feat_257">
             <name>Fisherman's Wharf - Hafen</name>
-            <styleUrl>#stylesel_272</styleUrl>
-            <Point id="geom_272">
+            <styleUrl>#stylesel_253</styleUrl>
+            <Point id="geom_253">
                 <coordinates>-122.407608,37.807376,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7166/6504573691_acc21d4ecf.jpg</description>
         </Placemark>
-        <Placemark id="feat_277">
+        <Placemark id="feat_258">
             <name>Pier 39 sign</name>
-            <styleUrl>#stylesel_273</styleUrl>
-            <Point id="geom_273">
+            <styleUrl>#stylesel_254</styleUrl>
+            <Point id="geom_254">
                 <coordinates>-122.409925,37.809173,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7030/6504574527_bcac038eb0.jpg</description>
         </Placemark>
-        <Placemark id="feat_278">
+        <Placemark id="feat_259">
             <name>Harbor at Fisherman's Wharf</name>
-            <styleUrl>#stylesel_274</styleUrl>
-            <Point id="geom_274">
+            <styleUrl>#stylesel_255</styleUrl>
+            <Point id="geom_255">
                 <coordinates>-122.411899,37.809038,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7161/6504580235_b611e1d917.jpg</description>
         </Placemark>
-        <Placemark id="feat_279">
+        <Placemark id="feat_260">
             <name>Cable Car</name>
-            <styleUrl>#stylesel_275</styleUrl>
-            <Point id="geom_275">
+            <styleUrl>#stylesel_256</styleUrl>
+            <Point id="geom_256">
                 <coordinates>-122.419195,37.802053,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7143/6504583525_df211ab5a8.jpg</description>
         </Placemark>
-        <Placemark id="feat_280">
+        <Placemark id="feat_261">
             <name>Seagull at the harbor</name>
-            <styleUrl>#stylesel_276</styleUrl>
-            <Point id="geom_276">
+            <styleUrl>#stylesel_257</styleUrl>
+            <Point id="geom_257">
                 <coordinates>-122.41044,37.81019,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7020/6504577173_b1ba9f618b.jpg</description>
         </Placemark>
-        <Placemark id="feat_281">
+        <Placemark id="feat_262">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_277</styleUrl>
-            <Point id="geom_277">
+            <styleUrl>#stylesel_258</styleUrl>
+            <Point id="geom_258">
                 <coordinates>-122.420911,37.825988,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7143/6504572905_4f163d4899.jpg</description>
         </Placemark>
-        <Placemark id="feat_282">
+        <Placemark id="feat_263">
             <name>harbor at Golden Gate Bridge</name>
-            <styleUrl>#stylesel_278</styleUrl>
-            <Point id="geom_278">
+            <styleUrl>#stylesel_259</styleUrl>
+            <Point id="geom_259">
                 <coordinates>-122.479362,37.831886,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7014/6504586705_ec2ccb106f.jpg</description>
         </Placemark>
-        <Placemark id="feat_283">
+        <Placemark id="feat_264">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_279</styleUrl>
-            <Point id="geom_279">
+            <styleUrl>#stylesel_260</styleUrl>
+            <Point id="geom_260">
                 <coordinates>-122.486228,37.826429,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7144/6504588351_19973978a8.jpg</description>
         </Placemark>
-        <Placemark id="feat_284">
+        <Placemark id="feat_265">
             <name>Golden Gate Bridge</name>
-            <styleUrl>#stylesel_280</styleUrl>
-            <Point id="geom_280">
+            <styleUrl>#stylesel_261</styleUrl>
+            <Point id="geom_261">
                 <coordinates>-122.475328,37.808597,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7005/6504584889_e123cc4e82.jpg</description>
         </Placemark>
-        <Placemark id="feat_285">
+        <Placemark id="feat_266">
             <name>Golden Gate Bridge at night</name>
-            <styleUrl>#stylesel_281</styleUrl>
-            <Point id="geom_281">
+            <styleUrl>#stylesel_262</styleUrl>
+            <Point id="geom_262">
                 <coordinates>-122.4864,37.827039,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7005/6504591227_b1bd490055.jpg</description>
         </Placemark>
-        <Placemark id="feat_286">
+        <Placemark id="feat_267">
             <name>Blick vom Pier39 zur Alcatraz-Insel</name>
-            <styleUrl>#stylesel_282</styleUrl>
-            <Point id="geom_282">
+            <styleUrl>#stylesel_263</styleUrl>
+            <Point id="geom_263">
                 <coordinates>-122.410526,37.81097,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7032/6504575919_45329b91b8.jpg</description>
         </Placemark>
-        <Placemark id="feat_287">
+        <Placemark id="feat_268">
             <name>China Town entry</name>
-            <styleUrl>#stylesel_283</styleUrl>
-            <Point id="geom_283">
+            <styleUrl>#stylesel_264</styleUrl>
+            <Point id="geom_264">
                 <coordinates>-122.407994,37.796898,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7173/6504545609_d144a8f555.jpg</description>
         </Placemark>
-        <Placemark id="feat_288">
+        <Placemark id="feat_269">
             <name>untitled</name>
-            <styleUrl>#stylesel_284</styleUrl>
-            <Point id="geom_284">
+            <styleUrl>#stylesel_265</styleUrl>
+            <Point id="geom_265">
                 <coordinates>-122.4449,37.75299,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7007/6504551161_08e122a49a.jpg</description>
         </Placemark>
-        <Placemark id="feat_289">
+        <Placemark id="feat_270">
             <name>Blick vom Meer nach San Francisco</name>
-            <styleUrl>#stylesel_285</styleUrl>
-            <Point id="geom_285">
+            <styleUrl>#stylesel_266</styleUrl>
+            <Point id="geom_266">
                 <coordinates>-122.407007,37.818903,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7158/6504559901_fec0fb0ec9.jpg</description>
         </Placemark>
-        <Placemark id="feat_290">
+        <Placemark id="feat_271">
             <name>China Town</name>
-            <styleUrl>#stylesel_286</styleUrl>
-            <Point id="geom_286">
+            <styleUrl>#stylesel_267</styleUrl>
+            <Point id="geom_267">
                 <coordinates>-122.407779,37.796729,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7156/6504550199_00ef7629f0.jpg</description>
         </Placemark>
-        <Placemark id="feat_291">
+        <Placemark id="feat_272">
             <name>untitled</name>
-            <styleUrl>#stylesel_287</styleUrl>
-            <Point id="geom_287">
+            <styleUrl>#stylesel_268</styleUrl>
+            <Point id="geom_268">
                 <coordinates>-122.44769,37.750018,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7013/6504553339_cbdae34377.jpg</description>
         </Placemark>
-        <Placemark id="feat_292">
+        <Placemark id="feat_273">
             <name>foggy sunset</name>
-            <styleUrl>#stylesel_288</styleUrl>
-            <Point id="geom_288">
+            <styleUrl>#stylesel_269</styleUrl>
+            <Point id="geom_269">
                 <coordinates>-122.448291,37.750527,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7019/6504552025_b384099807.jpg</description>
         </Placemark>
-        <Placemark id="feat_293">
+        <Placemark id="feat_274">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_289</styleUrl>
-            <Point id="geom_289">
+            <styleUrl>#stylesel_270</styleUrl>
+            <Point id="geom_270">
                 <coordinates>-122.424259,37.827243,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7152/6504568121_94a442a031.jpg</description>
         </Placemark>
-        <Placemark id="feat_294">
+        <Placemark id="feat_275">
             <name>Sunset</name>
-            <styleUrl>#stylesel_290</styleUrl>
-            <Point id="geom_290">
+            <styleUrl>#stylesel_271</styleUrl>
+            <Point id="geom_271">
                 <coordinates>-122.448034,37.750527,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7151/6504554587_0ae5ee9cce.jpg</description>
         </Placemark>
-        <Placemark id="feat_295">
+        <Placemark id="feat_276">
             <name>Alcatraz overview</name>
-            <styleUrl>#stylesel_291</styleUrl>
-            <Point id="geom_291">
+            <styleUrl>#stylesel_272</styleUrl>
+            <Point id="geom_272">
                 <coordinates>-122.418937,37.825243,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7027/6504561619_bf9fcf01e0.jpg</description>
         </Placemark>
-        <Placemark id="feat_296">
+        <Placemark id="feat_277">
             <name>Alcatraz</name>
-            <styleUrl>#stylesel_292</styleUrl>
-            <Point id="geom_292">
+            <styleUrl>#stylesel_273</styleUrl>
+            <Point id="geom_273">
                 <coordinates>-122.424602,37.827446,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7148/6504562823_559a3b5558.jpg</description>
         </Placemark>
-        <Placemark id="feat_297">
+        <Placemark id="feat_278">
             <name>San Francisco at night</name>
-            <styleUrl>#stylesel_293</styleUrl>
-            <Point id="geom_293">
+            <styleUrl>#stylesel_274</styleUrl>
+            <Point id="geom_274">
                 <coordinates>-122.448377,37.75124,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7163/6504556867_46b99dd323.jpg</description>
         </Placemark>
-        <Placemark id="feat_298">
+        <Placemark id="feat_279">
             <name>Alcatraz und die Ein-Mann-Zelle</name>
-            <styleUrl>#stylesel_294</styleUrl>
-            <Point id="geom_294">
+            <styleUrl>#stylesel_275</styleUrl>
+            <Point id="geom_275">
                 <coordinates>-122.424173,37.827751,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7164/6504566621_0ccd798a8a.jpg</description>
         </Placemark>
-        <Placemark id="feat_299">
+        <Placemark id="feat_280">
             <name>Golden Gate Bridge von weitem</name>
-            <styleUrl>#stylesel_295</styleUrl>
-            <Point id="geom_295">
+            <styleUrl>#stylesel_276</styleUrl>
+            <Point id="geom_276">
                 <coordinates>-122.423744,37.826632,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7022/6504570981_f314342545.jpg</description>
         </Placemark>
-        <Placemark id="feat_300">
+        <Placemark id="feat_281">
             <name>Alamo Square</name>
-            <styleUrl>#stylesel_296</styleUrl>
-            <Point id="geom_296">
+            <styleUrl>#stylesel_277</styleUrl>
+            <Point id="geom_277">
                 <coordinates>-122.434902,37.776549,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7170/6504543383_b428b23453.jpg</description>
         </Placemark>
-        <Placemark id="feat_301">
+        <Placemark id="feat_282">
             <name>Alcatraz - Aussichtsturm</name>
-            <styleUrl>#stylesel_297</styleUrl>
-            <Point id="geom_297">
+            <styleUrl>#stylesel_278</styleUrl>
+            <Point id="geom_278">
                 <coordinates>-122.422714,37.827039,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7015/6504565601_f15f05a882.jpg</description>
         </Placemark>
-        <Placemark id="feat_302">
+        <Placemark id="feat_283">
             <name>Harbor</name>
-            <styleUrl>#stylesel_298</styleUrl>
-            <Point id="geom_298">
+            <styleUrl>#stylesel_279</styleUrl>
+            <Point id="geom_279">
                 <coordinates>-122.400827,37.80507,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7013/6504558577_a8a1d0df33.jpg</description>
         </Placemark>
-        <Placemark id="feat_303">
+        <Placemark id="feat_284">
             <name>Blick von Alcatraz zum Festland</name>
-            <styleUrl>#stylesel_299</styleUrl>
-            <Point id="geom_299">
+            <styleUrl>#stylesel_280</styleUrl>
+            <Point id="geom_280">
                 <coordinates>-122.421941,37.824971,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7023/6504569585_668279e0e6.jpg</description>
         </Placemark>
-        <Placemark id="feat_304">
+        <Placemark id="feat_285">
             <name>Alamo Square</name>
-            <styleUrl>#stylesel_300</styleUrl>
-            <Point id="geom_300">
+            <styleUrl>#stylesel_281</styleUrl>
+            <Point id="geom_281">
                 <coordinates>-122.433967,37.776218,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7002/6504542247_b2f3be73fc.jpg</description>
         </Placemark>
-        <Placemark id="feat_305">
+        <Placemark id="feat_286">
             <name>Temptation</name>
-            <styleUrl>#stylesel_301</styleUrl>
-            <Point id="geom_301">
+            <styleUrl>#stylesel_282</styleUrl>
+            <Point id="geom_282">
                 <coordinates>-122.476834,37.810666,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7170/6503519483_1e305b46dd.jpg</description>
         </Placemark>
-        <Placemark id="feat_306">
+        <Placemark id="feat_287">
             <name>Under the Cherry Moon</name>
-            <styleUrl>#stylesel_302</styleUrl>
-            <Point id="geom_302">
+            <styleUrl>#stylesel_283</styleUrl>
+            <Point id="geom_283">
                 <coordinates>-122.451961,37.80613,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7019/6501094659_aa3e599012.jpg</description>
         </Placemark>
-        <Placemark id="feat_307">
+        <Placemark id="feat_288">
             <name>San Francisco - Pic 11</name>
-            <styleUrl>#stylesel_303</styleUrl>
-            <Point id="geom_303">
+            <styleUrl>#stylesel_284</styleUrl>
+            <Point id="geom_284">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7172/6499165953_994676148d.jpg</description>
         </Placemark>
-        <Placemark id="feat_308">
+        <Placemark id="feat_289">
             <name>San Francisco - Pic 09</name>
-            <styleUrl>#stylesel_304</styleUrl>
-            <Point id="geom_304">
+            <styleUrl>#stylesel_285</styleUrl>
+            <Point id="geom_285">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7019/6499165157_be590ddfe0.jpg</description>
         </Placemark>
-        <Placemark id="feat_309">
+        <Placemark id="feat_290">
             <name>San Francisco - Pic 08</name>
-            <styleUrl>#stylesel_305</styleUrl>
-            <Point id="geom_305">
+            <styleUrl>#stylesel_286</styleUrl>
+            <Point id="geom_286">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7153/6499164677_55b96ea1c3.jpg</description>
         </Placemark>
-        <Placemark id="feat_310">
+        <Placemark id="feat_291">
             <name>San Francisco - Pic 03</name>
-            <styleUrl>#stylesel_306</styleUrl>
-            <Point id="geom_306">
+            <styleUrl>#stylesel_287</styleUrl>
+            <Point id="geom_287">
                 <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7012/6499162979_d268213cb6.jpg</description>
         </Placemark>
-        <Placemark id="feat_311">
+        <Placemark id="feat_292">
             <name>San Francisco - Pic 02</name>
-            <styleUrl>#stylesel_307</styleUrl>
-            <Point id="geom_307">
+            <styleUrl>#stylesel_288</styleUrl>
+            <Point id="geom_288">
                 <coordinates>-122.481851,37.828565,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7035/6499162779_ec888c4f33.jpg</description>
         </Placemark>
-        <Placemark id="feat_312">
+        <Placemark id="feat_293">
             <name>San Francisco - Pic 07</name>
-            <styleUrl>#stylesel_308</styleUrl>
-            <Point id="geom_308">
+            <styleUrl>#stylesel_289</styleUrl>
+            <Point id="geom_289">
                 <coordinates>-122.406148,37.79232,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7017/6499164313_a8797b580a.jpg</description>
         </Placemark>
-        <Placemark id="feat_313">
+        <Placemark id="feat_294">
             <name>San Francisco - Pic 17</name>
-            <styleUrl>#stylesel_309</styleUrl>
-            <Point id="geom_309">
+            <styleUrl>#stylesel_290</styleUrl>
+            <Point id="geom_290">
                 <coordinates>-122.446939,37.754633,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7151/6499167767_73b2cafccd.jpg</description>
         </Placemark>
-        <Placemark id="feat_314">
+        <Placemark id="feat_295">
             <name>San Francisco - Pic 18</name>
-            <styleUrl>#stylesel_310</styleUrl>
-            <Point id="geom_310">
+            <styleUrl>#stylesel_291</styleUrl>
+            <Point id="geom_291">
                 <coordinates>-122.446939,37.754633,0.0</coordinates>
             </Point>
             <description>http://farm8.staticflickr.com/7155/6499168161_d7e142a191.jpg</description>

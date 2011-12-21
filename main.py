@@ -21,11 +21,13 @@ def makeKML(thePhotos, filename):
 	for photo in thePhotos:
 		#print(photo['flickr'])
 		pnt = kml.newpoint()
+		# try this in case we get a non-ascii character that can't be encoded
 		try:
 			name = unicode(photo['title'])
 		except:
 			name = 'untitled'
 		pnt.name=name
+		# add the Flickr link to the photo's description
 		pnt.description=photo['flickr']
 		pnt.coords=[(photo['lon'],photo['lat'])]
 		pnt.iconstyle.color = photo['iconcolor']
@@ -54,10 +56,11 @@ for i in range(len(titlesList)):
 # photos taken in relatively the same area are colored the same
 locationData = parse_clusters("geotag", photos)
 locationClusters = locationData['photos']
-locationClusterData = locationData['clusters']
 makeKML(locationClusters, 'location-cluster.kml')
 
 # returns a kml that identifies new landmarks based on previous clusters
+# also returns a text file of a list of the landmarks
+locationClusterData = locationData['clusters']
 landmarks = []
 for entry in locationClusterData:
 	#print(str(entry['lat']) + ', ' + str(entry['lon']))
