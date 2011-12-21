@@ -1126,388 +1126,388 @@
             </Point>
         </Placemark>
         <Placemark id="feat_105">
-            <name>ゴールデンゲート・ブリッジ</name>
+            <name>Cavallo Point</name>
             <styleUrl>#stylesel_102</styleUrl>
             <Point id="geom_102">
-                <coordinates>-122.47859,37.81959,0.0</coordinates>
+                <coordinates>-122.476959,37.831345,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_106">
-            <name>Twin Peaks</name>
+            <name>CONZELMAN RD/Kirby Cove</name>
             <styleUrl>#stylesel_103</styleUrl>
             <Point id="geom_103">
-                <coordinates>-122.4474315,37.7521662,0.0</coordinates>
+                <coordinates>-122.48402,37.82952,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_107">
-            <name>Twin Peaks</name>
+            <name>CONZELMAN RD/Kirby Cove</name>
             <styleUrl>#stylesel_104</styleUrl>
             <Point id="geom_104">
-                <coordinates>-122.4474315,37.7521662,0.0</coordinates>
+                <coordinates>-122.48354,37.82944,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_108">
-            <name>Twin Peaks</name>
+            <name>Presidio</name>
             <styleUrl>#stylesel_105</styleUrl>
             <Point id="geom_105">
-                <coordinates>-122.4453083,37.7534153,0.0</coordinates>
+                <coordinates>-122.4750292,37.7978488,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_109">
-            <name>Twin Peaks</name>
+            <name>Presidio</name>
             <styleUrl>#stylesel_106</styleUrl>
             <Point id="geom_106">
-                <coordinates>-122.4453083,37.7534153,0.0</coordinates>
+                <coordinates>-122.4750292,37.7978488,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_110">
-            <name>Tank Hill Park</name>
+            <name>Presidio of San Francisco</name>
             <styleUrl>#stylesel_107</styleUrl>
             <Point id="geom_107">
-                <coordinates>-122.447623,37.759938,0.0</coordinates>
+                <coordinates>-122.4750292,37.7978488,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_111">
-            <name>Tank Hill Park</name>
+            <name>Presidio of San Francisco</name>
             <styleUrl>#stylesel_108</styleUrl>
             <Point id="geom_108">
-                <coordinates>-122.447623,37.759938,0.0</coordinates>
+                <coordinates>-122.4750292,37.7978488,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_112">
-            <name>Alvarado Elementary School</name>
+            <name>Golden Gate National Recreation Area</name>
             <styleUrl>#stylesel_109</styleUrl>
             <Point id="geom_109">
-                <coordinates>-122.438582,37.753541,0.0</coordinates>
+                <coordinates>-122.5069785,37.8305311,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_113">
-            <name>Chan Chan Cafe Cubano Restaurant</name>
+            <name>Golden Gate National Recreation Area</name>
             <styleUrl>#stylesel_110</styleUrl>
             <Point id="geom_110">
-                <coordinates>-122.443407,37.760471,0.0</coordinates>
+                <coordinates>-122.5069785,37.8305311,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_114">
-            <name>Rooftop Elementary School: Alternative Elementary</name>
+            <name>Warming Hut Bookstore &amp; Cafe</name>
             <styleUrl>#stylesel_111</styleUrl>
             <Point id="geom_111">
-                <coordinates>-122.443582,37.75493,0.0</coordinates>
+                <coordinates>-122.470693,37.808326,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_115">
-            <name>United States Government</name>
+            <name>House of Air</name>
             <styleUrl>#stylesel_112</styleUrl>
             <Point id="geom_112">
-                <coordinates>-122.437412,37.760839,0.0</coordinates>
+                <coordinates>-122.468794,37.804901,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_116">
-            <name>Twin Peaks Summit</name>
+            <name>Crissy Field Picnic Area</name>
             <styleUrl>#stylesel_113</styleUrl>
             <Point id="geom_113">
-                <coordinates>-122.447208,37.753904,0.0</coordinates>
+                <coordinates>-122.4693,37.806722,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_117">
-            <name>Bikram's Yoga College of India</name>
+            <name>Planet Granite</name>
             <styleUrl>#stylesel_114</styleUrl>
             <Point id="geom_114">
-                <coordinates>-122.437938,37.757476,0.0</coordinates>
+                <coordinates>-122.468396,37.804431,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_118">
-            <name>California Pacific Medical Center: Coming Home Hospice</name>
+            <name>San Francisco Gymnastics</name>
             <styleUrl>#stylesel_115</styleUrl>
             <Point id="geom_115">
-                <coordinates>-122.437053,37.76043,0.0</coordinates>
+                <coordinates>-122.465778,37.802976,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_119">
-            <name>Wizard's Clean Team</name>
+            <name>La Petite Baleen Swim School</name>
             <styleUrl>#stylesel_116</styleUrl>
             <Point id="geom_116">
-                <coordinates>-122.444227,37.760582,0.0</coordinates>
+                <coordinates>-122.4691,37.80524,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_120">
-            <name>Queen Malika Cafe</name>
+            <name>Roaring Mouse Cycles</name>
             <styleUrl>#stylesel_117</styleUrl>
             <Point id="geom_117">
-                <coordinates>-122.438678,37.760783,0.0</coordinates>
+                <coordinates>-122.468588,37.805214,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_121">
-            <name>Kite Hill Canines</name>
+            <name>Crissy Field Airplane Hangars</name>
             <styleUrl>#stylesel_118</styleUrl>
             <Point id="geom_118">
-                <coordinates>-122.442211,37.758927,0.0</coordinates>
+                <coordinates>-122.468719,37.805469,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_122">
-            <name>Kite Hill Canines</name>
+            <name>Torpedo Wharf</name>
             <styleUrl>#stylesel_119</styleUrl>
             <Point id="geom_119">
-                <coordinates>-122.442211,37.758927,0.0</coordinates>
+                <coordinates>-122.46995,37.809186,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_123">
-            <name>Castro Senior Center</name>
+            <name>Gulf of the Farallons National Marine Sanctuary</name>
             <styleUrl>#stylesel_120</styleUrl>
             <Point id="geom_120">
-                <coordinates>-122.437298,37.760268,0.0</coordinates>
+                <coordinates>-122.467088,37.805435,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_124">
-            <name>Maureen Schilling Skin Care</name>
+            <name>US Post Office</name>
             <styleUrl>#stylesel_121</styleUrl>
             <Point id="geom_121">
-                <coordinates>-122.441592,37.754436,0.0</coordinates>
+                <coordinates>-122.473387,37.80676,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_125">
-            <name>Massage San Francisco</name>
+            <name>Groundspring Org</name>
             <styleUrl>#stylesel_122</styleUrl>
             <Point id="geom_122">
-                <coordinates>-122.446943,37.760121,0.0</coordinates>
+                <coordinates>-122.4723,37.806892,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_126">
-            <name>Joelle Dussuyer L.Ac.</name>
+            <name>USF Presidio Building</name>
             <styleUrl>#stylesel_123</styleUrl>
             <Point id="geom_123">
-                <coordinates>-122.437793,37.760911,0.0</coordinates>
+                <coordinates>-122.46785,37.803791,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_127">
-            <name>Adorabella's</name>
+            <name>SoccerSculpt</name>
             <styleUrl>#stylesel_124</styleUrl>
             <Point id="geom_124">
-                <coordinates>-122.438357,37.760618,0.0</coordinates>
+                <coordinates>-122.467045,37.804358,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_128">
-            <name>Eureka</name>
+            <name>west bluff picnic area</name>
             <styleUrl>#stylesel_125</styleUrl>
             <Point id="geom_125">
-                <coordinates>-122.437008,37.754966,0.0</coordinates>
+                <coordinates>-122.469755,37.807434,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_129">
-            <name>Rooftop Elementary &amp; Middle</name>
+            <name>Accelerate Sports Medicine</name>
             <styleUrl>#stylesel_126</styleUrl>
             <Point id="geom_126">
-                <coordinates>-122.444548,37.757697,0.0</coordinates>
+                <coordinates>-122.46785,37.803935,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_130">
-            <name>Castro Vacation Rentals</name>
+            <name>North San Francisco</name>
             <styleUrl>#stylesel_127</styleUrl>
             <Point id="geom_127">
-                <coordinates>-122.438559,37.760085,0.0</coordinates>
+                <coordinates>-122.4523855,37.7953014,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_131">
-            <name>FRESH Home Staging</name>
+            <name>North San Francisco</name>
             <styleUrl>#stylesel_128</styleUrl>
             <Point id="geom_128">
-                <coordinates>-122.437659,37.754294,0.0</coordinates>
+                <coordinates>-122.4523855,37.7953014,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_132">
-            <name>Ashbury Heights</name>
+            <name>Twin Peaks</name>
             <styleUrl>#stylesel_129</styleUrl>
             <Point id="geom_129">
-                <coordinates>-122.4453083,37.7653275,0.0</coordinates>
+                <coordinates>-122.4474315,37.7521662,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_133">
-            <name>Ashbury Heights</name>
+            <name>Twin Peaks</name>
             <styleUrl>#stylesel_130</styleUrl>
             <Point id="geom_130">
-                <coordinates>-122.4453083,37.7653275,0.0</coordinates>
+                <coordinates>-122.4474315,37.7521662,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_134">
-            <name>Marina</name>
+            <name>Twin Peaks</name>
             <styleUrl>#stylesel_131</styleUrl>
             <Point id="geom_131">
-                <coordinates>-122.4368151,37.8036667,0.0</coordinates>
+                <coordinates>-122.4453083,37.7534153,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_135">
-            <name>Marina</name>
+            <name>Twin Peaks</name>
             <styleUrl>#stylesel_132</styleUrl>
             <Point id="geom_132">
-                <coordinates>-122.4368151,37.8036667,0.0</coordinates>
+                <coordinates>-122.4453083,37.7534153,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_136">
-            <name>Presidio of San Francisco</name>
+            <name>Tank Hill Park</name>
             <styleUrl>#stylesel_133</styleUrl>
             <Point id="geom_133">
-                <coordinates>-122.4750292,37.7978488,0.0</coordinates>
+                <coordinates>-122.447623,37.759938,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_137">
-            <name>Presidio of San Francisco</name>
+            <name>Tank Hill Park</name>
             <styleUrl>#stylesel_134</styleUrl>
             <Point id="geom_134">
-                <coordinates>-122.4750292,37.7978488,0.0</coordinates>
+                <coordinates>-122.447623,37.759938,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_138">
-            <name>Crissy Field Center - Temporary Relocation</name>
+            <name>Alvarado Elementary School</name>
             <styleUrl>#stylesel_135</styleUrl>
             <Point id="geom_135">
-                <coordinates>-122.449074,37.805799,0.0</coordinates>
+                <coordinates>-122.438582,37.753541,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_139">
-            <name>Palace of Fine Arts</name>
+            <name>Chan Chan Cafe Cubano Restaurant</name>
             <styleUrl>#stylesel_136</styleUrl>
             <Point id="geom_136">
-                <coordinates>-122.448507,37.802987,0.0</coordinates>
+                <coordinates>-122.443407,37.760471,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_140">
-            <name>Exploratorium</name>
+            <name>Rooftop Elementary School: Alternative Elementary</name>
             <styleUrl>#stylesel_137</styleUrl>
             <Point id="geom_137">
-                <coordinates>-122.448345,37.80418,0.0</coordinates>
+                <coordinates>-122.443582,37.75493,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_141">
-            <name>Palace of Fine Arts</name>
+            <name>United States Government</name>
             <styleUrl>#stylesel_138</styleUrl>
             <Point id="geom_138">
-                <coordinates>-122.448371,37.802852,0.0</coordinates>
+                <coordinates>-122.437412,37.760839,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_142">
-            <name>St. Francis Yacht Club</name>
+            <name>Twin Peaks Summit</name>
             <styleUrl>#stylesel_139</styleUrl>
             <Point id="geom_139">
-                <coordinates>-122.446857,37.807182,0.0</coordinates>
+                <coordinates>-122.447208,37.753904,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_143">
-            <name>The Bay School of San Francisco</name>
+            <name>Bikram's Yoga College of India</name>
             <styleUrl>#stylesel_140</styleUrl>
             <Point id="geom_140">
-                <coordinates>-122.455781,37.800595,0.0</coordinates>
+                <coordinates>-122.437938,37.757476,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_144">
-            <name>The Presidio Log Cabin &amp; Lawn</name>
+            <name>California Pacific Medical Center: Coming Home Hospice</name>
             <styleUrl>#stylesel_141</styleUrl>
             <Point id="geom_141">
-                <coordinates>-122.457285,37.800292,0.0</coordinates>
+                <coordinates>-122.437053,37.76043,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_145">
-            <name>Tides</name>
+            <name>Wizard's Clean Team</name>
             <styleUrl>#stylesel_142</styleUrl>
             <Point id="geom_142">
-                <coordinates>-122.452605,37.800561,0.0</coordinates>
+                <coordinates>-122.444227,37.760582,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_146">
-            <name>Lucasfilm Ltd</name>
+            <name>Queen Malika Cafe</name>
             <styleUrl>#stylesel_143</styleUrl>
             <Point id="geom_143">
-                <coordinates>-122.450001,37.800434,0.0</coordinates>
+                <coordinates>-122.438678,37.760783,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_147">
-            <name>La Terrasse</name>
+            <name>Kite Hill Canines</name>
             <styleUrl>#stylesel_144</styleUrl>
             <Point id="geom_144">
-                <coordinates>-122.456244,37.801889,0.0</coordinates>
+                <coordinates>-122.442211,37.758927,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_148">
-            <name>SenSpa</name>
+            <name>Kite Hill Canines</name>
             <styleUrl>#stylesel_145</styleUrl>
             <Point id="geom_145">
-                <coordinates>-122.450414,37.802092,0.0</coordinates>
+                <coordinates>-122.442211,37.758927,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_149">
-            <name>Geographic Expeditions</name>
+            <name>Castro Senior Center</name>
             <styleUrl>#stylesel_146</styleUrl>
             <Point id="geom_146">
-                <coordinates>-122.451523,37.800759,0.0</coordinates>
+                <coordinates>-122.437298,37.760268,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_150">
-            <name>Friends of the Urban Forest</name>
+            <name>Maureen Schilling Skin Care</name>
             <styleUrl>#stylesel_147</styleUrl>
             <Point id="geom_147">
-                <coordinates>-122.451124,37.8008,0.0</coordinates>
+                <coordinates>-122.441592,37.754436,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_151">
-            <name>Presidio Trust</name>
+            <name>Massage San Francisco</name>
             <styleUrl>#stylesel_148</styleUrl>
             <Point id="geom_148">
-                <coordinates>-122.457239,37.800484,0.0</coordinates>
+                <coordinates>-122.446943,37.760121,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_152">
-            <name>Beach Hut Café</name>
+            <name>Joelle Dussuyer L.Ac.</name>
             <styleUrl>#stylesel_149</styleUrl>
             <Point id="geom_149">
-                <coordinates>-122.449074,37.805842,0.0</coordinates>
+                <coordinates>-122.437793,37.760911,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_153">
-            <name>Presidio Graduate School</name>
+            <name>Adorabella's</name>
             <styleUrl>#stylesel_150</styleUrl>
             <Point id="geom_150">
-                <coordinates>-122.456004,37.801264,0.0</coordinates>
+                <coordinates>-122.438357,37.760618,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_154">
-            <name>The Pachamama Alliance</name>
+            <name>Eureka</name>
             <styleUrl>#stylesel_151</styleUrl>
             <Point id="geom_151">
-                <coordinates>-122.451347,37.80057,0.0</coordinates>
+                <coordinates>-122.437008,37.754966,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_155">
-            <name>Presidio Sport &amp; Medicine</name>
+            <name>Rooftop Elementary &amp; Middle</name>
             <styleUrl>#stylesel_152</styleUrl>
             <Point id="geom_152">
-                <coordinates>-122.450223,37.801744,0.0</coordinates>
+                <coordinates>-122.444548,37.757697,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_156">
-            <name>SF Greenclean, LLC.</name>
+            <name>Castro Vacation Rentals</name>
             <styleUrl>#stylesel_153</styleUrl>
             <Point id="geom_153">
-                <coordinates>-122.454674,37.801586,0.0</coordinates>
+                <coordinates>-122.438559,37.760085,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_157">
-            <name>Presidio Fitness</name>
+            <name>FRESH Home Staging</name>
             <styleUrl>#stylesel_154</styleUrl>
             <Point id="geom_154">
-                <coordinates>-122.454568,37.801434,0.0</coordinates>
+                <coordinates>-122.437659,37.754294,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_158">
-            <name>Presidio</name>
+            <name>Ashbury Heights</name>
             <styleUrl>#stylesel_155</styleUrl>
             <Point id="geom_155">
-                <coordinates>-122.4750292,37.7978488,0.0</coordinates>
+                <coordinates>-122.4453083,37.7653275,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_159">
-            <name>Presidio</name>
+            <name>Ashbury Heights</name>
             <styleUrl>#stylesel_156</styleUrl>
             <Point id="geom_156">
-                <coordinates>-122.4750292,37.7978488,0.0</coordinates>
+                <coordinates>-122.4453083,37.7653275,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_160">

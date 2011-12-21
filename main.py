@@ -2,6 +2,7 @@ import os
 import glob
 # using the simplekml modules http://code.google.com/p/simplekml/
 import simplekml
+import sys
 from parsephotos import parse_clusters
 from cluster.utility import returnColor
 from places import newLandmarks
@@ -63,11 +64,18 @@ for entry in locationClusterData:
 	landmarks.append(newLandmarks(str(entry['lat']),str(entry['lon'])))
 
 kml = simplekml.Kml()
+landmarksText = open('landmarks.txt', 'w')
 for landmark in landmarks:
 	for place in landmark:
 		pnt = kml.newpoint(name=place['name'], coords=[(place['lon'],place['lat'])])
 		pnt.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png'
+		try:
+			name = unicode(place['name'])
+			landmarksText.write(name + '\n')
+		except:
+			pass
 	kml.save('landmarks.kml')
+landmarksText.close()
 
 # returns a kml that clusters photos based on date
 # photos taken are categorized into three predefined buckets
