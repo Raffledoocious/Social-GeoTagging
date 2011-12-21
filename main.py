@@ -18,7 +18,15 @@ def makeList(filename):
 def makeKML(thePhotos, filename):
 	kml = simplekml.Kml()
 	for photo in thePhotos:
-		pnt = kml.newpoint(name=photo['title'], coords=[(photo['lon'],photo['lat'])], description=photo['flickrurl'])
+		#print(photo['flickr'])
+		pnt = kml.newpoint()
+		try:
+			name = unicode(photo['title'])
+		except:
+			name = 'untitled'
+		pnt.name=name
+		pnt.description=photo['flickr']
+		pnt.coords=[(photo['lon'],photo['lat'])]
 		pnt.iconstyle.color = photo['iconcolor']
 		pnt.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png'
 	kml.save(filename)
@@ -51,7 +59,7 @@ makeKML(locationClusters, 'location-cluster.kml')
 # returns a kml that identifies new landmarks based on previous clusters
 landmarks = []
 for entry in locationClusterData:
-	print(str(entry['lat']) + ', ' + str(entry['lon']))
+	#print(str(entry['lat']) + ', ' + str(entry['lon']))
 	landmarks.append(newLandmarks(str(entry['lat']),str(entry['lon'])))
 
 kml = simplekml.Kml()
@@ -68,8 +76,8 @@ makeKML(dateClusters, 'date-clusters.kml')
 
 # returns a kml that clusters photos based on color
 # photos that are overall the same color are colored the same
-colorClusters = parse_clusters("color", photos)
-makeKML(colorClusters, 'color-cluster.kml')
+#colorClusters = parse_clusters("color", photos)
+#makeKML(colorClusters, 'color-cluster.kml')
 
 # returns a kml that clusters photos based on a tag
 # photos with a common tag are clustered by same color pin

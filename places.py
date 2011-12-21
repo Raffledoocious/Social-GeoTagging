@@ -16,7 +16,7 @@ RADIUS = 500
 
 def search(coords, radius):
 	url = GOOGLEMAPS + '?location=' + coords + '&radius=' + str(radius) + '&sensor=false&key=' + API_KEY + '&type=point_of_interest'
-	print(url)
+	#print(url)
 	result = simplejson.load(urllib.urlopen(url))
 	return result
 	
