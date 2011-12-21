@@ -125,15 +125,31 @@ def k_means(photos, centroids):
     
     return photos
 
+def write_results(cluster_data):
+    """
+    Write out the result data
+    """
+    
+    f = open('cluster\geotag_data.txt', 'w')
+    f.write('GeoTag Cluster Information \n\n')
+    
+    #write out each cluster
+    for cluster in cluster_data:
+        f.write("Cluster Centered at: " + str(cluster['lat']) + " " + str(cluster['lon']) + "\n")
+        f.write("Color: " + cluster['color'] + '\n\n')
+        for photo in cluster['photos']:
+            f.write(photo['title'] + '\n')
+        f.write('\n\n')
+    
+    f.close()    
+    
 def cluster_photos(photos):
     """
     Clusters photos based on summation of their values
     
     photos: the photo dictionary
     
-    """
-     
-    clusters = {}    
+    """ 
     centroids = get_centroids(photos)
     
     #assign photos using k means
@@ -144,6 +160,7 @@ def cluster_photos(photos):
     
     #sort the clusters
     sorted_clusters = sorted(centroids, key=lambda k:len(k['photos']), reverse=True)
+    write_results(sorted_clusters)
     
     return {'photos':photos, 'clusters':sorted_clusters}
 

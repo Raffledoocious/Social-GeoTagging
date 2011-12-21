@@ -5,6 +5,7 @@ Clusters photos based on the color assigning a relative color for the pin
 import utility
 from PIL import Image
 import math
+from collections import defaultdict
 
 def average_color(photo):
     """
@@ -44,6 +45,7 @@ def most_common_color(photo):
     """
     Sets the most common color as the image
     """
+    
     most_common = 0
     index = 0
     
@@ -71,13 +73,36 @@ def append_color_pin(photo):
     photo['iconcolor'] = color_hex
     
     return photo
+
+def write_results(cluster_dict):
+    """
+    Prints out the final cluster data for use by user
+    """
+    f = open('cluster\color_data.txt', 'w')
+    
+    f.write('Color Cluster Information \n\n')
+    
+    for key in cluster_dict.keys():
+        f.write('Photos with color: ' + key + '\n')
+        list = cluster_dict[key]
+        for photo in list:
+            f.write(photo['title'] + '\n')
+        f.write('\n\n')
+    f.close()
     
 def parse_color_clusters(photos):
     """
     Parses out photo clusters
     """
+    #dict which holds the final photo clusters for printint out data
+    
+    cluster_dict = defaultdict(list)
     
     for photo in photos:
         photo = append_color_pin(photo)
+        cluster_dict[photo['iconcolor']].append(photo)
+    
+    write_results(cluster_dict)
+        
         
     return photos

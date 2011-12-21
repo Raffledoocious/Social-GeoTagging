@@ -4,6 +4,7 @@ Tag clustering
 
 """
 from utility import gen_hex_color
+from collections import defaultdict
 
 def build_tag_dict(photos):
     """
@@ -31,6 +32,7 @@ def assign_colors(photos, tags):
     Assigns photo color to most common tag
     """
     used_colors = {}
+    cluster_info = defaultdict(list)
     
     #assign color of photo to the color of the most related tag
     for photo in photos:
@@ -53,9 +55,34 @@ def assign_colors(photos, tags):
         if tags[best_tag]['color'] is None:
             tags[best_tag]['color'] = gen_hex_color(used_colors)
         
-        photo['iconcolor'] = tags[best_tag]['color']                 
+        photo['iconcolor'] = tags[best_tag]['color']
+        cluster_info[best_tag].append(photo)
+        
+    return cluster_info                
                     
-
+def write_results(cluster_data):
+    """
+    Write out results for the user
+    """
+    
+    f = open('cluster\\tag_data.txt', 'w')
+    f.write('Tag Cluster Information \n\n')
+    
+    keys = cluster_data.keys()
+    for key in keys:
+        photos = cluster_data[key]
+        
+        f.write('Common Tag: ' + key + '\n')
+        if len(photos) > 0:
+            f.write('Color: ' + photos[0]['iconcolor'] + '\n\n')
+            
+        for photo in photos:
+            f.write(photo['title'] + '\n')
+        
+        f.write('\n\n')
+        
+    f.close()
+        
 def parse_tag_clusters(photos):
     """
     Does analysis on image tags from images and clusters them
@@ -65,6 +92,6 @@ def parse_tag_clusters(photos):
     
     
     tags = build_tag_dict(photos)
-    assign_colors(photos, tags)
-    
+    cluster_info = assign_colors(photos, tags)
+    write_results(cluster_info)
     return photos                

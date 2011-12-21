@@ -51,12 +51,13 @@ photos = []
 # .rstrip removes the newline characters from strings
 for i in range(len(titlesList)):
 	photos.append({'title':titlesList[i].rstrip('\r\n'), 'lat':float(latsList[i].rstrip('\r\n')), 'lon':float(lonsList[i].rstrip('\r\n')), 'flickr':flickrurlsList[i].rstrip('\r\n'), 'file':files[i].rstrip('\r\n'), 'date':dateslist[i].rstrip('\r\n'), 'tags':tagslist[i].rstrip('\r\n'), 'iconcolor':'ffffffff'})
-	
+
 # returns a kml that clusters photos based on proximity
 # photos taken in relatively the same area are colored the same
 locationData = parse_clusters("geotag", photos)
 locationClusters = locationData['photos']
 makeKML(locationClusters, 'location-cluster.kml')
+
 
 # returns a kml that identifies new landmarks based on previous clusters
 # also returns a text file of a list of the landmarks
@@ -85,10 +86,12 @@ landmarksText.close()
 dateClusters = parse_clusters('date', photos)
 makeKML(dateClusters, 'date-clusters.kml')
 
+
 # returns a kml that clusters photos based on color
 # photos that are overall the same color are colored the same
-#colorClusters = parse_clusters("color", photos)
-#makeKML(colorClusters, 'color-cluster.kml')
+colorClusters = parse_clusters("color", photos)
+makeKML(colorClusters, 'color-cluster.kml')
+
 
 # returns a kml that clusters photos based on a tag
 # photos with a common tag are clustered by same color pin
